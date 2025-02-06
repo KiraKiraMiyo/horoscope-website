@@ -1,0 +1,955 @@
+{
+    "zodiac_signs": [
+        {
+            "name": "Aries",
+            "dates": "March 21 - April 19",
+            "symbol": "The Ram",
+            "element": "Fire",
+            "ruling_planet": "Mars",
+            "quality": "Cardinal",
+            "strengths": [
+                "Courageous",
+                "determined",
+                "confident",
+                "enthusiastic",
+                "optimistic",
+                "honest",
+                "passionate"
+            ],
+            "weaknesses": [
+                "Impatient",
+                "moody",
+                "short-tempered",
+                "impulsive",
+                "aggressive"
+            ],
+            "personality_traits": {
+                "description": "Aries, the first sign of the zodiac, is known for its fiery and dynamic energy. As a cardinal fire sign, Aries is a natural leader, always ready to take initiative and charge ahead. Ruled by Mars, the planet of action and desire, Aries individuals are bold, competitive, and driven by their passions. They thrive on challenges and are not afraid to take risks.",
+                "positive_traits": [
+                    "Bold",
+                    "honest",
+                    "enthusiastic",
+                    "optimistic"
+                ],
+                "negative_traits": [
+                    "Impulsive",
+                    "impatient",
+                    "short-tempered"
+                ]
+            },
+            "love_and_relationships": {
+                "description": "In love, Aries is passionate, adventurous, and full of energy. They are romantic and love the thrill of the chase. Aries partners are loyal and protective, always ready to stand up for their loved ones.",
+                "compatible_signs": [
+                    "Leo",
+                    "Sagittarius",
+                    "Gemini",
+                    "Libra",
+                    "Aquarius"
+                ],
+                "challenging_signs": [
+                    "Taurus",
+                    "Capricorn"
+                ]
+            },
+            "career_and_finances": {
+                "description": "Aries individuals are natural-born leaders and excel in careers that allow them to take charge and make quick decisions. They thrive in competitive environments and are not afraid to take risks to achieve their goals.",
+                "suitable_careers": [
+                    "Entrepreneurship",
+                    "sales",
+                    "athletics",
+                    "military"
+                ],
+                "financial_advice": "Aries can be impulsive spenders. They should focus on budgeting and saving for the future."
+            },
+            "health_and_wellness": {
+                "description": "Aries rules the head and face, so they may be prone to headaches, migraines, or sinus issues. Their high energy levels and active lifestyle can sometimes lead to burnout or stress-related ailments.",
+                "health_tips": [
+                    "Engage in high-intensity workouts",
+                    "practice meditation",
+                    "avoid overexertion"
+                ]
+            },
+            "famous_people": [
+                "Lady Gaga",
+                "Robert Downey Jr.",
+                "Mariah Carey",
+                "Elton John",
+                "Emma Watson",
+                "Leonardo da Vinci"
+            ],
+            "key_advice": [
+                "Channel your energy into productive and positive outlets.",
+                "Practice patience and think before you act.",
+                "Embrace your natural leadership qualities but be open to collaboration.",
+                "Take time to rest and recharge to avoid burnout.",
+                "Stay true to your passions and let your enthusiasm inspire others."
+            ]
+        },
+        {
+            "name": "Taurus",
+            "dates": "April 20 - May 20",
+            "symbol": "The Bull",
+            "element": "Earth",
+            "ruling_planet": "Venus",
+            "quality": "Fixed",
+            "strengths": [
+                "Reliable",
+                "patient",
+                "practical",
+                "devoted",
+                "responsible",
+                "stable"
+            ],
+            "weaknesses": [
+                "Stubborn",
+                "possessive",
+                "uncompromising"
+            ],
+            "personality_traits": {
+                "description": "Taurus is an earth sign known for its grounded and practical nature. Ruled by Venus, the planet of love and beauty, Taurus individuals are sensual, loyal, and value stability. They are hardworking and determined, often achieving their goals through persistence and patience.",
+                "positive_traits": [
+                    "Reliable",
+                    "patient",
+                    "practical"
+                ],
+                "negative_traits": [
+                    "Stubborn",
+                    "possessive",
+                    "resistant to change"
+                ]
+            },
+            "love_and_relationships": {
+                "description": "Taurus is a loyal and devoted partner who values long-term relationships. They are romantic and enjoy the finer things in life, often expressing their love through acts of service and physical affection.",
+                "compatible_signs": [
+                    "Virgo",
+                    "Capricorn",
+                    "Cancer",
+                    "Pisces"
+                ],
+                "challenging_signs": [
+                    "Leo",
+                    "Aquarius"
+                ]
+            },
+            "career_and_finances": {
+                "description": "Taurus individuals excel in careers that require patience, persistence, and practicality. They are often drawn to fields related to finance, art, agriculture, and real estate.",
+                "suitable_careers": [
+                    "Banking",
+                    "art",
+                    "agriculture",
+                    "real estate"
+                ],
+                "financial_advice": "Taurus is naturally good with money but should avoid being too materialistic or resistant to change."
+            },
+            "health_and_wellness": {
+                "description": "Taurus rules the neck and throat, so they may be prone to issues like sore throats or thyroid problems. They should focus on maintaining a balanced diet and regular exercise.",
+                "health_tips": [
+                    "Practice yoga",
+                    "eat a balanced diet",
+                    "avoid overindulgence"
+                ]
+            },
+            "famous_people": [
+                "Adele",
+                "Dwayne Johnson",
+                "George Clooney",
+                "Queen Elizabeth II"
+            ],
+            "key_advice": [
+                "Embrace change and avoid being too stubborn.",
+                "Focus on building long-term stability.",
+                "Indulge in self-care and relaxation.",
+                "Stay grounded and practical in your decisions."
+            ]
+        },
+        {
+            "name": "Gemini",
+            "dates": "May 21 - June 20",
+            "symbol": "The Twins",
+            "element": "Air",
+            "ruling_planet": "Mercury",
+            "quality": "Mutable",
+            "strengths": [
+                "Adaptable",
+                "curious",
+                "communicative",
+                "witty",
+                "intelligent"
+            ],
+            "weaknesses": [
+                "Inconsistent",
+                "nervous",
+                "indecisive"
+            ],
+            "personality_traits": {
+                "description": "Gemini is an air sign known for its adaptability and intellectual curiosity. Ruled by Mercury, the planet of communication, Gemini individuals are quick-witted, sociable, and love to learn. They are often seen as the life of the party but can struggle with consistency and focus.",
+                "positive_traits": [
+                    "Adaptable",
+                    "curious",
+                    "communicative"
+                ],
+                "negative_traits": [
+                    "Inconsistent",
+                    "indecisive",
+                    "superficial"
+                ]
+            },
+            "love_and_relationships": {
+                "description": "Gemini is a playful and communicative partner who values intellectual connection. They enjoy variety and may struggle with commitment if they feel bored or restricted.",
+                "compatible_signs": [
+                    "Libra",
+                    "Aquarius",
+                    "Aries",
+                    "Leo"
+                ],
+                "challenging_signs": [
+                    "Virgo",
+                    "Pisces"
+                ]
+            },
+            "career_and_finances": {
+                "description": "Gemini individuals thrive in careers that involve communication, creativity, and variety. They excel in fields like journalism, marketing, teaching, and technology.",
+                "suitable_careers": [
+                    "Journalism",
+                    "marketing",
+                    "teaching",
+                    "technology"
+                ],
+                "financial_advice": "Gemini should avoid impulsive spending and focus on long-term financial planning."
+            },
+            "health_and_wellness": {
+                "description": "Gemini rules the arms, hands, and lungs, so they may be prone to respiratory issues or stress-related ailments. They should focus on activities that calm the mind and body.",
+                "health_tips": [
+                    "Practice deep breathing",
+                    "engage in mindfulness",
+                    "stay physically active"
+                ]
+            },
+            "famous_people": [
+                "Angelina Jolie",
+                "Kanye West",
+                "Johnny Depp",
+                "Marilyn Monroe"
+            ],
+            "key_advice": [
+                "Focus on consistency and follow-through.",
+                "Embrace your curiosity but avoid spreading yourself too thin.",
+                "Communicate openly and honestly in relationships.",
+                "Take time to relax and recharge."
+            ]
+        },
+        {
+            "name": "Cancer",
+            "dates": "June 21 - July 22",
+            "symbol": "The Crab",
+            "element": "Water",
+            "ruling_planet": "Moon",
+            "quality": "Cardinal",
+            "strengths": [
+                "Loyal",
+                "empathetic",
+                "protective",
+                "intuitive",
+                "caring"
+            ],
+            "weaknesses": [
+                "Moody",
+                "pessimistic",
+                "overly sensitive"
+            ],
+            "personality_traits": {
+                "description": "Cancer is a water sign known for its emotional depth and nurturing nature. Ruled by the Moon, Cancer individuals are highly intuitive, empathetic, and value family and home. They are protective of their loved ones but can be moody and overly sensitive.",
+                "positive_traits": [
+                    "Loyal",
+                    "empathetic",
+                    "protective"
+                ],
+                "negative_traits": [
+                    "Moody",
+                    "pessimistic",
+                    "overly sensitive"
+                ]
+            },
+            "love_and_relationships": {
+                "description": "Cancer is a devoted and caring partner who values emotional connection. They seek security and stability in relationships and are deeply loyal to their loved ones.",
+                "compatible_signs": [
+                    "Scorpio",
+                    "Pisces",
+                    "Taurus",
+                    "Virgo"
+                ],
+                "challenging_signs": [
+                    "Aries",
+                    "Libra"
+                ]
+            },
+            "career_and_finances": {
+                "description": "Cancer individuals excel in careers that involve caregiving, creativity, and emotional intelligence. They are often drawn to fields like nursing, teaching, art, and real estate.",
+                "suitable_careers": [
+                    "Nursing",
+                    "teaching",
+                    "art",
+                    "real estate"
+                ],
+                "financial_advice": "Cancer should focus on saving and avoid emotional spending."
+            },
+            "health_and_wellness": {
+                "description": "Cancer rules the chest and stomach, so they may be prone to digestive issues or stress-related ailments. They should focus on maintaining emotional balance and a healthy diet.",
+                "health_tips": [
+                    "Practice self-care",
+                    "eat a balanced diet",
+                    "engage in calming activities"
+                ]
+            },
+            "famous_people": [
+                "Tom Hanks",
+                "Selena Gomez",
+                "Elon Musk",
+                "Princess Diana"
+            ],
+            "key_advice": [
+                "Embrace your emotional depth but avoid being overly sensitive.",
+                "Focus on building a secure and stable environment.",
+                "Take time to nurture yourself and others.",
+                "Communicate openly about your feelings."
+            ]
+        },
+        {
+            "name": "Leo",
+            "dates": "July 23 - August 22",
+            "symbol": "The Lion",
+            "element": "Fire",
+            "ruling_planet": "Sun",
+            "quality": "Fixed",
+            "strengths": [
+                "Confident",
+                "generous",
+                "charismatic",
+                "creative",
+                "passionate"
+            ],
+            "weaknesses": [
+                "Arrogant",
+                "stubborn",
+                "self-centered"
+            ],
+            "personality_traits": {
+                "description": "Leo is a fire sign known for its confidence and charisma. Ruled by the Sun, Leo individuals are natural leaders who love to be in the spotlight. They are generous, creative, and passionate but can be stubborn and self-centered at times.",
+                "positive_traits": [
+                    "Confident",
+                    "generous",
+                    "charismatic"
+                ],
+                "negative_traits": [
+                    "Arrogant",
+                    "stubborn",
+                    "self-centered"
+                ]
+            },
+            "love_and_relationships": {
+                "description": "Leo is a romantic and passionate partner who values loyalty and admiration. They enjoy grand gestures and seek a partner who appreciates their warmth and generosity.",
+                "compatible_signs": [
+                    "Aries",
+                    "Sagittarius",
+                    "Gemini",
+                    "Libra"
+                ],
+                "challenging_signs": [
+                    "Taurus",
+                    "Scorpio"
+                ]
+            },
+            "career_and_finances": {
+                "description": "Leo individuals excel in careers that allow them to showcase their creativity and leadership skills. They are often drawn to fields like entertainment, management, and entrepreneurship.",
+                "suitable_careers": [
+                    "Entertainment",
+                    "management",
+                    "entrepreneurship"
+                ],
+                "financial_advice": "Leo should avoid overspending on luxury items and focus on long-term financial goals."
+            },
+            "health_and_wellness": {
+                "description": "Leo rules the heart and back, so they may be prone to heart-related issues or back pain. They should focus on maintaining a healthy lifestyle and regular exercise.",
+                "health_tips": [
+                    "Engage in cardiovascular exercise",
+                    "practice stress management",
+                    "maintain a balanced diet"
+                ]
+            },
+            "famous_people": [
+                "Barack Obama",
+                "Jennifer Lopez",
+                "Madonna",
+                "Chris Hemsworth"
+            ],
+            "key_advice": [
+                "Channel your confidence into positive endeavors.",
+                "Be mindful of others' feelings and avoid being self-centered.",
+                "Embrace your creativity and leadership qualities.",
+                "Take time to relax and recharge."
+            ]
+        },
+        {
+            "name": "Virgo",
+            "dates": "August 23 - September 22",
+            "symbol": "The Virgin",
+            "element": "Earth",
+            "ruling_planet": "Mercury",
+            "quality": "Mutable",
+            "strengths": [
+                "Analytical",
+                "practical",
+                "reliable",
+                "hardworking",
+                "kind"
+            ],
+            "weaknesses": [
+                "Overcritical",
+                "perfectionist",
+                "worrisome"
+            ],
+            "personality_traits": {
+                "description": "Virgo is an earth sign known for its analytical and practical nature. Ruled by Mercury, Virgo individuals are detail-oriented, hardworking, and value order and efficiency. They are kind and reliable but can be overly critical and perfectionistic.",
+                "positive_traits": [
+                    "Analytical",
+                    "practical",
+                    "reliable"
+                ],
+                "negative_traits": [
+                    "Overcritical",
+                    "perfectionist",
+                    "worrisome"
+                ]
+            },
+            "love_and_relationships": {
+                "description": "Virgo is a loyal and supportive partner who values stability and communication. They seek a partner who shares their values and is willing to work on the relationship.",
+                "compatible_signs": [
+                    "Taurus",
+                    "Capricorn",
+                    "Cancer",
+                    "Scorpio"
+                ],
+                "challenging_signs": [
+                    "Gemini",
+                    "Sagittarius"
+                ]
+            },
+            "career_and_finances": {
+                "description": "Virgo individuals excel in careers that require attention to detail and problem-solving skills. They are often drawn to fields like healthcare, accounting, and editing.",
+                "suitable_careers": [
+                    "Healthcare",
+                    "accounting",
+                    "editing"
+                ],
+                "financial_advice": "Virgo should avoid being overly frugal and focus on enjoying life while maintaining financial stability."
+            },
+            "health_and_wellness": {
+                "description": "Virgo rules the digestive system, so they may be prone to digestive issues or stress-related ailments. They should focus on maintaining a balanced diet and regular exercise.",
+                "health_tips": [
+                    "Eat a balanced diet",
+                    "practice mindfulness",
+                    "engage in regular exercise"
+                ]
+            },
+            "famous_people": [
+                "Beyoncé",
+                "Keanu Reeves",
+                "Mother Teresa",
+                "Freddie Mercury"
+            ],
+            "key_advice": [
+                "Avoid being overly critical of yourself and others.",
+                "Embrace your practical nature but allow room for spontaneity.",
+                "Focus on maintaining a healthy work-life balance.",
+                "Take time to relax and recharge."
+            ]
+        },
+        {
+            "name": "Libra",
+            "dates": "September 23 - October 22",
+            "symbol": "The Scales",
+            "element": "Air",
+            "ruling_planet": "Venus",
+            "quality": "Cardinal",
+            "strengths": [
+                "Diplomatic",
+                "social",
+                "charming",
+                "fair-minded",
+                "idealistic"
+            ],
+            "weaknesses": [
+                "Indecisive",
+                "avoidant",
+                "self-pitying"
+            ],
+            "personality_traits": {
+                "description": "Libra is an air sign known for its diplomatic and charming nature. Ruled by Venus, the planet of love and beauty, Libra individuals value harmony, balance, and relationships. They are social and fair-minded but can be indecisive and avoidant of conflict.",
+                "positive_traits": [
+                    "Diplomatic",
+                    "social",
+                    "charming"
+                ],
+                "negative_traits": [
+                    "Indecisive",
+                    "avoidant",
+                    "self-pitying"
+                ]
+            },
+            "love_and_relationships": {
+                "description": "Libra is a romantic and idealistic partner who values harmony and partnership. They seek a balanced and loving relationship but may struggle with making decisions.",
+                "compatible_signs": [
+                    "Gemini",
+                    "Aquarius",
+                    "Leo",
+                    "Sagittarius"
+                ],
+                "challenging_signs": [
+                    "Cancer",
+                    "Capricorn"
+                ]
+            },
+            "career_and_finances": {
+                "description": "Libra individuals excel in careers that involve communication, creativity, and diplomacy. They are often drawn to fields like law, art, and public relations.",
+                "suitable_careers": [
+                    "Law",
+                    "art",
+                    "public relations"
+                ],
+                "financial_advice": "Libra should avoid overspending on luxury items and focus on financial planning."
+            },
+            "health_and_wellness": {
+                "description": "Libra rules the kidneys and lower back, so they may be prone to issues in these areas. They should focus on maintaining balance and avoiding stress.",
+                "health_tips": [
+                    "Practice yoga",
+                    "maintain a balanced diet",
+                    "engage in relaxation techniques"
+                ]
+            },
+            "famous_people": [
+                "Kim Kardashian",
+                "Will Smith",
+                "Serena Williams",
+                "Mahatma Gandhi"
+            ],
+            "key_advice": [
+                "Work on making decisions confidently.",
+                "Embrace your diplomatic nature but avoid avoiding conflict.",
+                "Focus on maintaining balance in all areas of life.",
+                "Take time to relax and recharge."
+            ]
+        },
+        {
+            "name": "Scorpio",
+            "dates": "October 23 - November 21",
+            "symbol": "The Scorpion",
+            "element": "Water",
+            "ruling_planet": "Pluto (and Mars)",
+            "quality": "Fixed",
+            "strengths": [
+                "Passionate",
+                "resourceful",
+                "brave",
+                "loyal",
+                "determined",
+                "intuitive"
+            ],
+            "weaknesses": [
+                "Jealous",
+                "secretive",
+                "stubborn",
+                "manipulative"
+            ],
+            "personality_traits": {
+                "description": "Scorpio is a water sign known for its intensity, depth, and emotional power. Ruled by Pluto, the planet of transformation, Scorpios are magnetic, mysterious, and highly perceptive. They are deeply passionate and driven by their desires, often possessing a strong will and the ability to overcome any obstacle.",
+                "positive_traits": [
+                    "Loyal",
+                    "determined",
+                    "intuitive",
+                    "passionate"
+                ],
+                "negative_traits": [
+                    "Secretive",
+                    "jealous",
+                    "stubborn",
+                    "manipulative"
+                ]
+            },
+            "love_and_relationships": {
+                "description": "In love, Scorpio is deeply emotional, loyal, and passionate. They seek profound connections and are not afraid to dive into the depths of intimacy. Scorpios are protective of their partners and value trust above all else.",
+                "compatible_signs": [
+                    "Cancer",
+                    "Pisces",
+                    "Virgo",
+                    "Capricorn"
+                ],
+                "challenging_signs": [
+                    "Leo",
+                    "Aquarius"
+                ]
+            },
+            "career_and_finances": {
+                "description": "Scorpios excel in careers that require focus, determination, and the ability to uncover hidden truths. They are drawn to fields that involve research, investigation, and transformation.",
+                "suitable_careers": [
+                    "Psychology",
+                    "detective work",
+                    "research",
+                    "finance",
+                    "surgery"
+                ],
+                "financial_advice": "Scorpios are naturally good at managing money but should avoid being overly secretive or controlling about finances."
+            },
+            "health_and_wellness": {
+                "description": "Scorpio rules the reproductive organs and the excretory system, so they may be prone to issues in these areas. They should focus on maintaining emotional balance and physical health.",
+                "health_tips": [
+                    "Practice mindfulness",
+                    "engage in regular exercise",
+                    "avoid emotional repression"
+                ]
+            },
+            "famous_people": [
+                "Leonardo DiCaprio",
+                "Julia Roberts",
+                "Ryan Gosling",
+                "Katy Perry",
+                "Bill Gates"
+            ],
+            "key_advice": [
+                "Channel your intensity into positive and transformative pursuits.",
+                "Learn to trust and open up to others.",
+                "Avoid being overly controlling or secretive.",
+                "Embrace your emotional depth and use it to connect with others.",
+                "Take time to recharge and maintain emotional balance."
+            ]
+        },
+        {
+            "name": "Sagittarius",
+            "dates": "November 22 - December 21",
+            "symbol": "The Archer",
+            "element": "Fire",
+            "ruling_planet": "Jupiter",
+            "quality": "Mutable",
+            "strengths": [
+                "Adventurous",
+                "optimistic",
+                "honest",
+                "philosophical",
+                "generous"
+            ],
+            "weaknesses": [
+                "Impatient",
+                "tactless",
+                "overconfident",
+                "restless"
+            ],
+            "personality_traits": {
+                "description": "Sagittarius is a fire sign known for its adventurous, optimistic, and freedom-loving nature. Ruled by Jupiter, the planet of expansion and wisdom, Sagittarians are natural explorers, both physically and intellectually. They are philosophical, curious, and always seeking new experiences and knowledge.",
+                "positive_traits": [
+                    "Optimistic",
+                    "adventurous",
+                    "honest",
+                    "philosophical"
+                ],
+                "negative_traits": [
+                    "Impatient",
+                    "tactless",
+                    "overconfident",
+                    "restless"
+                ]
+            },
+            "love_and_relationships": {
+                "description": "In love, Sagittarius is fun-loving, adventurous, and values freedom. They are honest and straightforward, often seeking a partner who shares their love for exploration and intellectual growth. They may struggle with commitment but are loyal once they find the right person.",
+                "compatible_signs": [
+                    "Aries",
+                    "Leo",
+                    "Libra",
+                    "Aquarius"
+                ],
+                "challenging_signs": [
+                    "Virgo",
+                    "Pisces"
+                ]
+            },
+            "career_and_finances": {
+                "description": "Sagittarians excel in careers that allow them to explore, travel, and expand their horizons. They are drawn to fields related to education, philosophy, travel, and entrepreneurship.",
+                "suitable_careers": [
+                    "Travel",
+                    "education",
+                    "philosophy",
+                    "publishing",
+                    "entrepreneurship"
+                ],
+                "financial_advice": "Sagittarians should focus on long-term financial planning and avoid impulsive spending on travel or adventures."
+            },
+            "health_and_wellness": {
+                "description": "Sagittarius rules the hips, thighs, and liver, so they may be prone to issues like hip pain or liver-related problems. They should focus on maintaining a balanced lifestyle and avoiding excess.",
+                "health_tips": [
+                    "Engage in regular physical activity",
+                    "maintain a balanced diet",
+                    "avoid overindulgence"
+                ]
+            },
+            "famous_people": [
+                "Taylor Swift",
+                "Brad Pitt",
+                "Miley Cyrus",
+                "Winston Churchill",
+                "Jay-Z"
+            ],
+            "key_advice": [
+                "Channel your adventurous spirit into meaningful pursuits.",
+                "Practice patience and think before you speak.",
+                "Balance your love for freedom with responsibility.",
+                "Stay optimistic but avoid being overconfident.",
+                "Take time to reflect and grow spiritually."
+            ]
+        },
+        {
+            "name": "Capricorn",
+            "dates": "December 22 - January 19",
+            "symbol": "The Goat",
+            "element": "Earth",
+            "ruling_planet": "Saturn",
+            "quality": "Cardinal",
+            "strengths": [
+                "Disciplined",
+                "responsible",
+                "patient",
+                "ambitious",
+                "practical",
+                "self-controlled"
+            ],
+            "weaknesses": [
+                "Pessimistic",
+                "rigid",
+                "stubborn",
+                "workaholic"
+            ],
+            "personality_traits": {
+                "description": "Capricorn is an earth sign known for its disciplined, ambitious, and practical nature. Ruled by Saturn, the planet of structure and responsibility, Capricorns are hardworking and determined to achieve their goals. They value tradition, stability, and long-term success, often excelling in leadership roles.",
+                "positive_traits": [
+                    "Ambitious",
+                    "disciplined",
+                    "responsible",
+                    "patient"
+                ],
+                "negative_traits": [
+                    "Pessimistic",
+                    "rigid",
+                    "stubborn",
+                    "workaholic"
+                ]
+            },
+            "love_and_relationships": {
+                "description": "Capricorn is a loyal and committed partner who values stability and long-term relationships. They may appear reserved at first, but they are deeply caring and supportive once they open up.",
+                "compatible_signs": [
+                    "Taurus",
+                    "Virgo",
+                    "Scorpio",
+                    "Pisces"
+                ],
+                "challenging_signs": [
+                    "Aries",
+                    "Libra"
+                ]
+            },
+            "career_and_finances": {
+                "description": "Capricorns excel in careers that require discipline, structure, and long-term planning. They are natural leaders and often thrive in fields related to business, finance, and management.",
+                "suitable_careers": [
+                    "Business",
+                    "finance",
+                    "management",
+                    "engineering",
+                    "politics"
+                ],
+                "financial_advice": "Capricorns are naturally good at saving and investing but should avoid being overly cautious or pessimistic about financial risks."
+            },
+            "health_and_wellness": {
+                "description": "Capricorn rules the bones, joints, and teeth, so they may be prone to issues like arthritis or dental problems. They should focus on maintaining a healthy work-life balance and avoiding stress.",
+                "health_tips": [
+                    "Practice regular exercise",
+                    "maintain a balanced diet",
+                    "avoid overworking"
+                ]
+            },
+            "famous_people": [
+                "Michelle Obama",
+                "Dolly Parton",
+                "Elvis Presley",
+                "Bradley Cooper",
+                "LeBron James"
+            ],
+            "key_advice": [
+                "Balance your ambition with self-care and relaxation.",
+                "Be open to change and avoid being too rigid.",
+                "Celebrate your achievements and don't be too hard on yourself.",
+                "Focus on building meaningful relationships.",
+                "Stay disciplined but remember to enjoy life."
+            ]
+        },
+        {
+            "name": "Aquarius",
+            "dates": "January 20 - February 18",
+            "symbol": "The Water Bearer",
+            "element": "Air",
+            "ruling_planet": "Uranus (and Saturn)",
+            "quality": "Fixed",
+            "strengths": [
+                "Innovative",
+                "humanitarian",
+                "independent",
+                "intellectual",
+                "open-minded"
+            ],
+            "weaknesses": [
+                "Unpredictable",
+                "detached",
+                "stubborn",
+                "aloof"
+            ],
+            "personality_traits": {
+                "description": "Aquarius is an air sign known for its innovative, intellectual, and humanitarian nature. Ruled by Uranus, the planet of change and originality, Aquarians are forward-thinking and often ahead of their time. They value freedom, individuality, and social progress, making them natural visionaries and reformers.",
+                "positive_traits": [
+                    "Innovative",
+                    "independent",
+                    "open-minded",
+                    "humanitarian"
+                ],
+                "negative_traits": [
+                    "Detached",
+                    "unpredictable",
+                    "stubborn",
+                    "aloof"
+                ]
+            },
+            "love_and_relationships": {
+                "description": "Aquarius values intellectual connection and freedom in relationships. They are loyal and caring but may struggle with emotional intimacy. They thrive with partners who respect their independence and share their ideals.",
+                "compatible_signs": [
+                    "Gemini",
+                    "Libra",
+                    "Aries",
+                    "Sagittarius"
+                ],
+                "challenging_signs": [
+                    "Taurus",
+                    "Scorpio"
+                ]
+            },
+            "career_and_finances": {
+                "description": "Aquarians excel in careers that allow them to innovate and make a positive impact on society. They are drawn to fields related to technology, science, and social activism.",
+                "suitable_careers": [
+                    "Technology",
+                    "science",
+                    "social work",
+                    "astronomy",
+                    "inventor"
+                ],
+                "financial_advice": "Aquarians should focus on long-term financial planning and avoid impulsive spending on unconventional ideas."
+            },
+            "health_and_wellness": {
+                "description": "Aquarius rules the circulatory system and ankles, so they may be prone to issues like poor circulation or sprains. They should focus on staying active and maintaining mental well-being.",
+                "health_tips": [
+                    "Engage in regular exercise",
+                    "practice mindfulness",
+                    "avoid emotional detachment"
+                ]
+            },
+            "famous_people": [
+                "Oprah Winfrey",
+                "Abraham Lincoln",
+                "Ellen DeGeneres",
+                "Cristiano Ronaldo",
+                "Harry Styles"
+            ],
+            "key_advice": [
+                "Embrace your uniqueness and share your ideas with the world.",
+                "Work on emotional connections with others.",
+                "Balance your idealism with practicality.",
+                "Stay open-minded but avoid being too detached.",
+                "Use your creativity to make a positive impact."
+            ]
+        },
+        {
+            "name": "Pisces",
+            "dates": "February 19 - March 20",
+            "symbol": "The Fish",
+            "element": "Water",
+            "ruling_planet": "Neptune (and Jupiter)",
+            "quality": "Mutable",
+            "strengths": [
+                "Compassionate",
+                "artistic",
+                "intuitive",
+                "gentle",
+                "wise"
+            ],
+            "weaknesses": [
+                "Overly sensitive",
+                "escapist",
+                "indecisive",
+                "idealistic"
+            ],
+            "personality_traits": {
+                "description": "Pisces is a water sign known for its compassionate, artistic, and intuitive nature. Ruled by Neptune, the planet of dreams and spirituality, Pisceans are deeply empathetic and often have a strong connection to the arts and the mystical. They are selfless and often put others' needs before their own.",
+                "positive_traits": [
+                    "Compassionate",
+                    "artistic",
+                    "intuitive",
+                    "gentle"
+                ],
+                "negative_traits": [
+                    "Overly sensitive",
+                    "escapist",
+                    "indecisive",
+                    "idealistic"
+                ]
+            },
+            "love_and_relationships": {
+                "description": "Pisces is a romantic and deeply emotional partner who seeks a soulmate connection. They are loving, supportive, and often put their partner's needs above their own. They thrive in relationships that are nurturing and spiritually fulfilling.",
+                "compatible_signs": [
+                    "Cancer",
+                    "Scorpio",
+                    "Taurus",
+                    "Capricorn"
+                ],
+                "challenging_signs": [
+                    "Gemini",
+                    "Sagittarius"
+                ]
+            },
+            "career_and_finances": {
+                "description": "Pisceans excel in careers that allow them to express their creativity and compassion. They are drawn to fields related to art, healing, and spirituality.",
+                "suitable_careers": [
+                    "Art",
+                    "music",
+                    "therapy",
+                    "spiritual counseling",
+                    "charity work"
+                ],
+                "financial_advice": "Pisces should focus on setting clear financial goals and avoid being too idealistic or escapist with money."
+            },
+            "health_and_wellness": {
+                "description": "Pisces rules the feet and the lymphatic system, so they may be prone to issues like foot problems or immune system imbalances. They should focus on maintaining emotional and physical balance.",
+                "health_tips": [
+                    "Practice yoga or meditation",
+                    "avoid escapism",
+                    "stay hydrated"
+                ]
+            },
+            "famous_people": [
+                "Rihanna",
+                "Albert Einstein",
+                "Kurt Cobain",
+                "Elizabeth Taylor",
+                "Justin Bieber"
+            ],
+            "key_advice": [
+                "Channel your creativity and compassion into meaningful pursuits.",
+                "Set boundaries to avoid being overwhelmed by others' emotions.",
+                "Stay grounded and avoid escapism.",
+                "Trust your intuition but balance it with practicality.",
+                "Take time for self-care and spiritual growth."
+            ]
+        }
+    ]
+}
