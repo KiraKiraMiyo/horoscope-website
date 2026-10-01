@@ -1,0 +1,379 @@
+{
+  "date": "2026-09-29",
+  "timezone": "Asia/Phnom_Penh",
+  "version": 1,
+  "data": [
+    {
+      "sign": "aries",
+      "en": {
+        "summary": "Today is a good day to organize your priorities.",
+        "love": "Listen carefully and speak kindly.",
+        "career": "Finish one small task at a time.",
+        "money": "Plan your spending before making purchases.",
+        "health": "Make time for rest and a gentle walk.",
+        "mood": "Calm",
+        "luckyColor": "Blue",
+        "compatibility": "Sagittarius"
+      },
+      "kh": {
+        "summary": "ថ្ងៃនេះជាថ្ងៃល្អសម្រាប់រៀបចំអាទិភាពរបស់អ្នក។",
+        "love": "ស្តាប់ដោយយកចិត្តទុកដាក់ និងនិយាយដោយសុភាព។",
+        "career": "បញ្ចប់កិច្ចការតូចៗម្តងមួយៗ។",
+        "money": "រៀបចំផែនការចំណាយមុនពេលទិញទំនិញ។",
+        "health": "ទុកពេលសម្រាប់សម្រាក និងដើរលំហែកាយ។",
+        "mood": "ស្ងប់ស្ងាត់",
+        "luckyColor": "ពណ៌ខៀវ",
+        "compatibility": "ធ្នូ"
+      },
+      "luckyNumber": 1,
+      "scores": {
+        "love": 82,
+        "career": 75,
+        "money": 68,
+        "health": 80,
+        "luck": 91
+      }
+    },
+    {
+      "sign": "taurus",
+      "en": {
+        "summary": "Today is a good day to organize your priorities.",
+        "love": "Listen carefully and speak kindly.",
+        "career": "Finish one small task at a time.",
+        "money": "Plan your spending before making purchases.",
+        "health": "Make time for rest and a gentle walk.",
+        "mood": "Calm",
+        "luckyColor": "Blue",
+        "compatibility": "Sagittarius"
+      },
+      "kh": {
+        "summary": "ថ្ងៃនេះជាថ្ងៃល្អសម្រាប់រៀបចំអាទិភាពរបស់អ្នក។",
+        "love": "ស្តាប់ដោយយកចិត្តទុកដាក់ និងនិយាយដោយសុភាព។",
+        "career": "បញ្ចប់កិច្ចការតូចៗម្តងមួយៗ។",
+        "money": "រៀបចំផែនការចំណាយមុនពេលទិញទំនិញ។",
+        "health": "ទុកពេលសម្រាប់សម្រាក និងដើរលំហែកាយ។",
+        "mood": "ស្ងប់ស្ងាត់",
+        "luckyColor": "ពណ៌ខៀវ",
+        "compatibility": "ធ្នូ"
+      },
+      "luckyNumber": 2,
+      "scores": {
+        "love": 82,
+        "career": 75,
+        "money": 68,
+        "health": 80,
+        "luck": 91
+      }
+    },
+    {
+      "sign": "gemini",
+      "en": {
+        "summary": "Today is a good day to organize your priorities.",
+        "love": "Listen carefully and speak kindly.",
+        "career": "Finish one small task at a time.",
+        "money": "Plan your spending before making purchases.",
+        "health": "Make time for rest and a gentle walk.",
+        "mood": "Calm",
+        "luckyColor": "Blue",
+        "compatibility": "Sagittarius"
+      },
+      "kh": {
+        "summary": "ថ្ងៃនេះជាថ្ងៃល្អសម្រាប់រៀបចំអាទិភាពរបស់អ្នក។",
+        "love": "ស្តាប់ដោយយកចិត្តទុកដាក់ និងនិយាយដោយសុភាព។",
+        "career": "បញ្ចប់កិច្ចការតូចៗម្តងមួយៗ។",
+        "money": "រៀបចំផែនការចំណាយមុនពេលទិញទំនិញ។",
+        "health": "ទុកពេលសម្រាប់សម្រាក និងដើរលំហែកាយ។",
+        "mood": "ស្ងប់ស្ងាត់",
+        "luckyColor": "ពណ៌ខៀវ",
+        "compatibility": "ធ្នូ"
+      },
+      "luckyNumber": 3,
+      "scores": {
+        "love": 82,
+        "career": 75,
+        "money": 68,
+        "health": 80,
+        "luck": 91
+      }
+    },
+    {
+      "sign": "cancer",
+      "en": {
+        "summary": "Today is a good day to organize your priorities.",
+        "love": "Listen carefully and speak kindly.",
+        "career": "Finish one small task at a time.",
+        "money": "Plan your spending before making purchases.",
+        "health": "Make time for rest and a gentle walk.",
+        "mood": "Calm",
+        "luckyColor": "Blue",
+        "compatibility": "Sagittarius"
+      },
+      "kh": {
+        "summary": "ថ្ងៃនេះជាថ្ងៃល្អសម្រាប់រៀបចំអាទិភាពរបស់អ្នក។",
+        "love": "ស្តាប់ដោយយកចិត្តទុកដាក់ និងនិយាយដោយសុភាព។",
+        "career": "បញ្ចប់កិច្ចការតូចៗម្តងមួយៗ។",
+        "money": "រៀបចំផែនការចំណាយមុនពេលទិញទំនិញ។",
+        "health": "ទុកពេលសម្រាប់សម្រាក និងដើរលំហែកាយ។",
+        "mood": "ស្ងប់ស្ងាត់",
+        "luckyColor": "ពណ៌ខៀវ",
+        "compatibility": "ធ្នូ"
+      },
+      "luckyNumber": 4,
+      "scores": {
+        "love": 82,
+        "career": 75,
+        "money": 68,
+        "health": 80,
+        "luck": 91
+      }
+    },
+    {
+      "sign": "leo",
+      "en": {
+        "summary": "Today is a good day to organize your priorities.",
+        "love": "Listen carefully and speak kindly.",
+        "career": "Finish one small task at a time.",
+        "money": "Plan your spending before making purchases.",
+        "health": "Make time for rest and a gentle walk.",
+        "mood": "Calm",
+        "luckyColor": "Blue",
+        "compatibility": "Sagittarius"
+      },
+      "kh": {
+        "summary": "ថ្ងៃនេះជាថ្ងៃល្អសម្រាប់រៀបចំអាទិភាពរបស់អ្នក។",
+        "love": "ស្តាប់ដោយយកចិត្តទុកដាក់ និងនិយាយដោយសុភាព។",
+        "career": "បញ្ចប់កិច្ចការតូចៗម្តងមួយៗ។",
+        "money": "រៀបចំផែនការចំណាយមុនពេលទិញទំនិញ។",
+        "health": "ទុកពេលសម្រាប់សម្រាក និងដើរលំហែកាយ។",
+        "mood": "ស្ងប់ស្ងាត់",
+        "luckyColor": "ពណ៌ខៀវ",
+        "compatibility": "ធ្នូ"
+      },
+      "luckyNumber": 5,
+      "scores": {
+        "love": 82,
+        "career": 75,
+        "money": 68,
+        "health": 80,
+        "luck": 91
+      }
+    },
+    {
+      "sign": "virgo",
+      "en": {
+        "summary": "Today is a good day to organize your priorities.",
+        "love": "Listen carefully and speak kindly.",
+        "career": "Finish one small task at a time.",
+        "money": "Plan your spending before making purchases.",
+        "health": "Make time for rest and a gentle walk.",
+        "mood": "Calm",
+        "luckyColor": "Blue",
+        "compatibility": "Sagittarius"
+      },
+      "kh": {
+        "summary": "ថ្ងៃនេះជាថ្ងៃល្អសម្រាប់រៀបចំអាទិភាពរបស់អ្នក។",
+        "love": "ស្តាប់ដោយយកចិត្តទុកដាក់ និងនិយាយដោយសុភាព។",
+        "career": "បញ្ចប់កិច្ចការតូចៗម្តងមួយៗ។",
+        "money": "រៀបចំផែនការចំណាយមុនពេលទិញទំនិញ។",
+        "health": "ទុកពេលសម្រាប់សម្រាក និងដើរលំហែកាយ។",
+        "mood": "ស្ងប់ស្ងាត់",
+        "luckyColor": "ពណ៌ខៀវ",
+        "compatibility": "ធ្នូ"
+      },
+      "luckyNumber": 6,
+      "scores": {
+        "love": 82,
+        "career": 75,
+        "money": 68,
+        "health": 80,
+        "luck": 91
+      }
+    },
+    {
+      "sign": "libra",
+      "en": {
+        "summary": "Today is a good day to organize your priorities.",
+        "love": "Listen carefully and speak kindly.",
+        "career": "Finish one small task at a time.",
+        "money": "Plan your spending before making purchases.",
+        "health": "Make time for rest and a gentle walk.",
+        "mood": "Calm",
+        "luckyColor": "Blue",
+        "compatibility": "Sagittarius"
+      },
+      "kh": {
+        "summary": "ថ្ងៃនេះជាថ្ងៃល្អសម្រាប់រៀបចំអាទិភាពរបស់អ្នក។",
+        "love": "ស្តាប់ដោយយកចិត្តទុកដាក់ និងនិយាយដោយសុភាព។",
+        "career": "បញ្ចប់កិច្ចការតូចៗម្តងមួយៗ។",
+        "money": "រៀបចំផែនការចំណាយមុនពេលទិញទំនិញ។",
+        "health": "ទុកពេលសម្រាប់សម្រាក និងដើរលំហែកាយ។",
+        "mood": "ស្ងប់ស្ងាត់",
+        "luckyColor": "ពណ៌ខៀវ",
+        "compatibility": "ធ្នូ"
+      },
+      "luckyNumber": 7,
+      "scores": {
+        "love": 82,
+        "career": 75,
+        "money": 68,
+        "health": 80,
+        "luck": 91
+      }
+    },
+    {
+      "sign": "scorpio",
+      "en": {
+        "summary": "Today is a good day to organize your priorities.",
+        "love": "Listen carefully and speak kindly.",
+        "career": "Finish one small task at a time.",
+        "money": "Plan your spending before making purchases.",
+        "health": "Make time for rest and a gentle walk.",
+        "mood": "Calm",
+        "luckyColor": "Blue",
+        "compatibility": "Sagittarius"
+      },
+      "kh": {
+        "summary": "ថ្ងៃនេះជាថ្ងៃល្អសម្រាប់រៀបចំអាទិភាពរបស់អ្នក។",
+        "love": "ស្តាប់ដោយយកចិត្តទុកដាក់ និងនិយាយដោយសុភាព។",
+        "career": "បញ្ចប់កិច្ចការតូចៗម្តងមួយៗ។",
+        "money": "រៀបចំផែនការចំណាយមុនពេលទិញទំនិញ។",
+        "health": "ទុកពេលសម្រាប់សម្រាក និងដើរលំហែកាយ។",
+        "mood": "ស្ងប់ស្ងាត់",
+        "luckyColor": "ពណ៌ខៀវ",
+        "compatibility": "ធ្នូ"
+      },
+      "luckyNumber": 8,
+      "scores": {
+        "love": 82,
+        "career": 75,
+        "money": 68,
+        "health": 80,
+        "luck": 91
+      }
+    },
+    {
+      "sign": "sagittarius",
+      "en": {
+        "summary": "Today is a good day to organize your priorities.",
+        "love": "Listen carefully and speak kindly.",
+        "career": "Finish one small task at a time.",
+        "money": "Plan your spending before making purchases.",
+        "health": "Make time for rest and a gentle walk.",
+        "mood": "Calm",
+        "luckyColor": "Blue",
+        "compatibility": "Sagittarius"
+      },
+      "kh": {
+        "summary": "ថ្ងៃនេះជាថ្ងៃល្អសម្រាប់រៀបចំអាទិភាពរបស់អ្នក។",
+        "love": "ស្តាប់ដោយយកចិត្តទុកដាក់ និងនិយាយដោយសុភាព។",
+        "career": "បញ្ចប់កិច្ចការតូចៗម្តងមួយៗ។",
+        "money": "រៀបចំផែនការចំណាយមុនពេលទិញទំនិញ។",
+        "health": "ទុកពេលសម្រាប់សម្រាក និងដើរលំហែកាយ។",
+        "mood": "ស្ងប់ស្ងាត់",
+        "luckyColor": "ពណ៌ខៀវ",
+        "compatibility": "ធ្នូ"
+      },
+      "luckyNumber": 9,
+      "scores": {
+        "love": 82,
+        "career": 75,
+        "money": 68,
+        "health": 80,
+        "luck": 91
+      }
+    },
+    {
+      "sign": "capricorn",
+      "en": {
+        "summary": "Today is a good day to organize your priorities.",
+        "love": "Listen carefully and speak kindly.",
+        "career": "Finish one small task at a time.",
+        "money": "Plan your spending before making purchases.",
+        "health": "Make time for rest and a gentle walk.",
+        "mood": "Calm",
+        "luckyColor": "Blue",
+        "compatibility": "Sagittarius"
+      },
+      "kh": {
+        "summary": "ថ្ងៃនេះជាថ្ងៃល្អសម្រាប់រៀបចំអាទិភាពរបស់អ្នក។",
+        "love": "ស្តាប់ដោយយកចិត្តទុកដាក់ និងនិយាយដោយសុភាព។",
+        "career": "បញ្ចប់កិច្ចការតូចៗម្តងមួយៗ។",
+        "money": "រៀបចំផែនការចំណាយមុនពេលទិញទំនិញ។",
+        "health": "ទុកពេលសម្រាប់សម្រាក និងដើរលំហែកាយ។",
+        "mood": "ស្ងប់ស្ងាត់",
+        "luckyColor": "ពណ៌ខៀវ",
+        "compatibility": "ធ្នូ"
+      },
+      "luckyNumber": 10,
+      "scores": {
+        "love": 82,
+        "career": 75,
+        "money": 68,
+        "health": 80,
+        "luck": 91
+      }
+    },
+    {
+      "sign": "aquarius",
+      "en": {
+        "summary": "Today is a good day to organize your priorities.",
+        "love": "Listen carefully and speak kindly.",
+        "career": "Finish one small task at a time.",
+        "money": "Plan your spending before making purchases.",
+        "health": "Make time for rest and a gentle walk.",
+        "mood": "Calm",
+        "luckyColor": "Blue",
+        "compatibility": "Sagittarius"
+      },
+      "kh": {
+        "summary": "ថ្ងៃនេះជាថ្ងៃល្អសម្រាប់រៀបចំអាទិភាពរបស់អ្នក។",
+        "love": "ស្តាប់ដោយយកចិត្តទុកដាក់ និងនិយាយដោយសុភាព។",
+        "career": "បញ្ចប់កិច្ចការតូចៗម្តងមួយៗ។",
+        "money": "រៀបចំផែនការចំណាយមុនពេលទិញទំនិញ។",
+        "health": "ទុកពេលសម្រាប់សម្រាក និងដើរលំហែកាយ។",
+        "mood": "ស្ងប់ស្ងាត់",
+        "luckyColor": "ពណ៌ខៀវ",
+        "compatibility": "ធ្នូ"
+      },
+      "luckyNumber": 11,
+      "scores": {
+        "love": 82,
+        "career": 75,
+        "money": 68,
+        "health": 80,
+        "luck": 91
+      }
+    },
+    {
+      "sign": "pisces",
+      "en": {
+        "summary": "Today is a good day to organize your priorities.",
+        "love": "Listen carefully and speak kindly.",
+        "career": "Finish one small task at a time.",
+        "money": "Plan your spending before making purchases.",
+        "health": "Make time for rest and a gentle walk.",
+        "mood": "Calm",
+        "luckyColor": "Blue",
+        "compatibility": "Sagittarius"
+      },
+      "kh": {
+        "summary": "ថ្ងៃនេះជាថ្ងៃល្អសម្រាប់រៀបចំអាទិភាពរបស់អ្នក។",
+        "love": "ស្តាប់ដោយយកចិត្តទុកដាក់ និងនិយាយដោយសុភាព។",
+        "career": "បញ្ចប់កិច្ចការតូចៗម្តងមួយៗ។",
+        "money": "រៀបចំផែនការចំណាយមុនពេលទិញទំនិញ។",
+        "health": "ទុកពេលសម្រាប់សម្រាក និងដើរលំហែកាយ។",
+        "mood": "ស្ងប់ស្ងាត់",
+        "luckyColor": "ពណ៌ខៀវ",
+        "compatibility": "ធ្នូ"
+      },
+      "luckyNumber": 12,
+      "scores": {
+        "love": 82,
+        "career": 75,
+        "money": 68,
+        "health": 80,
+        "luck": 91
+      }
+    }
+  ]
+}
