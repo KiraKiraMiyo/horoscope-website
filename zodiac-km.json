@@ -3,6 +3,7 @@
         {
             "name": "Aries",
             "dates": "21 មីនា - 19 មេសា",
+            "logo": "https://res.cloudinary.com/dxafqzhnj/image/upload/v1791129582/aries_ak7brm.jpg",
             "symbol": "ចៀមឈ្មោល",
             "element": "ធាតុភ្លើង",
             "ruling_planet": "ភពអង្គារ",
@@ -88,6 +89,7 @@
         {
             "name": "Taurus",
             "dates": "20 មេសា - 20 ឧសភា",
+            "logo": "https://res.cloudinary.com/dxafqzhnj/image/upload/v1791129584/taurus_qefusn.jpg",
             "symbol": "គោឈ្មោល",
             "element": "ធាតុដី",
             "ruling_planet": "ភពសុក្រ",
@@ -165,6 +167,7 @@
         {
             "name": "Gemini",
             "dates": "21 ឧសភា - 20 មិថុនា",
+            "logo": "https://res.cloudinary.com/dxafqzhnj/image/upload/v1791129583/gemini_wdg5r5.jpg",
             "symbol": "កូនភ្លោះ",
             "element": "ធាតុខ្យល់",
             "ruling_planet": "ភពពុធ",
@@ -241,6 +244,7 @@
         {
             "name": "Cancer",
             "dates": "21 មិថុនា - 22 កក្កដា",
+            "logo": "https://res.cloudinary.com/dxafqzhnj/image/upload/v1791129583/cancer_ntpyja.jpg",
             "symbol": "ក្ដាម",
             "element": "ធាតុទឹក",
             "ruling_planet": "ព្រះចន្ទ",
@@ -317,6 +321,7 @@
         {
             "name": "Leo",
             "dates": "23 កក្កដា - 22 សីហា",
+            "logo": "https://res.cloudinary.com/dxafqzhnj/image/upload/v1791129582/leo_iry6uu.jpg",
             "symbol": "សត្វតោ",
             "element": "ធាតុភ្លើង",
             "ruling_planet": "ព្រះអាទិត្យ",
@@ -392,6 +397,7 @@
         {
             "name": "Virgo",
             "dates": "23 សីហា - 22 កញ្ញា",
+            "logo": "https://res.cloudinary.com/dxafqzhnj/image/upload/v1791129583/virgo_bmr17z.jpg",
             "symbol": "ស្រីក្រមុំ",
             "element": "ធាតុដី",
             "ruling_planet": "ភពពុធ",
@@ -467,6 +473,7 @@
         {
             "name": "Libra",
             "dates": "23 កញ្ញា - 22 តុលា",
+            "logo": "https://res.cloudinary.com/dxafqzhnj/image/upload/v1791129582/libra_gmedil.jpg",
             "symbol": "ជញ្ជីង",
             "element": "ធាតុខ្យល់",
             "ruling_planet": "ភពសុក្រ",
@@ -542,6 +549,7 @@
         {
             "name": "Scorpio",
             "dates": "23 តុលា - 21 វិច្ឆិកា",
+            "logo": "https://res.cloudinary.com/dxafqzhnj/image/upload/v1791129583/scorpio_xbtwia.jpg",
             "symbol": "ខ្យាដំរី",
             "element": "ធាតុទឹក",
             "ruling_planet": "ភពភ្លុយតូ (និងភពអង្គារ)",
@@ -625,6 +633,7 @@
         {
             "name": "Sagittarius",
             "dates": "22 វិច្ឆិកា - 21 ធ្នូ",
+            "logo": "https://res.cloudinary.com/dxafqzhnj/image/upload/v1791129582/sagittarius_cjl7sd.jpg",
             "symbol": "អ្នកបាញ់ធ្នូ",
             "element": "ធាតុភ្លើង",
             "ruling_planet": "ភពព្រហស្បតិ៍",
@@ -707,6 +716,7 @@
         {
             "name": "Capricorn",
             "dates": "22 ធ្នូ - 19 មករា",
+            "logo": "https://res.cloudinary.com/dxafqzhnj/image/upload/v1791129583/capricorn_cziluy.jpg",
             "symbol": "ពពែ",
             "element": "ធាតុដី",
             "ruling_planet": "ភពសៅរ៍",
@@ -790,6 +800,7 @@
         {
             "name": "Aquarius",
             "dates": "20 មករា - 18 កុម្ភៈ",
+            "logo": "https://res.cloudinary.com/dxafqzhnj/image/upload/v1791129582/aquarius_byvvi2.jpg",
             "symbol": "អ្នកកាន់ក្អមទឹក",
             "element": "ធាតុខ្យល់",
             "ruling_planet": "ភពអ៊ុយរ៉ានុស (និងភពសៅរ៍)",
@@ -872,6 +883,7 @@
         {
             "name": "Pisces",
             "dates": "19 កុម្ភៈ - 20 មីនា",
+            "logo": "https://res.cloudinary.com/dxafqzhnj/image/upload/v1791129582/pisces_wi3agd.jpg",
             "symbol": "ត្រី",
             "element": "ធាតុទឹក",
             "ruling_planet": "ភពណិបទូន (និងភពព្រហស្បតិ៍)",

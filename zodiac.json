@@ -3,6 +3,7 @@
         {
             "name": "Aries",
             "dates": "March 21 - April 19",
+            "logo": "https://res.cloudinary.com/dxafqzhnj/image/upload/v1791129582/aries_ak7brm.jpg",
             "symbol": "The Ram",
             "element": "Fire",
             "ruling_planet": "Mars",
@@ -88,6 +89,7 @@
         {
             "name": "Taurus",
             "dates": "April 20 - May 20",
+            "logo": "https://res.cloudinary.com/dxafqzhnj/image/upload/v1791129584/taurus_qefusn.jpg",
             "symbol": "The Bull",
             "element": "Earth",
             "ruling_planet": "Venus",
@@ -165,6 +167,7 @@
         {
             "name": "Gemini",
             "dates": "May 21 - June 20",
+            "logo": "https://res.cloudinary.com/dxafqzhnj/image/upload/v1791129583/gemini_wdg5r5.jpg",
             "symbol": "The Twins",
             "element": "Air",
             "ruling_planet": "Mercury",
@@ -241,6 +244,7 @@
         {
             "name": "Cancer",
             "dates": "June 21 - July 22",
+            "logo": "https://res.cloudinary.com/dxafqzhnj/image/upload/v1791129583/cancer_ntpyja.jpg",
             "symbol": "The Crab",
             "element": "Water",
             "ruling_planet": "Moon",
@@ -317,6 +321,7 @@
         {
             "name": "Leo",
             "dates": "July 23 - August 22",
+            "logo": "https://res.cloudinary.com/dxafqzhnj/image/upload/v1791129582/leo_iry6uu.jpg",
             "symbol": "The Lion",
             "element": "Fire",
             "ruling_planet": "Sun",
@@ -392,6 +397,7 @@
         {
             "name": "Virgo",
             "dates": "August 23 - September 22",
+            "logo": "https://res.cloudinary.com/dxafqzhnj/image/upload/v1791129583/virgo_bmr17z.jpg",
             "symbol": "The Virgin",
             "element": "Earth",
             "ruling_planet": "Mercury",
@@ -467,6 +473,7 @@
         {
             "name": "Libra",
             "dates": "September 23 - October 22",
+            "logo": "https://res.cloudinary.com/dxafqzhnj/image/upload/v1791129582/libra_gmedil.jpg",
             "symbol": "The Scales",
             "element": "Air",
             "ruling_planet": "Venus",
@@ -542,6 +549,7 @@
         {
             "name": "Scorpio",
             "dates": "October 23 - November 21",
+            "logo": "https://res.cloudinary.com/dxafqzhnj/image/upload/v1791129583/scorpio_xbtwia.jpg",
             "symbol": "The Scorpion",
             "element": "Water",
             "ruling_planet": "Pluto (and Mars)",
@@ -625,6 +633,7 @@
         {
             "name": "Sagittarius",
             "dates": "November 22 - December 21",
+            "logo": "https://res.cloudinary.com/dxafqzhnj/image/upload/v1791129582/sagittarius_cjl7sd.jpg",
             "symbol": "The Archer",
             "element": "Fire",
             "ruling_planet": "Jupiter",
@@ -707,6 +716,7 @@
         {
             "name": "Capricorn",
             "dates": "December 22 - January 19",
+            "logo": "https://res.cloudinary.com/dxafqzhnj/image/upload/v1791129583/capricorn_cziluy.jpg",
             "symbol": "The Goat",
             "element": "Earth",
             "ruling_planet": "Saturn",
@@ -790,6 +800,7 @@
         {
             "name": "Aquarius",
             "dates": "January 20 - February 18",
+            "logo": "https://res.cloudinary.com/dxafqzhnj/image/upload/v1791129582/aquarius_byvvi2.jpg",
             "symbol": "The Water Bearer",
             "element": "Air",
             "ruling_planet": "Uranus (and Saturn)",
@@ -872,6 +883,7 @@
         {
             "name": "Pisces",
             "dates": "February 19 - March 20",
+            "logo": "https://res.cloudinary.com/dxafqzhnj/image/upload/v1791129582/pisces_wi3agd.jpg",
             "symbol": "The Fish",
             "element": "Water",
             "ruling_planet": "Neptune (and Jupiter)",
