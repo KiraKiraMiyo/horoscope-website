@@ -1,18 +1,19 @@
-name: Generate Daily Horoscope
+name: Rotate Horoscope
 
 on:
   workflow_dispatch:
 
   schedule:
-    # GitHub Actions cron uses UTC.
-    # 00:00 Asia/Phnom_Penh = 17:00 UTC on the previous day.
-    - cron: "0 17 * * *"
+    # 00:07 Cambodia time
+    # Asia/Phnom_Penh = UTC+7
+    # 00:07 Cambodia = 17:07 UTC previous day
+    - cron: "7 17 * * *"
 
 permissions:
   contents: write
 
 jobs:
-  generate:
+  rotate:
     runs-on: ubuntu-latest
 
     steps:
@@ -24,32 +25,29 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Install dependencies
+      - name: Rotate horoscope files
         run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
+          python scripts/rotate_horoscope.py
 
-      - name: Generate daily horoscope
-        env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: |
-          python scripts/generate_horoscope.py
-
-      - name: Validate today.json
+      - name: Validate rotated files
         run: |
           python -m json.tool today.json > /dev/null
 
-      - name: Commit today.json
+          if [ -f yesterday.json ]; then
+            python -m json.tool yesterday.json > /dev/null
+          fi
+
+      - name: Commit rotated files
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add today.json
+          git add today.json yesterday.json
 
           if git diff --cached --quiet; then
             echo "No changes to commit."
             exit 0
           fi
 
-          git commit -m "chore: update daily horoscope"
+          git commit -m "chore: rotate horoscope day"
           git push
