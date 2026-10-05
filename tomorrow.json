@@ -1,379 +1,307 @@
 {
-  "date": "2026-09-04",
+  "date": "2026-10-06",
   "timezone": "Asia/Phnom_Penh",
   "version": 1,
   "data": [
     {
       "sign": "aries",
       "en": {
-        "summary": "Today is a good day to organize your priorities.",
-        "love": "Listen carefully and speak kindly.",
-        "career": "Finish one small task at a time.",
-        "money": "Plan your spending before making purchases.",
-        "health": "Make time for rest and a gentle walk.",
-        "mood": "Calm",
-        "luckyColor": "Blue",
-        "compatibility": "Sagittarius"
+        "summary": "A direct approach helps you clear small obstacles and regain momentum. Focus on what can be finished today.",
+        "love": "A calm, honest conversation can strengthen understanding and reduce assumptions.",
+        "career": "Prioritize one demanding task and finish it before switching directions.",
+        "money": "Keep spending practical and review small recurring costs before adding anything new.",
+        "health": "Balance your energy with short breaks, light movement, and enough water.",
+        "mood": "Determined",
+        "luckyColor": "Red",
+        "compatibility": "Leo"
       },
       "kh": {
-        "summary": "ថ្ងៃនេះជាថ្ងៃល្អសម្រាប់រៀបចំអាទិភាពរបស់អ្នក។",
-        "love": "ស្តាប់ដោយយកចិត្តទុកដាក់ និងនិយាយដោយសុភាព។",
-        "career": "បញ្ចប់កិច្ចការតូចៗម្តងមួយៗ។",
-        "money": "រៀបចំផែនការចំណាយមុនពេលទិញទំនិញ។",
-        "health": "ទុកពេលសម្រាប់សម្រាក និងដើរលំហែកាយ។",
-        "mood": "ស្ងប់ស្ងាត់",
-        "luckyColor": "ពណ៌ខៀវ",
-        "compatibility": "ធ្នូ"
+        "summary": "ការធ្វើអ្វីៗដោយត្រង់ទៅត្រង់មកអាចជួយអ្នកដោះស្រាយឧបសគ្គតូចៗ និងទទួលបានសន្ទុះឡើងវិញ។ ផ្តោតលើអ្វីដែលអាចបញ្ចប់បាននៅថ្ងៃនេះ។",
+        "love": "ការសន្ទនាដោយស្ងប់ស្ងាត់ និងស្មោះត្រង់អាចជួយបង្កើនការយល់ចិត្តគ្នា និងកាត់បន្ថយការសន្មត់។",
+        "career": "ផ្តល់អាទិភាពដល់កិច្ចការលំបាកមួយ ហើយបញ្ចប់វាមុននឹងប្តូរទៅរឿងផ្សេង។",
+        "money": "រក្សាការចំណាយឱ្យមានហេតុផល និងពិនិត្យចំណាយតូចៗដែលកើតឡើងជាប្រចាំ មុននឹងបន្ថែមចំណាយថ្មី។",
+        "health": "សម្របសម្រួលថាមពលរបស់អ្នកដោយសម្រាកខ្លីៗ ធ្វើចលនាស្រាលៗ និងផឹកទឹកឱ្យគ្រប់គ្រាន់។",
+        "mood": "ប្តេជ្ញាចិត្ត",
+        "luckyColor": "ពណ៌ក្រហម",
+        "compatibility": "សីហៈ"
       },
-      "luckyNumber": 1,
-      "scores": {
-        "love": 82,
-        "career": 75,
-        "money": 68,
-        "health": 45,
-        "luck": 91
-      }
+      "luckyNumber": 17,
+      "scores": {"love": 78, "career": 88, "money": 64, "health": 76, "luck": 82}
     },
     {
       "sign": "taurus",
       "en": {
-        "summary": "Today is a good day to organize your priorities.",
-        "love": "Listen carefully and speak kindly.",
-        "career": "Finish one small task at a time.",
-        "money": "Plan your spending before making purchases.",
-        "health": "Make time for rest and a gentle walk.",
-        "mood": "Calm",
-        "luckyColor": "Blue",
-        "compatibility": "Sagittarius"
+        "summary": "A steady pace works in your favor today. Simple routines and practical choices bring stability.",
+        "love": "Consistency matters more than grand gestures, and a small act of care can say a lot.",
+        "career": "Reliable work and careful follow-through can stand out, so avoid rushing important details.",
+        "money": "Compare options carefully and keep purchases tied to real priorities.",
+        "health": "Choose gentle movement, regular meals, and a calmer evening routine.",
+        "mood": "Grounded",
+        "luckyColor": "Green",
+        "compatibility": "Virgo"
       },
       "kh": {
-        "summary": "ថ្ងៃនេះជាថ្ងៃល្អសម្រាប់រៀបចំអាទិភាពរបស់អ្នក។",
-        "love": "ស្តាប់ដោយយកចិត្តទុកដាក់ និងនិយាយដោយសុភាព។",
-        "career": "បញ្ចប់កិច្ចការតូចៗម្តងមួយៗ។",
-        "money": "រៀបចំផែនការចំណាយមុនពេលទិញទំនិញ។",
-        "health": "ទុកពេលសម្រាប់សម្រាក និងដើរលំហែកាយ។",
-        "mood": "ស្ងប់ស្ងាត់",
-        "luckyColor": "ពណ៌ខៀវ",
-        "compatibility": "ធ្នូ"
+        "summary": "ល្បឿនដែលមានស្ថិរភាពនឹងជួយអ្នកបានច្រើននៅថ្ងៃនេះ។ ទម្លាប់សាមញ្ញ និងជម្រើសដែលអនុវត្តបានអាចនាំមកភាពនឹងនរ។",
+        "love": "ភាពថេរថ្មីមានសារៈសំខាន់ជាងការបង្ហាញធំៗ ហើយការយកចិត្តទុកដាក់តូចមួយអាចមានន័យខ្លាំង។",
+        "career": "ការងារដែលអាចទុកចិត្តបាន និងការតាមដានលម្អិតអាចធ្វើឱ្យអ្នកលេចធ្លោ ដូច្នេះកុំប្រញាប់លើព័ត៌មានសំខាន់ៗ។",
+        "money": "ប្រៀបធៀបជម្រើសដោយប្រុងប្រយ័ត្ន និងរក្សាការទិញឱ្យស្របតាមអាទិភាពពិតប្រាកដ។",
+        "health": "ជ្រើសរើសចលនាស្រាលៗ ទទួលទានអាហារទៀងទាត់ និងរៀបចំពេលល្ងាចឱ្យស្ងប់ស្ងាត់ជាងមុន។",
+        "mood": "មានស្ថិរភាព",
+        "luckyColor": "ពណ៌បៃតង",
+        "compatibility": "កញ្ញា"
       },
-      "luckyNumber": 2,
-      "scores": {
-        "love": 82,
-        "career": 75,
-        "money": 68,
-        "health": 80,
-        "luck": 91
-      }
+      "luckyNumber": 24,
+      "scores": {"love": 84, "career": 81, "money": 79, "health": 72, "luck": 74}
     },
     {
       "sign": "gemini",
       "en": {
-        "summary": "Today is a good day to organize your priorities.",
-        "love": "Listen carefully and speak kindly.",
-        "career": "Finish one small task at a time.",
-        "money": "Plan your spending before making purchases.",
-        "health": "Make time for rest and a gentle walk.",
-        "mood": "Calm",
-        "luckyColor": "Blue",
-        "compatibility": "Sagittarius"
+        "summary": "Your curiosity is active today, and a useful idea may emerge from an unexpected exchange.",
+        "love": "Ask clear questions instead of making assumptions, and keep communication light but sincere.",
+        "career": "Networking and quick problem-solving are favored, but double-check details before sending anything important.",
+        "money": "Avoid impulse spending triggered by boredom or convenience.",
+        "health": "Give your mind a break from constant stimulation and step away from screens when possible.",
+        "mood": "Curious",
+        "luckyColor": "Yellow",
+        "compatibility": "Libra"
       },
       "kh": {
-        "summary": "ថ្ងៃនេះជាថ្ងៃល្អសម្រាប់រៀបចំអាទិភាពរបស់អ្នក។",
-        "love": "ស្តាប់ដោយយកចិត្តទុកដាក់ និងនិយាយដោយសុភាព។",
-        "career": "បញ្ចប់កិច្ចការតូចៗម្តងមួយៗ។",
-        "money": "រៀបចំផែនការចំណាយមុនពេលទិញទំនិញ។",
-        "health": "ទុកពេលសម្រាប់សម្រាក និងដើរលំហែកាយ។",
-        "mood": "ស្ងប់ស្ងាត់",
-        "luckyColor": "ពណ៌ខៀវ",
-        "compatibility": "ធ្នូ"
+        "summary": "ការចង់ដឹងរបស់អ្នកសកម្មខ្លាំងនៅថ្ងៃនេះ ហើយគំនិតមានប្រយោជន៍មួយអាចកើតឡើងពីការប្រាស្រ័យដែលមិនបានរំពឹងទុក។",
+        "love": "សួរឱ្យច្បាស់ជំនួសឱ្យការសន្មត់ ហើយរក្សាការនិយាយគ្នាឱ្យស្រាលសប្បាយ ប៉ុន្តែស្មោះត្រង់។",
+        "career": "ការទាក់ទងមនុស្ស និងការដោះស្រាយបញ្ហារហ័សអាចដំណើរការល្អ ប៉ុន្តែត្រូវពិនិត្យព័ត៌មានម្តងទៀត មុនផ្ញើអ្វីសំខាន់។",
+        "money": "ជៀសវាងការចំណាយភ្លាមៗដោយសារអផ្សុក ឬភាពងាយស្រួល។",
+        "health": "ផ្តល់ពេលឱ្យខួរក្បាលសម្រាកពីព័ត៌មានជាប់ៗគ្នា ហើយដកខ្លួនចេញពីអេក្រង់ពេលអាចធ្វើបាន។",
+        "mood": "ចង់ដឹងចង់ឃើញ",
+        "luckyColor": "ពណ៌លឿង",
+        "compatibility": "តុលា"
       },
-      "luckyNumber": 3,
-      "scores": {
-        "love": 82,
-        "career": 75,
-        "money": 68,
-        "health": 80,
-        "luck": 91
-      }
+      "luckyNumber": 9,
+      "scores": {"love": 80, "career": 85, "money": 61, "health": 69, "luck": 87}
     },
     {
       "sign": "cancer",
       "en": {
-        "summary": "Today is a good day to organize your priorities.",
-        "love": "Listen carefully and speak kindly.",
-        "career": "Finish one small task at a time.",
-        "money": "Plan your spending before making purchases.",
-        "health": "Make time for rest and a gentle walk.",
-        "mood": "Calm",
-        "luckyColor": "Blue",
-        "compatibility": "Sagittarius"
+        "summary": "Your sensitivity helps you notice what others may overlook. Protect your energy while staying open to supportive connections.",
+        "love": "A thoughtful check-in can deepen trust, so do not carry every emotion on your own.",
+        "career": "Quiet focus can be more productive than trying to handle everything at once.",
+        "money": "Keep financial choices conservative and avoid emotional spending when your mood shifts.",
+        "health": "A slower pace, nourishing food, and enough rest can help you feel more balanced.",
+        "mood": "Reflective",
+        "luckyColor": "Silver",
+        "compatibility": "Pisces"
       },
       "kh": {
-        "summary": "ថ្ងៃនេះជាថ្ងៃល្អសម្រាប់រៀបចំអាទិភាពរបស់អ្នក។",
-        "love": "ស្តាប់ដោយយកចិត្តទុកដាក់ និងនិយាយដោយសុភាព។",
-        "career": "បញ្ចប់កិច្ចការតូចៗម្តងមួយៗ។",
-        "money": "រៀបចំផែនការចំណាយមុនពេលទិញទំនិញ។",
-        "health": "ទុកពេលសម្រាប់សម្រាក និងដើរលំហែកាយ។",
-        "mood": "ស្ងប់ស្ងាត់",
-        "luckyColor": "ពណ៌ខៀវ",
-        "compatibility": "ធ្នូ"
+        "summary": "ភាពរសើបរបស់អ្នកអាចជួយឱ្យអ្នកមើលឃើញអ្វីដែលអ្នកដទៃមើលរំលង។ ការពារថាមពលផ្ទាល់ខ្លួន ប៉ុន្តែកុំបិទខ្លួនពីទំនាក់ទំនងដែលផ្តល់ការគាំទ្រ។",
+        "love": "ការសួរសុខទុក្ខដោយយកចិត្តទុកដាក់អាចជួយបង្កើនទំនុកចិត្ត ដូច្នេះកុំផ្ទុកអារម្មណ៍គ្រប់យ៉ាងតែម្នាក់ឯង។",
+        "career": "ការផ្តោតស្ងប់ស្ងាត់អាចមានប្រសិទ្ធភាពជាងការព្យាយាមដោះស្រាយគ្រប់រឿងក្នុងពេលតែមួយ។",
+        "money": "រក្សាជម្រើសហិរញ្ញវត្ថុឱ្យប្រុងប្រយ័ត្ន និងជៀសវាងការចំណាយតាមអារម្មណ៍នៅពេលអារម្មណ៍ប្រែប្រួល។",
+        "health": "ល្បឿនយឺតបន្តិច អាហារដែលមានប្រយោជន៍ និងការសម្រាកគ្រប់គ្រាន់អាចជួយឱ្យអ្នកមានតុល្យភាពជាងមុន។",
+        "mood": "គិតពិចារណា",
+        "luckyColor": "ពណ៌ប្រាក់",
+        "compatibility": "មីន"
       },
-      "luckyNumber": 4,
-      "scores": {
-        "love": 82,
-        "career": 75,
-        "money": 68,
-        "health": 80,
-        "luck": 91
-      }
+      "luckyNumber": 32,
+      "scores": {"love": 89, "career": 70, "money": 66, "health": 84, "luck": 77}
     },
     {
       "sign": "leo",
       "en": {
-        "summary": "Today is a good day to organize your priorities.",
-        "love": "Listen carefully and speak kindly.",
-        "career": "Finish one small task at a time.",
-        "money": "Plan your spending before making purchases.",
-        "health": "Make time for rest and a gentle walk.",
-        "mood": "Calm",
-        "luckyColor": "Blue",
-        "compatibility": "Sagittarius"
+        "summary": "Confidence comes naturally today, but your strongest influence comes from listening as well as leading.",
+        "love": "Warmth and appreciation can bring you closer to someone important when attention is mutual.",
+        "career": "Take initiative where useful, but leave room for other people to contribute ideas.",
+        "money": "Enjoy what you have without turning every good mood into a reason to spend.",
+        "health": "Channel extra energy into movement and give yourself a proper wind-down later.",
+        "mood": "Confident",
+        "luckyColor": "Gold",
+        "compatibility": "Aries"
       },
       "kh": {
-        "summary": "ថ្ងៃនេះជាថ្ងៃល្អសម្រាប់រៀបចំអាទិភាពរបស់អ្នក។",
-        "love": "ស្តាប់ដោយយកចិត្តទុកដាក់ និងនិយាយដោយសុភាព។",
-        "career": "បញ្ចប់កិច្ចការតូចៗម្តងមួយៗ។",
-        "money": "រៀបចំផែនការចំណាយមុនពេលទិញទំនិញ។",
-        "health": "ទុកពេលសម្រាប់សម្រាក និងដើរលំហែកាយ។",
-        "mood": "ស្ងប់ស្ងាត់",
-        "luckyColor": "ពណ៌ខៀវ",
-        "compatibility": "ធ្នូ"
+        "summary": "ភាពជឿជាក់មកងាយស្រួលនៅថ្ងៃនេះ ប៉ុន្តែឥទ្ធិពលរបស់អ្នកនឹងខ្លាំងជាងមុន ប្រសិនបើអ្នកស្តាប់ដូចដែលអ្នកដឹកនាំ។",
+        "love": "ភាពកក់ក្តៅ និងការបង្ហាញការដឹងគុណអាចធ្វើឱ្យអ្នកជិតស្និទ្ធជាមួយមនុស្សសំខាន់ម្នាក់ នៅពេលការយកចិត្តទុកដាក់មានពីរផ្លូវ។",
+        "career": "ចាប់ផ្តើមអ្វីដែលមានប្រយោជន៍ដោយខ្លួនឯង ប៉ុន្តែទុកកន្លែងឱ្យអ្នកដទៃចូលរួមផ្តល់គំនិតផង។",
+        "money": "រីករាយនឹងអ្វីដែលអ្នកមាន ដោយកុំបម្លែងអារម្មណ៍ល្អគ្រប់ពេលទៅជាហេតុផលសម្រាប់ចំណាយ។",
+        "health": "ប្រើថាមពលបន្ថែមទៅលើការធ្វើចលនា ហើយរៀបចំពេលស្ងប់ស្ងាត់មុនចូលគេង។",
+        "mood": "មានទំនុកចិត្ត",
+        "luckyColor": "ពណ៌មាស",
+        "compatibility": "មេស"
       },
       "luckyNumber": 5,
-      "scores": {
-        "love": 82,
-        "career": 75,
-        "money": 68,
-        "health": 80,
-        "luck": 91
-      }
+      "scores": {"love": 91, "career": 86, "money": 62, "health": 82, "luck": 90}
     },
     {
       "sign": "virgo",
       "en": {
-        "summary": "Today is a good day to organize your priorities.",
-        "love": "Listen carefully and speak kindly.",
-        "career": "Finish one small task at a time.",
-        "money": "Plan your spending before making purchases.",
-        "health": "Make time for rest and a gentle walk.",
-        "mood": "Calm",
-        "luckyColor": "Blue",
-        "compatibility": "Sagittarius"
+        "summary": "Small improvements can make a noticeable difference today. Focus on useful adjustments instead of perfection.",
+        "love": "Be kind with your words, especially when discussing details, because not every issue needs an immediate fix.",
+        "career": "Your eye for detail is valuable, but set a stopping point so refinement does not become delay.",
+        "money": "Review practical expenses and organize anything that has been left unclear.",
+        "health": "Simple routines, stretching, and regular breaks can support steady energy.",
+        "mood": "Focused",
+        "luckyColor": "White",
+        "compatibility": "Taurus"
       },
       "kh": {
-        "summary": "ថ្ងៃនេះជាថ្ងៃល្អសម្រាប់រៀបចំអាទិភាពរបស់អ្នក។",
-        "love": "ស្តាប់ដោយយកចិត្តទុកដាក់ និងនិយាយដោយសុភាព។",
-        "career": "បញ្ចប់កិច្ចការតូចៗម្តងមួយៗ។",
-        "money": "រៀបចំផែនការចំណាយមុនពេលទិញទំនិញ។",
-        "health": "ទុកពេលសម្រាប់សម្រាក និងដើរលំហែកាយ។",
-        "mood": "ស្ងប់ស្ងាត់",
-        "luckyColor": "ពណ៌ខៀវ",
-        "compatibility": "ធ្នូ"
+        "summary": "ការកែលម្អតូចៗអាចបង្កើតភាពខុសគ្នាដែលមើលឃើញបាននៅថ្ងៃនេះ។ ផ្តោតលើការកែសម្រួលដែលមានប្រយោជន៍ ជំនួសឱ្យការតាមរកភាពល្អឥតខ្ចោះ។",
+        "love": "ប្រើពាក្យសម្ដីដោយទន់ភ្លន់ ជាពិសេសពេលនិយាយអំពីព័ត៌មានលម្អិត ព្រោះមិនមែនបញ្ហាទាំងអស់ត្រូវដោះស្រាយភ្លាមៗទេ។",
+        "career": "សមត្ថភាពសង្កេតលម្អិតរបស់អ្នកមានតម្លៃ ប៉ុន្តែត្រូវកំណត់ពេលឈប់ ដើម្បីកុំឱ្យការកែលម្អក្លាយជាការពន្យារពេល។",
+        "money": "ពិនិត្យចំណាយជាក់ស្តែង និងរៀបចំអ្វីដែលនៅមិនទាន់ច្បាស់ឱ្យមានរបៀប។",
+        "health": "ទម្លាប់សាមញ្ញ ការលាតសន្ធឹង និងការសម្រាកទៀងទាត់អាចជួយរក្សាថាមពលឱ្យថេរ។",
+        "mood": "ផ្តោតអារម្មណ៍",
+        "luckyColor": "ពណ៌ស",
+        "compatibility": "ឧសភ"
       },
-      "luckyNumber": 6,
-      "scores": {
-        "love": 82,
-        "career": 75,
-        "money": 68,
-        "health": 80,
-        "luck": 91
-      }
+      "luckyNumber": 41,
+      "scores": {"love": 73, "career": 92, "money": 83, "health": 78, "luck": 71}
     },
     {
       "sign": "libra",
       "en": {
-        "summary": "Today is a good day to organize your priorities.",
-        "love": "Listen carefully and speak kindly.",
-        "career": "Finish one small task at a time.",
-        "money": "Plan your spending before making purchases.",
-        "health": "Make time for rest and a gentle walk.",
-        "mood": "Calm",
-        "luckyColor": "Blue",
-        "compatibility": "Sagittarius"
+        "summary": "Balance is easier to find when you stop trying to please everyone at once. A clear choice can free up mental space.",
+        "love": "Mutual respect matters more than keeping the peace at any cost, so express your preference gently.",
+        "career": "Collaboration works well when responsibilities are clearly defined and agreements are specific.",
+        "money": "Keep decisions balanced and do not let social pressure shape your spending.",
+        "health": "Choose activities that help you decompress and restore a calmer rhythm.",
+        "mood": "Balanced",
+        "luckyColor": "Pink",
+        "compatibility": "Gemini"
       },
       "kh": {
-        "summary": "ថ្ងៃនេះជាថ្ងៃល្អសម្រាប់រៀបចំអាទិភាពរបស់អ្នក។",
-        "love": "ស្តាប់ដោយយកចិត្តទុកដាក់ និងនិយាយដោយសុភាព។",
-        "career": "បញ្ចប់កិច្ចការតូចៗម្តងមួយៗ។",
-        "money": "រៀបចំផែនការចំណាយមុនពេលទិញទំនិញ។",
-        "health": "ទុកពេលសម្រាប់សម្រាក និងដើរលំហែកាយ។",
-        "mood": "ស្ងប់ស្ងាត់",
-        "luckyColor": "ពណ៌ខៀវ",
-        "compatibility": "ធ្នូ"
+        "summary": "តុល្យភាពនឹងរកបានងាយជាងមុន នៅពេលអ្នកឈប់ព្យាយាមផ្គាប់ចិត្តមនុស្សគ្រប់គ្នាក្នុងពេលតែមួយ។ ការសម្រេចចិត្តឱ្យច្បាស់មួយអាចជួយបន្ថយភាពរញ៉េរញ៉ៃក្នុងចិត្ត។",
+        "love": "ការគោរពគ្នាទៅវិញទៅមកសំខាន់ជាងការរក្សាសន្តិភាពដោយគ្រប់វិធី ដូច្នេះបង្ហាញចំណូលចិត្តរបស់អ្នកដោយទន់ភ្លន់។",
+        "career": "ការសហការនឹងដំណើរការល្អ នៅពេលភារកិច្ចរបស់ម្នាក់ៗច្បាស់ និងការព្រមព្រៀងមានព័ត៌មានជាក់លាក់។",
+        "money": "រក្សាការសម្រេចចិត្តឱ្យមានតុល្យភាព និងកុំឱ្យសម្ពាធសង្គមប៉ះពាល់ដល់ការចំណាយរបស់អ្នក។",
+        "health": "ជ្រើសរើសសកម្មភាពដែលជួយបន្ថយភាពតានតឹង និងស្ដារចង្វាក់ស្ងប់ស្ងាត់។",
+        "mood": "មានតុល្យភាព",
+        "luckyColor": "ពណ៌ផ្កាឈូក",
+        "compatibility": "មិថុន"
       },
-      "luckyNumber": 7,
-      "scores": {
-        "love": 82,
-        "career": 75,
-        "money": 68,
-        "health": 80,
-        "luck": 91
-      }
+      "luckyNumber": 28,
+      "scores": {"love": 86, "career": 79, "money": 72, "health": 75, "luck": 83}
     },
     {
       "sign": "scorpio",
       "en": {
-        "summary": "Today is a good day to organize your priorities.",
-        "love": "Listen carefully and speak kindly.",
-        "career": "Finish one small task at a time.",
-        "money": "Plan your spending before making purchases.",
-        "health": "Make time for rest and a gentle walk.",
-        "mood": "Calm",
-        "luckyColor": "Blue",
-        "compatibility": "Sagittarius"
+        "summary": "Depth helps you make sense of something important today. Use your intensity carefully and avoid overreading incomplete signals.",
+        "love": "Honesty can strengthen closeness, but allow trust to build without pressure.",
+        "career": "A focused investigation or complex task may suit you well, especially with transparent communication.",
+        "money": "Look closely at hidden or overlooked costs before making a decision.",
+        "health": "Release tension through movement, quiet time, or another grounding routine.",
+        "mood": "Intense",
+        "luckyColor": "Purple",
+        "compatibility": "Cancer"
       },
       "kh": {
-        "summary": "ថ្ងៃនេះជាថ្ងៃល្អសម្រាប់រៀបចំអាទិភាពរបស់អ្នក។",
-        "love": "ស្តាប់ដោយយកចិត្តទុកដាក់ និងនិយាយដោយសុភាព។",
-        "career": "បញ្ចប់កិច្ចការតូចៗម្តងមួយៗ។",
-        "money": "រៀបចំផែនការចំណាយមុនពេលទិញទំនិញ។",
-        "health": "ទុកពេលសម្រាប់សម្រាក និងដើរលំហែកាយ។",
-        "mood": "ស្ងប់ស្ងាត់",
-        "luckyColor": "ពណ៌ខៀវ",
-        "compatibility": "ធ្នូ"
+        "summary": "ការគិតស៊ីជម្រៅអាចជួយឱ្យអ្នកយល់ច្បាស់ពីរឿងសំខាន់មួយនៅថ្ងៃនេះ។ ប្រើភាពខ្លាំងខាងអារម្មណ៍ដោយប្រុងប្រយ័ត្ន និងកុំបកស្រាយសញ្ញាដែលមិនទាន់ពេញលេញច្រើនពេក។",
+        "love": "ភាពស្មោះត្រង់អាចបង្កើនភាពជិតស្និទ្ធ ប៉ុន្តែទុកឱ្យទំនុកចិត្តកើនឡើងដោយគ្មានសម្ពាធ។",
+        "career": "ការស្រាវជ្រាវដែលត្រូវការផ្តោតខ្លាំង ឬកិច្ចការស្មុគស្មាញអាចសមនឹងអ្នក ជាពិសេសពេលការប្រាស្រ័យមានភាពច្បាស់លាស់។",
+        "money": "ពិនិត្យមើលចំណាយដែលលាក់ខ្លួន ឬងាយមើលរំលង មុននឹងធ្វើការសម្រេចចិត្ត។",
+        "health": "បញ្ចេញភាពតានតឹងតាមរយៈការធ្វើចលនា ពេលស្ងប់ស្ងាត់ ឬទម្លាប់ណាមួយដែលជួយឱ្យអ្នកមានអារម្មណ៍ជាប់ជើង។",
+        "mood": "ខ្លាំងក្លា",
+        "luckyColor": "ពណ៌ស្វាយ",
+        "compatibility": "កក្កដា"
       },
-      "luckyNumber": 8,
-      "scores": {
-        "love": 82,
-        "career": 75,
-        "money": 68,
-        "health": 80,
-        "luck": 91
-      }
+      "luckyNumber": 13,
+      "scores": {"love": 88, "career": 90, "money": 76, "health": 68, "luck": 79}
     },
     {
       "sign": "sagittarius",
       "en": {
-        "summary": "Today is a good day to organize your priorities.",
-        "love": "Listen carefully and speak kindly.",
-        "career": "Finish one small task at a time.",
-        "money": "Plan your spending before making purchases.",
-        "health": "Make time for rest and a gentle walk.",
-        "mood": "Calm",
-        "luckyColor": "Blue",
-        "compatibility": "Sagittarius"
+        "summary": "A fresh perspective can lift your motivation today. Pair enthusiasm with enough structure to turn ideas into progress.",
+        "love": "Shared humor or a spontaneous conversation can bring warmth, but do not dismiss concerns too quickly.",
+        "career": "Exploration and learning are useful, but choose one direction to develop further.",
+        "money": "Leave some room for enjoyment while still respecting your spending limits.",
+        "health": "Outdoor movement or a change of scenery can refresh your energy.",
+        "mood": "Optimistic",
+        "luckyColor": "Orange",
+        "compatibility": "Aquarius"
       },
       "kh": {
-        "summary": "ថ្ងៃនេះជាថ្ងៃល្អសម្រាប់រៀបចំអាទិភាពរបស់អ្នក។",
-        "love": "ស្តាប់ដោយយកចិត្តទុកដាក់ និងនិយាយដោយសុភាព។",
-        "career": "បញ្ចប់កិច្ចការតូចៗម្តងមួយៗ។",
-        "money": "រៀបចំផែនការចំណាយមុនពេលទិញទំនិញ។",
-        "health": "ទុកពេលសម្រាប់សម្រាក និងដើរលំហែកាយ។",
-        "mood": "ស្ងប់ស្ងាត់",
-        "luckyColor": "ពណ៌ខៀវ",
-        "compatibility": "ធ្នូ"
+        "summary": "ទស្សនៈថ្មីមួយអាចជួយលើកទឹកចិត្តអ្នកនៅថ្ងៃនេះ។ ភ្ជាប់ភាពរំភើបជាមួយរបៀបរៀបចំគ្រប់គ្រាន់ ដើម្បីបម្លែងគំនិតទៅជាការរីកចម្រើន។",
+        "love": "ការសើចសប្បាយរួមគ្នា ឬការសន្ទនាភ្លាមៗអាចនាំមកភាពកក់ក្តៅ ប៉ុន្តែកុំមើលរំលងកង្វល់របស់អ្នកដទៃលឿនពេក។",
+        "career": "ការស្វែងយល់ និងរៀនអ្វីថ្មីមានប្រយោជន៍ ប៉ុន្តែជ្រើសរើសទិសមួយដើម្បីអភិវឌ្ឍបន្ថែម។",
+        "money": "ទុកកន្លែងខ្លះសម្រាប់ការរីករាយ ប៉ុន្តែក៏គោរពដែនកំណត់ចំណាយរបស់អ្នកផង។",
+        "health": "ការធ្វើចលនាក្រៅផ្ទះ ឬប្តូរបរិយាកាសអាចជួយស្ដារថាមពល។",
+        "mood": "មានសុទិដ្ឋិនិយម",
+        "luckyColor": "ពណ៌ទឹកក្រូច",
+        "compatibility": "កុម្ភៈ"
       },
-      "luckyNumber": 9,
-      "scores": {
-        "love": 82,
-        "career": 75,
-        "money": 68,
-        "health": 80,
-        "luck": 91
-      }
+      "luckyNumber": 37,
+      "scores": {"love": 82, "career": 84, "money": 70, "health": 88, "luck": 93}
     },
     {
       "sign": "capricorn",
       "en": {
-        "summary": "Today is a good day to organize your priorities.",
-        "love": "Listen carefully and speak kindly.",
-        "career": "Finish one small task at a time.",
-        "money": "Plan your spending before making purchases.",
-        "health": "Make time for rest and a gentle walk.",
-        "mood": "Calm",
-        "luckyColor": "Blue",
-        "compatibility": "Sagittarius"
+        "summary": "Discipline helps you make solid progress today, especially on something that has required patience.",
+        "love": "Practical support can mean more than dramatic words, so make time for a sincere conversation.",
+        "career": "Break a demanding long-term goal into clear next steps and handle them one by one.",
+        "money": "Keep your plan simple and organized, and review commitments before adding another expense.",
+        "health": "A structured routine can help, but allow enough recovery time so discipline does not become strain.",
+        "mood": "Steady",
+        "luckyColor": "Brown",
+        "compatibility": "Taurus"
       },
       "kh": {
-        "summary": "ថ្ងៃនេះជាថ្ងៃល្អសម្រាប់រៀបចំអាទិភាពរបស់អ្នក។",
-        "love": "ស្តាប់ដោយយកចិត្តទុកដាក់ និងនិយាយដោយសុភាព។",
-        "career": "បញ្ចប់កិច្ចការតូចៗម្តងមួយៗ។",
-        "money": "រៀបចំផែនការចំណាយមុនពេលទិញទំនិញ។",
-        "health": "ទុកពេលសម្រាប់សម្រាក និងដើរលំហែកាយ។",
-        "mood": "ស្ងប់ស្ងាត់",
-        "luckyColor": "ពណ៌ខៀវ",
-        "compatibility": "ធ្នូ"
+        "summary": "វិន័យអាចជួយឱ្យអ្នករីកចម្រើនបានល្អនៅថ្ងៃនេះ ជាពិសេសលើរឿងដែលត្រូវការភាពអត់ធ្មត់យូរ។",
+        "love": "ការគាំទ្រជាក់ស្តែងអាចមានន័យជាងពាក្យធំៗ ដូច្នេះរកពេលសម្រាប់សន្ទនាដោយស្មោះត្រង់។",
+        "career": "បំបែកគោលដៅរយៈពេលវែងដែលលំបាកទៅជាជំហានបន្ទាប់ច្បាស់ៗ ហើយដោះស្រាយម្តងមួយ។",
+        "money": "រក្សាផែនការឱ្យសាមញ្ញ និងមានរបៀប ហើយពិនិត្យកាតព្វកិច្ចដែលមានស្រាប់ មុននឹងបន្ថែមចំណាយថ្មី។",
+        "health": "ទម្លាប់ដែលមានរបៀបអាចជួយបាន ប៉ុន្តែត្រូវទុកពេលស្ដារខ្លួនគ្រប់គ្រាន់ ដើម្បីកុំឱ្យវិន័យក្លាយជាសម្ពាធ។",
+        "mood": "ថេរថ្មី",
+        "luckyColor": "ពណ៌ត្នោត",
+        "compatibility": "ឧសភ"
       },
-      "luckyNumber": 10,
-      "scores": {
-        "love": 82,
-        "career": 75,
-        "money": 68,
-        "health": 80,
-        "luck": 91
-      }
+      "luckyNumber": 44,
+      "scores": {"love": 74, "career": 94, "money": 87, "health": 73, "luck": 72}
     },
     {
       "sign": "aquarius",
       "en": {
-        "summary": "Today is a good day to organize your priorities.",
-        "love": "Listen carefully and speak kindly.",
-        "career": "Finish one small task at a time.",
-        "money": "Plan your spending before making purchases.",
-        "health": "Make time for rest and a gentle walk.",
-        "mood": "Calm",
+        "summary": "An unconventional idea may be worth exploring today. Stay open-minded while checking whether it is practical enough to use.",
+        "love": "Give each other room to be individual, because a surprising conversation may reveal a useful perspective.",
+        "career": "Innovation works best when you explain your thinking clearly and invite feedback.",
+        "money": "Experiment only within limits you can comfortably manage and keep essential costs separate.",
+        "health": "Refresh your routine with a different activity, but keep sleep and recovery consistent.",
+        "mood": "Inventive",
         "luckyColor": "Blue",
         "compatibility": "Sagittarius"
       },
       "kh": {
-        "summary": "ថ្ងៃនេះជាថ្ងៃល្អសម្រាប់រៀបចំអាទិភាពរបស់អ្នក។",
-        "love": "ស្តាប់ដោយយកចិត្តទុកដាក់ និងនិយាយដោយសុភាព។",
-        "career": "បញ្ចប់កិច្ចការតូចៗម្តងមួយៗ។",
-        "money": "រៀបចំផែនការចំណាយមុនពេលទិញទំនិញ។",
-        "health": "ទុកពេលសម្រាប់សម្រាក និងដើរលំហែកាយ។",
-        "mood": "ស្ងប់ស្ងាត់",
+        "summary": "គំនិតមិនធម្មតាមួយអាចមានតម្លៃឱ្យសាកល្បងនៅថ្ងៃនេះ។ បើកចិត្តទូលាយ ប៉ុន្តែពិនិត្យផងថាគំនិតនោះអនុវត្តបានជាក់ស្តែងឬអត់។",
+        "love": "ទុកឱ្យម្នាក់ៗមានកន្លែងសម្រាប់ភាពជាខ្លួនឯង ព្រោះការសន្ទនាដែលមិនបានរំពឹងទុកអាចបង្ហាញទស្សនៈថ្មីដែលមានប្រយោជន៍។",
+        "career": "ការច្នៃប្រឌិតនឹងដំណើរការល្អជាងមុន ប្រសិនបើអ្នកពន្យល់គំនិតឱ្យច្បាស់ និងសុំមតិយោបល់។",
+        "money": "សាកល្បងអ្វីថ្មីតែក្នុងដែនកំណត់ដែលអ្នកអាចគ្រប់គ្រងបាន ហើយបំបែកចំណាយចាំបាច់ឱ្យច្បាស់។",
+        "health": "ធ្វើឱ្យទម្លាប់មានភាពថ្មីដោយសកម្មភាពខុសពីធម្មតា ប៉ុន្តែរក្សាពេលគេង និងសម្រាកឱ្យទៀងទាត់។",
+        "mood": "ច្នៃប្រឌិត",
         "luckyColor": "ពណ៌ខៀវ",
         "compatibility": "ធ្នូ"
       },
-      "luckyNumber": 11,
-      "scores": {
-        "love": 82,
-        "career": 75,
-        "money": 68,
-        "health": 80,
-        "luck": 91
-      }
+      "luckyNumber": 21,
+      "scores": {"love": 77, "career": 91, "money": 67, "health": 80, "luck": 89}
     },
     {
       "sign": "pisces",
       "en": {
-        "summary": "Today is a good day to organize your priorities.",
-        "love": "Listen carefully and speak kindly.",
-        "career": "Finish one small task at a time.",
-        "money": "Plan your spending before making purchases.",
-        "health": "Make time for rest and a gentle walk.",
-        "mood": "Calm",
-        "luckyColor": "Blue",
-        "compatibility": "Sagittarius"
+        "summary": "Your imagination is strong today and can help you approach familiar situations with more compassion. Keep one foot in reality when deciding.",
+        "love": "Gentle communication can create a safer emotional space, so say what you need clearly.",
+        "career": "Creative work may flow well if you give yourself a clear starting point and deadline.",
+        "money": "Keep emotional generosity separate from what you can realistically afford.",
+        "health": "Quiet time, enough sleep, and a slower evening can help you reset.",
+        "mood": "Dreamy",
+        "luckyColor": "Aqua",
+        "compatibility": "Cancer"
       },
       "kh": {
-        "summary": "ថ្ងៃនេះជាថ្ងៃល្អសម្រាប់រៀបចំអាទិភាពរបស់អ្នក។",
-        "love": "ស្តាប់ដោយយកចិត្តទុកដាក់ និងនិយាយដោយសុភាព។",
-        "career": "បញ្ចប់កិច្ចការតូចៗម្តងមួយៗ។",
-        "money": "រៀបចំផែនការចំណាយមុនពេលទិញទំនិញ។",
-        "health": "ទុកពេលសម្រាប់សម្រាក និងដើរលំហែកាយ។",
-        "mood": "ស្ងប់ស្ងាត់",
-        "luckyColor": "ពណ៌ខៀវ",
-        "compatibility": "ធ្នូ"
+        "summary": "ការស្រមើស្រមៃរបស់អ្នកខ្លាំងនៅថ្ងៃនេះ ហើយអាចជួយឱ្យអ្នកមើលស្ថានភាពស្គាល់ៗដោយមានមេត្តា និងយល់ចិត្តជាងមុន។ ទោះយ៉ាងណា ត្រូវរក្សាការគិតជាក់ស្តែងពេលសម្រេចចិត្ត។",
+        "love": "ការនិយាយដោយទន់ភ្លន់អាចបង្កើតកន្លែងអារម្មណ៍ដែលមានសុវត្ថិភាពជាងមុន ដូច្នេះប្រាប់អ្វីដែលអ្នកត្រូវការឱ្យច្បាស់។",
+        "career": "ការងារច្នៃប្រឌិតអាចដំណើរការល្អ ប្រសិនបើអ្នកកំណត់ចំណុចចាប់ផ្តើម និងពេលកំណត់ឱ្យច្បាស់។",
+        "money": "បំបែកចិត្តសប្បុរសតាមអារម្មណ៍ចេញពីអ្វីដែលអ្នកអាចចំណាយបានពិតប្រាកដ។",
+        "health": "ពេលស្ងប់ស្ងាត់ ការគេងគ្រប់គ្រាន់ និងល្បឿនយឺតនៅពេលល្ងាចអាចជួយអ្នកស្ដារខ្លួនឡើងវិញ។",
+        "mood": "ស្រមើស្រមៃ",
+        "luckyColor": "ពណ៌ទឹកសមុទ្រ",
+        "compatibility": "កក្កដា"
       },
       "luckyNumber": 12,
-      "scores": {
-        "love": 82,
-        "career": 75,
-        "money": 68,
-        "health": 80,
-        "luck": 91
-      }
+      "scores": {"love": 90, "career": 78, "money": 65, "health": 86, "luck": 85}
     }
   ]
 }
