@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-02",
+  "date": "2026-09-03",
   "timezone": "Asia/Phnom_Penh",
   "version": 1,
   "data": [
@@ -30,8 +30,8 @@
         "love": 82,
         "career": 75,
         "money": 68,
-        "health": 80,
-        "luck": 100
+        "health": 90,
+        "luck": 91
       }
     },
     {
