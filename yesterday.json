@@ -1,378 +1,378 @@
 {
-  "date": "2026-10-18",
+  "date": "2026-10-19",
   "timezone": "Asia/Phnom_Penh",
   "version": 1,
   "data": [
     {
       "sign": "aries",
       "en": {
-        "summary": "A slower start helps you notice what deserves your energy. Choose one useful thing to finish and leave time for yourself.",
-        "love": "Invite someone you care about into a simple plan instead of waiting for a perfect occasion.",
-        "career": "Write down your first priority for the week before checking new messages.",
-        "money": "Set a limit for small weekend purchases before heading out.",
-        "health": "A gentle walk is a good break from sitting for a long time.",
-        "mood": "Relaxed",
-        "luckyColor": "Red",
-        "compatibility": "Libra"
+        "summary": "An early start gives you room to handle changes without rushing. Pick the task with the clearest next step and begin there.",
+        "love": "Be direct about your plans, but leave space for the other person's schedule too.",
+        "career": "Ask what a finished result should look like before taking the lead.",
+        "money": "Check the amount and recipient before sending a payment.",
+        "health": "Take a short movement break between focused tasks.",
+        "mood": "Ready",
+        "luckyColor": "Orange",
+        "compatibility": "Sagittarius"
       },
       "kh": {
-        "summary": "ព្រឹកនេះសាកធ្វើអ្វីៗយឺតបន្តិច អ្នកនឹងឃើញថារឿងណាគួរធ្វើមុន។ ជ្រើសការងារមួយឱ្យចប់ ហើយទុកពេលសម្រាកផង។",
-        "love": "សាកបបួលមនុស្សដែលអ្នកស្រឡាញ់ញ៉ាំបាយ ឬដើរលេងបន្តិច មិនចាំបាច់រង់ចាំឱកាសពិសេសទេ។",
-        "career": "មុនបើកមើលសារថ្មីៗ កត់ការងារសំខាន់បំផុតសម្រាប់សប្តាហ៍ក្រោយទុកសិន។",
-        "money": "មុនចេញទៅទិញអីវ៉ាន់ គិតទុកថាអ្នកចង់ចាយត្រឹមប៉ុន្មាន ដើម្បីកុំឱ្យចំណាយលើស។",
-        "health": "បើអង្គុយយូរ គួរក្រោកដើរលំហែបន្តិចឱ្យស្រួលខ្លួន។",
-        "mood": "ធូរស្រាល",
-        "luckyColor": "ក្រហម",
-        "compatibility": "តុលា"
+        "summary": "ចាប់ផ្តើមមុនបន្តិច នឹងឱ្យអ្នកមានពេលដោះស្រាយរឿងផ្លាស់ប្តូរដោយមិនសូវប្រញាប់។ ជ្រើសការងារដែលដឹងច្បាស់ថាត្រូវធ្វើអ្វីបន្ទាប់ ហើយចាប់ផ្តើមពីនោះ។",
+        "love": "ប្រាប់គម្រោងរបស់អ្នកត្រង់ៗ តែក៏សួរពេលទំនេររបស់គេផង កុំសម្រេចជំនួសគេ។",
+        "career": "មុនចេញមុខដឹកនាំការងារ សួរឱ្យច្បាស់ថាគេចង់បានលទ្ធផលបែបណា។",
+        "money": "មុនផ្ទេរលុយ មើលចំនួនប្រាក់ និងឈ្មោះអ្នកទទួលឱ្យត្រឹមត្រូវសិន។",
+        "health": "ធ្វើការផ្តោតអារម្មណ៍មួយវគ្គហើយ គួរក្រោកធ្វើចលនាបន្តិច។",
+        "mood": "ត្រៀមខ្លួនរួច",
+        "luckyColor": "ទឹកក្រូច",
+        "compatibility": "ធ្នូ"
       },
-      "luckyNumber": 14,
+      "luckyNumber": 37,
       "scores": {
-        "love": 79,
-        "career": 76,
-        "money": 73,
-        "health": 84,
-        "luck": 81
+        "love": 82,
+        "career": 90,
+        "money": 79,
+        "health": 83,
+        "luck": 85
       }
     },
     {
       "sign": "taurus",
       "en": {
-        "summary": "A familiar place or routine feels especially comforting. Make room for a small change without turning the whole day upside down.",
-        "love": "Show affection through a helpful gesture that makes someone's day easier.",
-        "career": "Organize the materials you will need next week so Monday feels less rushed.",
-        "money": "Check what you already have at home before buying another supply.",
-        "health": "Keep regular mealtimes even if your weekend schedule changes.",
-        "mood": "Comfortable",
-        "luckyColor": "Green",
-        "compatibility": "Cancer"
+        "summary": "Steady progress matters more than a dramatic start to the week. A clear routine helps you stay comfortable when other people hurry.",
+        "love": "A dependable promise means more when you follow through on a small detail.",
+        "career": "Finish one stage carefully before agreeing to extra work.",
+        "money": "Keep a simple record of today's small expenses.",
+        "health": "Prepare water and a meal break before your schedule fills up.",
+        "mood": "Patient",
+        "luckyColor": "Brown",
+        "compatibility": "Virgo"
       },
       "kh": {
-        "summary": "ថ្ងៃនេះ នៅកន្លែងដែលស្គាល់ស្រាប់ ឬធ្វើអ្វីដែលធ្លាប់ធ្វើ អាចឱ្យអ្នកស្រួលចិត្ត។ ប្តូរអ្វីតូចមួយក៏បាន មិនបាច់ប្តូរគ្រប់យ៉ាងទេ។",
-        "love": "ជួយធ្វើរឿងតូចមួយឱ្យអ្នកដែលអ្នកស្រឡាញ់ គេនឹងមានអារម្មណ៍ថាអ្នកយកចិត្តទុកដាក់។",
-        "career": "រៀបឯកសារ ឬសម្ភារៈដែលត្រូវប្រើសប្តាហ៍ក្រោយទុកមុន ដើម្បីកុំឱ្យប្រញាប់នៅថ្ងៃចន្ទ។",
-        "money": "មើលរបស់ដែលមាននៅផ្ទះសិន មុនទិញបន្ថែម ក្រែងមានសល់ហើយ។",
-        "health": "ទោះរវល់ដើរលេង ក៏កុំភ្លេចញ៉ាំបាយឱ្យទៀងពេល។",
-        "mood": "ស្រួលចិត្ត",
-        "luckyColor": "បៃតង",
-        "compatibility": "កក្កដា"
+        "summary": "ដើរទៅមុខបន្តិចម្តងៗក៏បាន មិនចាំបាច់ប្រញាប់តាមអ្នកដទៃនៅដើមសប្តាហ៍ទេ។ ធ្វើតាមលំដាប់ដែលអ្នករៀបចំទុក នឹងស្រួលជាង។",
+        "love": "រឿងតូចដែលអ្នកសន្យាថានឹងធ្វើ គួរធ្វើឱ្យបាន ដើម្បីឱ្យគេទុកចិត្ត។",
+        "career": "បញ្ចប់ការងារមួយដំណាក់កាលឱ្យរួចរាល់សិន មុនទទួលការងារបន្ថែម។",
+        "money": "កត់ចំណាយតូចៗថ្ងៃនេះទុក ដើម្បីដឹងថាលុយចេញទៅលើអ្វីខ្លះ។",
+        "health": "រៀបទឹកសម្រាប់ផឹក និងទុកពេលញ៉ាំបាយ មុនការងារចាប់ផ្តើមរវល់។",
+        "mood": "អត់ធ្មត់",
+        "luckyColor": "ត្នោត",
+        "compatibility": "កញ្ញា"
       },
-      "luckyNumber": 32,
+      "luckyNumber": 24,
       "scores": {
-        "love": 86,
-        "career": 78,
-        "money": 85,
-        "health": 80,
-        "luck": 77
+        "love": 84,
+        "career": 85,
+        "money": 88,
+        "health": 81,
+        "luck": 78
       }
     },
     {
       "sign": "gemini",
       "en": {
-        "summary": "A lively conversation can give your day a new direction. Leave some quiet time to decide which ideas are worth keeping.",
-        "love": "Ask a thoughtful question and let the other person finish before sharing your own story.",
-        "career": "Save your useful ideas in one place rather than scattering them across chats.",
-        "money": "Compare the full cost of an online offer, including delivery.",
-        "health": "Take a short screen break when your attention starts to drift.",
-        "mood": "Curious",
-        "luckyColor": "Yellow",
-        "compatibility": "Aquarius"
+        "summary": "Your inbox may be lively, so separate urgent requests from interesting distractions. One clear reply can prevent several extra conversations.",
+        "love": "Say what you mean in a message instead of relying on a hint.",
+        "career": "Confirm the deadline in writing before moving to the next request.",
+        "money": "Read the renewal terms of a service before accepting a free trial.",
+        "health": "Give your eyes a rest between long stretches of reading.",
+        "mood": "Alert",
+        "luckyColor": "Blue",
+        "compatibility": "Libra"
       },
       "kh": {
-        "summary": "ការជជែកជាមួយគេអាចធ្វើឱ្យអ្នកនឹកឃើញគំនិតថ្មី។ បន្ទាប់មក ទុកពេលស្ងប់ស្ងាត់បន្តិច ដើម្បីគិតថាគំនិតណាអាចយកទៅធ្វើបាន។",
-        "love": "សួររឿងដែលបង្ហាញថាអ្នកចាប់អារម្មណ៍ ហើយស្តាប់គេនិយាយឱ្យចប់សិន។",
-        "career": "កត់គំនិតល្អៗក្នុងកន្លែងតែមួយ កុំឱ្យរាយប៉ាយតាមសារផ្សេងៗ រកមិនឃើញពេលត្រូវការ។",
-        "money": "មុនទិញតាមអនឡាញ សួរតម្លៃសរុប រួមទាំងថ្លៃដឹកជញ្ជូនផង។",
-        "health": "បើមើលទូរសព្ទរហូតលែងសូវផ្តោតអារម្មណ៍ គួរឈប់សម្រាកមួយភ្លែត។",
-        "mood": "ចង់ស្វែងយល់",
-        "luckyColor": "លឿង",
-        "compatibility": "កុម្ភៈ"
+        "summary": "សារអាចចូលច្រើនថ្ងៃនេះ គួរបែងចែកថារឿងណាបន្ទាន់ និងរឿងណាចាំពេលក្រោយបាន។ ឆ្លើយឱ្យច្បាស់ម្តង អាចកាត់បន្ថយការសួរឆ្លើយច្រើនដង។",
+        "love": "សរសេរអ្វីដែលអ្នកចង់និយាយឱ្យច្បាស់ កុំផ្ញើសារឱ្យគេទាយ។",
+        "career": "សួរថ្ងៃកំណត់ការងារឱ្យច្បាស់តាមសារ មុនទៅចាប់រឿងបន្ទាប់។",
+        "money": "មុនចុះសាកល្បងសេវាឥតគិតថ្លៃ មើលថាពេលណាចាប់ផ្តើមកាត់ប្រាក់ និងរបៀបបោះបង់សិន។",
+        "health": "បើអានឯកសារ ឬមើលអេក្រង់យូរ គួរសម្រាកភ្នែកចន្លោះពេលផង។",
+        "mood": "រហ័សរហួន",
+        "luckyColor": "ខៀវ",
+        "compatibility": "តុលា"
       },
-      "luckyNumber": 46,
+      "luckyNumber": 51,
       "scores": {
-        "love": 82,
-        "career": 88,
-        "money": 74,
-        "health": 78,
+        "love": 80,
+        "career": 89,
+        "money": 82,
+        "health": 79,
         "luck": 86
       }
     },
     {
       "sign": "cancer",
       "en": {
-        "summary": "You may want a quieter day with people who feel safe and familiar. Tell them what you need rather than hoping they will guess.",
-        "love": "An unhurried meal together can matter more than an elaborate plan.",
-        "career": "Give yourself a clear finishing time for any work you bring home.",
-        "money": "Set aside shared household expenses before spending on treats.",
-        "health": "Make your resting space comfortable and put your phone aside before bed.",
-        "mood": "Peaceful",
-        "luckyColor": "White",
-        "compatibility": "Taurus"
+        "summary": "A familiar morning routine can make a busy day feel more manageable. Start with what is within your control rather than other people's moods.",
+        "love": "A kind check-in is enough; you do not need to solve every worry for someone else.",
+        "career": "Protect a quiet block of time for work that needs concentration.",
+        "money": "Separate your own spending from money you are holding for someone else.",
+        "health": "Take your lunch break away from your work if you can.",
+        "mood": "Settled",
+        "luckyColor": "Green",
+        "compatibility": "Pisces"
       },
       "kh": {
-        "summary": "ថ្ងៃនេះអ្នកប្រហែលចង់នៅស្ងប់ៗ ជាមួយមនុស្សដែលធ្វើឱ្យអ្នកស្រួលចិត្ត។ ចង់បានអ្វី គួរប្រាប់គេ មិនបាច់ឱ្យគេទាយទេ។",
-        "love": "ញ៉ាំបាយជាមួយគ្នាដោយមិនប្រញាប់ ក៏អាចធ្វើឱ្យអ្នកទាំងពីរជិតស្និទ្ធជាងមុន។",
-        "career": "បើមានការងារយកមកធ្វើនៅផ្ទះ កំណត់ម៉ោងឈប់ឱ្យច្បាស់ ហើយសម្រាកតាមពេលនោះ។",
-        "money": "ទុកលុយសម្រាប់ចំណាយក្នុងផ្ទះសិន ទើបគិតរឿងទិញរបស់ដែលចង់បាន។",
-        "health": "រៀបកន្លែងគេងឱ្យស្រួល ហើយទុកទូរសព្ទចេញពីដៃមុនចូលគេង។",
-        "mood": "ស្ងប់ចិត្ត",
-        "luckyColor": "ស",
-        "compatibility": "ឧសភ"
+        "summary": "ធ្វើតាមទម្លាប់ពេលព្រឹកដែលអ្នកស្រួល អាចជួយឱ្យថ្ងៃរវល់មិនសូវតានតឹង។ ផ្តោតលើរឿងដែលអ្នកអាចធ្វើបាន កុំខ្វល់តាមអារម្មណ៍គេច្រើនពេក។",
+        "love": "សួរសុខទុក្ខគេដោយយកចិត្តទុកដាក់គឺល្អហើយ អ្នកមិនចាំបាច់ដោះស្រាយកង្វល់គេគ្រប់រឿងទេ។",
+        "career": "ទុកពេលស្ងប់ស្ងាត់មួយវគ្គ សម្រាប់ការងារដែលត្រូវគិតឱ្យម៉ត់ចត់។",
+        "money": "បែងលុយផ្ទាល់ខ្លួនឱ្យដាច់ពីលុយដែលគេផ្ញើទុក ដើម្បីកុំឱ្យច្រឡំចាយ។",
+        "health": "បើអាច ពេលញ៉ាំបាយថ្ងៃត្រង់ គួរផ្អាកការងារហើយទៅអង្គុយសម្រាកនៅកន្លែងផ្សេងបន្តិច។",
+        "mood": "មានអារម្មណ៍នឹងនរ",
+        "luckyColor": "បៃតង",
+        "compatibility": "មីនា"
       },
-      "luckyNumber": 21,
+      "luckyNumber": 16,
       "scores": {
-        "love": 89,
-        "career": 72,
-        "money": 81,
+        "love": 87,
+        "career": 81,
+        "money": 84,
         "health": 85,
-        "luck": 78
+        "luck": 79
       }
     },
     {
       "sign": "leo",
       "en": {
-        "summary": "A small creative project gives you a pleasant outlet today. Enjoy the process without turning it into a performance for everyone else.",
-        "love": "Offer a sincere compliment about something the other person has actually done.",
-        "career": "Try out an idea privately before deciding whether it needs a bigger audience.",
-        "money": "Choose an enjoyable activity that fits the budget you already planned.",
-        "health": "Balance an active outing with enough time to rest afterwards.",
-        "mood": "Playful",
-        "luckyColor": "Orange",
-        "compatibility": "Sagittarius"
+        "summary": "Your enthusiasm can lift a group when you make room for others to contribute. Let a useful result matter more than being noticed first.",
+        "love": "Share good news warmly without making the conversation only about you.",
+        "career": "Give a colleague credit for a helpful idea during a discussion.",
+        "money": "Think twice before paying extra just to make a stronger impression.",
+        "health": "Keep a comfortable pace instead of pushing through every break.",
+        "mood": "Encouraging",
+        "luckyColor": "Yellow",
+        "compatibility": "Aries"
       },
       "kh": {
-        "summary": "ថ្ងៃនេះសាកធ្វើអ្វីដែលអ្នកចូលចិត្ត ដូចជាគូររូប រៀបបន្ទប់ ឬថតរូបលេង។ ធ្វើដើម្បីឱ្យខ្លួនឯងសប្បាយ មិនបាច់គិតថាត្រូវបង្ហាញគេទាំងអស់ទេ។",
-        "love": "សរសើរគេដោយស្មោះ អំពីរឿងដែលគេបានធ្វើ មិនបាច់និយាយធំពេក។",
-        "career": "សាកគំនិតថ្មីដោយខ្លួនឯងសិន បើឃើញថាល្អ ទើបយកទៅប្រាប់អ្នកដទៃ។",
-        "money": "ជ្រើសរើសការដើរលេងដែលសប្បាយ ហើយចំណាយត្រូវនឹងលុយដែលអ្នកបានគ្រោងទុក។",
-        "health": "បើចេញទៅធ្វើសកម្មភាពច្រើន គួរទុកពេលសម្រាកក្រោយមកផង។",
-        "mood": "រីករាយ",
-        "luckyColor": "ទឹកក្រូច",
-        "compatibility": "ធ្នូ"
+        "summary": "ភាពរីករាយរបស់អ្នកអាចធ្វើឱ្យក្រុមមានកម្លាំងចិត្ត បើអ្នកក៏ទុកឱកាសឱ្យគេចូលរួមដែរ។ ធ្វើឱ្យការងារបានលទ្ធផលល្អ ប្រសើរជាងចង់ឱ្យគេចាប់អារម្មណ៍មុនគេ។",
+        "love": "មានដំណឹងល្អចែករំលែកបាន តែក៏សួររឿងរបស់គេផង។",
+        "career": "បើមិត្តរួមការងារមានគំនិតល្អ គួរប្រាប់គេថាអ្នកបានយកគំនិតនោះមកប្រើ។",
+        "money": "កុំប្រញាប់ចំណាយថែម គ្រាន់តែចង់ឱ្យគេមើលមកថាអ្នកមានមុខមាត់។",
+        "health": "ធ្វើការតាមកម្លាំងដែលអាចធ្វើបាន ហើយកុំរំលងពេលសម្រាកគ្រប់លើក។",
+        "mood": "ចង់លើកទឹកចិត្តគេ",
+        "luckyColor": "លឿង",
+        "compatibility": "មេសា"
       },
-      "luckyNumber": 58,
+      "luckyNumber": 68,
       "scores": {
-        "love": 85,
-        "career": 83,
-        "money": 70,
-        "health": 82,
+        "love": 86,
+        "career": 91,
+        "money": 73,
+        "health": 80,
         "luck": 88
       }
     },
     {
       "sign": "virgo",
       "en": {
-        "summary": "Clearing one small corner can make the whole day feel lighter. Stop when it is useful rather than chasing a perfect result.",
-        "love": "Let a small imperfection pass instead of correcting every detail in a conversation.",
-        "career": "Prepare a short checklist for the week and leave room for unexpected tasks.",
-        "money": "Check a receipt or subscription you have been meaning to review.",
-        "health": "Stretch gently after tidying or doing repetitive household tasks.",
-        "mood": "Clear-headed",
-        "luckyColor": "Blue",
-        "compatibility": "Capricorn"
+        "summary": "A small error caught early can save time later. Check what matters most, then let yourself move forward without rereading everything.",
+        "love": "Offer practical help without assuming the other person wants every detail corrected.",
+        "career": "Review the essential numbers and names before sending a document.",
+        "money": "Compare a bill with your record before paying it.",
+        "health": "Adjust your sitting position and relax your shoulders during desk work.",
+        "mood": "Focused",
+        "luckyColor": "White",
+        "compatibility": "Taurus"
       },
       "kh": {
-        "summary": "រៀបកន្លែងតូចមួយឱ្យស្អាត ក៏អាចធ្វើឱ្យអ្នកស្រួលចិត្តបាន។ រៀបត្រឹមប្រើស្រួលគឺបានហើយ មិនចាំបាច់ឱ្យល្អឥតខ្ចោះទេ។",
-        "love": "ពេលជជែកជាមួយគេ កុំចាប់កំហុសគ្រប់ពាក្យពេក រឿងតូចខ្លះអាចមើលរំលងបាន។",
-        "career": "ធ្វើបញ្ជីការងារខ្លីៗសម្រាប់សប្តាហ៍ក្រោយ ហើយទុកពេលខ្លះសម្រាប់រឿងបន្ទាន់។",
-        "money": "ពិនិត្យវិក្កយបត្រ ឬសេវាបង់ប្រាក់ប្រចាំខែដែលអ្នកចង់មើលយូរហើយ។",
-        "health": "បន្ទាប់ពីរៀបផ្ទះ ឬធ្វើអ្វីដដែលៗយូរ សាកលាតសន្ធឹងខ្លួនថ្នមៗ។",
-        "mood": "គិតបានច្បាស់",
-        "luckyColor": "ខៀវ",
-        "compatibility": "មករា"
+        "summary": "បើឃើញកំហុសតូចតាំងពីដំបូង អាចចំណេញពេលកែពេលក្រោយ។ ពិនិត្យចំណុចសំខាន់ឱ្យរួច ហើយបន្តធ្វើទៅ កុំត្រឡប់មើលគ្រប់យ៉ាងដដែលៗពេក។",
+        "love": "ជួយគេក្នុងរឿងដែលគេត្រូវការ មិនចាំបាច់កែតម្រូវគេគ្រប់ចំណុចទេ។",
+        "career": "មុនផ្ញើឯកសារ មើលលេខ និងឈ្មោះសំខាន់ៗម្តងទៀត។",
+        "money": "ផ្ទៀងផ្ទាត់វិក្កយបត្រជាមួយអ្វីដែលអ្នកបានកត់ទុកសិន ទើបបង់ប្រាក់។",
+        "health": "ពេលអង្គុយធ្វើការ គួរប្តូរឥរិយាបថបន្តិច ហើយបន្ធូរស្មាផង។",
+        "mood": "ផ្តោតអារម្មណ៍បានល្អ",
+        "luckyColor": "ស",
+        "compatibility": "ឧសភ"
       },
-      "luckyNumber": 35,
+      "luckyNumber": 42,
       "scores": {
-        "love": 77,
-        "career": 89,
-        "money": 87,
-        "health": 81,
-        "luck": 80
+        "love": 78,
+        "career": 93,
+        "money": 90,
+        "health": 82,
+        "luck": 84
       }
     },
     {
       "sign": "libra",
       "en": {
-        "summary": "You do not have to fit every invitation into one day. Pick the company and plans that leave you feeling at ease.",
-        "love": "Be clear about what you would enjoy instead of agreeing just to avoid a discussion.",
-        "career": "If people ask for help, agree on a manageable amount of time.",
-        "money": "Split shared costs clearly before a group outing.",
-        "health": "A quiet pause between social plans can help you recharge.",
-        "mood": "Balanced",
-        "luckyColor": "Pink",
-        "compatibility": "Gemini"
+        "summary": "A decision becomes easier when you name your own priorities first. Listening to others is useful, but you do not need everyone's approval.",
+        "love": "Suggest a plan with a clear time rather than waiting for someone else to choose.",
+        "career": "Summarize what the team has agreed before the meeting ends.",
+        "money": "If you are sharing a purchase, agree on each person's contribution first.",
+        "health": "Leave a little breathing room between appointments.",
+        "mood": "Decisive",
+        "luckyColor": "Purple",
+        "compatibility": "Aquarius"
       },
       "kh": {
-        "summary": "អ្នកមិនចាំបាច់ទៅតាមការបបួលគ្រប់គ្នាក្នុងថ្ងៃតែមួយទេ។ ជ្រើសទៅកន្លែង និងជួបមនុស្សដែលធ្វើឱ្យអ្នកស្រួលចិត្ត។",
-        "love": "ចង់ធ្វើអ្វី គួរប្រាប់គេឱ្យច្បាស់ កុំយល់ព្រមគ្រប់រឿងទាំងដែលខ្លួនមិនចង់។",
-        "career": "បើគេសុំឱ្យជួយ អ្នកអាចជួយបាន តែគួរប្រាប់ថាមានពេលប៉ុន្មាន។",
-        "money": "មុនចេញទៅដើរលេងជាក្រុម ព្រមព្រៀងគ្នាឱ្យច្បាស់ថាត្រូវចែកថ្លៃយ៉ាងម៉េច។",
-        "health": "រវាងការណាត់ជួបនីមួយៗ ទុកពេលស្ងប់ស្ងាត់បន្តិច ដើម្បីកុំឱ្យហត់ពេក។",
-        "mood": "មានអារម្មណ៍ស្រួល",
-        "luckyColor": "ផ្កាឈូក",
-        "compatibility": "មិថុន"
+        "summary": "មុនសម្រេចចិត្ត គិតសិនថាអ្វីសំខាន់សម្រាប់អ្នក ការជ្រើសរើសនឹងងាយជាងមុន។ ស្តាប់យោបល់គេបាន តែមិនចាំបាច់ឱ្យមនុស្សគ្រប់គ្នាយល់ព្រមទេ។",
+        "love": "សាកស្នើកន្លែង និងពេលណាត់ឱ្យច្បាស់ ជាជាងចាំឱ្យគេសម្រេចម្នាក់ឯង។",
+        "career": "មុនបញ្ចប់ការជួបពិភាក្សា គួរសង្ខេបថាក្រុមបានព្រមព្រៀងធ្វើអ្វីខ្លះ។",
+        "money": "បើទិញរបស់រួមគ្នា និយាយឱ្យច្បាស់ថាម្នាក់ៗចេញប៉ុន្មានសិន។",
+        "health": "កុំដាក់ការណាត់ជាប់គ្នាពេក ទុកពេលដកដង្ហើម និងធ្វើដំណើរផង។",
+        "mood": "សម្រេចចិត្តបានច្បាស់",
+        "luckyColor": "ស្វាយ",
+        "compatibility": "កុម្ភៈ"
       },
-      "luckyNumber": 62,
+      "luckyNumber": 73,
       "scores": {
-        "love": 88,
-        "career": 75,
-        "money": 82,
-        "health": 79,
-        "luck": 84
+        "love": 89,
+        "career": 84,
+        "money": 83,
+        "health": 78,
+        "luck": 85
       }
     },
     {
       "sign": "scorpio",
       "en": {
-        "summary": "A private thought may become easier to understand when you write it down. You can keep it to yourself until you are ready to talk.",
-        "love": "Ask for clarification before reading a hidden meaning into a short message.",
-        "career": "Spend a little time reviewing a complicated issue without trying to solve it all today.",
-        "money": "Read the details of a payment request before agreeing to it.",
-        "health": "Choose a calm activity that gives your mind a break from constant updates.",
-        "mood": "Thoughtful",
-        "luckyColor": "Purple",
-        "compatibility": "Pisces"
+        "summary": "You may notice a detail others have missed. Check it calmly before deciding whether it changes the bigger picture.",
+        "love": "An honest question can clear up more than quietly testing someone's reaction.",
+        "career": "Keep your attention on the part of a project you can complete today.",
+        "money": "Verify unfamiliar payment details through a trusted contact channel.",
+        "health": "Take a short quiet break after a demanding discussion.",
+        "mood": "Observant",
+        "luckyColor": "Blue",
+        "compatibility": "Cancer"
       },
       "kh": {
-        "summary": "បើមានរឿងគិតក្នុងចិត្ត សាកសរសេរចេញមក អាចជួយឱ្យអ្នកយល់ច្បាស់ជាងមុន។ មិនចាំបាច់ប្រាប់គេភ្លាមទេ បើអ្នកមិនទាន់ចង់និយាយ។",
-        "love": "បើសារគេខ្លី ហើយអ្នកមិនយល់ គួរសួរបន្ថែមសិន កុំប្រញាប់គិតថាគេមានន័យផ្សេង។",
-        "career": "មើលបញ្ហាស្មុគស្មាញបន្តិចបាន តែមិនបាច់បង្ខំខ្លួនឱ្យដោះស្រាយអស់ថ្ងៃនេះទេ។",
-        "money": "មុនយល់ព្រមបង់ប្រាក់ ពិនិត្យឱ្យច្បាស់ថាគេស្នើឱ្យបង់សម្រាប់អ្វី។",
-        "health": "សាកធ្វើអ្វីស្ងប់ៗ ហើយឈប់តាមដានព័ត៌មានមួយរយៈ ដើម្បីសម្រាកចិត្ត។",
-        "mood": "គិតគូរដោយស្ងប់",
-        "luckyColor": "ស្វាយ",
-        "compatibility": "មីនា"
+        "summary": "អ្នកអាចមើលឃើញចំណុចមួយដែលគេរំលង។ ពិនិត្យដោយស្ងប់ចិត្តសិន មុនសម្រេចថាវាប៉ះពាល់ដល់រឿងទាំងមូលឬអត់។",
+        "love": "ចង់ដឹងអ្វី គួរសួរគេដោយស្មោះ ជាជាងធ្វើអ្វីដើម្បីសាកអារម្មណ៍គេ។",
+        "career": "ផ្តោតលើផ្នែកការងារដែលអ្នកអាចបញ្ចប់ថ្ងៃនេះ មិនបាច់គិតគ្រប់ជំហានទាំងអស់ក្នុងពេលតែមួយទេ។",
+        "money": "បើមានគេផ្ញើព័ត៌មានបង់ប្រាក់ថ្មី សួរផ្ទៀងផ្ទាត់តាមលេខ ឬមធ្យោបាយដែលអ្នកស្គាល់ស្រាប់សិន។",
+        "health": "ក្រោយជជែករឿងដែលធ្វើឱ្យតានតឹង គួរទុកពេលស្ងប់ៗមួយភ្លែតឱ្យស្រួលចិត្ត។",
+        "mood": "ចេះសង្កេត",
+        "luckyColor": "ខៀវ",
+        "compatibility": "កក្កដា"
       },
-      "luckyNumber": 43,
+      "luckyNumber": 28,
       "scores": {
-        "love": 81,
-        "career": 84,
-        "money": 86,
-        "health": 78,
-        "luck": 82
+        "love": 83,
+        "career": 88,
+        "money": 87,
+        "health": 79,
+        "luck": 81
       }
     },
     {
       "sign": "sagittarius",
       "en": {
-        "summary": "A change of scenery can make an ordinary Sunday feel fresh. Keep the outing simple enough that it does not leave you rushing home.",
-        "love": "Share a new experience, even if it is only trying a different walking route together.",
-        "career": "Explore a useful topic for a short time, then note one thing you can apply next week.",
-        "money": "Allow for transport and food costs before making spontaneous plans.",
-        "health": "Carry water and take breaks if you spend time outdoors.",
-        "mood": "Adventurous",
-        "luckyColor": "Yellow",
-        "compatibility": "Leo"
+        "summary": "A clear destination makes a full schedule easier to navigate. Choose one aim for the day and let smaller plans support it.",
+        "love": "Check that an enthusiastic promise fits both your calendars.",
+        "career": "Turn a broad idea into one action someone can start today.",
+        "money": "Look at the total cost before committing to a course or trip.",
+        "health": "Plan a small outdoor break if most of the day will be indoors.",
+        "mood": "Purposeful",
+        "luckyColor": "Orange",
+        "compatibility": "Gemini"
       },
       "kh": {
-        "summary": "ប្តូរកន្លែងដើរលេងបន្តិច អាចធ្វើឱ្យថ្ងៃអាទិត្យនេះសប្បាយជាងមុន។ ជ្រើសកន្លែងងាយទៅងាយមក ដើម្បីកុំឱ្យត្រឡប់មកវិញទាំងប្រញាប់។",
-        "love": "សាកធ្វើអ្វីថ្មីជាមួយគ្នា ដូចជាប្តូរផ្លូវដើរលំហែ ក៏ជាពេលវេលាល្អបាន។",
-        "career": "ស្វែងយល់រឿងមានប្រយោជន៍មួយ ហើយកត់អ្វីដែលអាចយកទៅប្រើសប្តាហ៍ក្រោយ។",
-        "money": "មុនសម្រេចចេញទៅភ្លាមៗ គិតថ្លៃធ្វើដំណើរ និងអាហារបញ្ចូលផង។",
-        "health": "បើនៅខាងក្រៅយូរ យកទឹកតាមខ្លួន ហើយសម្រាកម្តងម្កាល។",
-        "mood": "ចង់ដើរលេង",
-        "luckyColor": "លឿង",
-        "compatibility": "សីហ"
+        "summary": "ថ្ងៃរវល់នឹងងាយចាត់ចែងជាងមុន បើអ្នកដឹងថាចង់សម្រេចរឿងអ្វីមួយ។ ជ្រើសគោលដៅមួយសម្រាប់ថ្ងៃនេះ ហើយធ្វើរឿងផ្សេងៗតាមនោះ។",
+        "love": "ទោះចង់ជួបគេខ្លាំង ក៏គួរមើលពេលទំនេររបស់អ្នកទាំងពីរ មុនសន្យា។",
+        "career": "យកគំនិតធំមួយមកបំបែកជាការងារតូចដែលអាចចាប់ផ្តើមធ្វើថ្ងៃនេះ។",
+        "money": "មុនចុះឈ្មោះរៀន ឬកក់ដំណើរ មើលចំណាយសរុបឱ្យច្បាស់សិន។",
+        "health": "បើត្រូវនៅក្នុងបន្ទប់ពេញថ្ងៃ ទុកពេលចេញដើរខាងក្រៅបន្តិចផង។",
+        "mood": "ដឹងថាចង់ធ្វើអ្វី",
+        "luckyColor": "ទឹកក្រូច",
+        "compatibility": "មិថុន"
       },
-      "luckyNumber": 76,
+      "luckyNumber": 45,
       "scores": {
-        "love": 84,
-        "career": 80,
-        "money": 72,
-        "health": 85,
-        "luck": 89
+        "love": 81,
+        "career": 87,
+        "money": 78,
+        "health": 84,
+        "luck": 90
       }
     },
     {
       "sign": "capricorn",
       "en": {
-        "summary": "You may feel tempted to use the whole day for catching up. Finish one responsibility, then protect some genuine time off.",
-        "love": "Put an unfinished task aside long enough to give someone your full attention.",
-        "career": "Make tomorrow's workload realistic rather than filling every hour in advance.",
-        "money": "Review the coming week's essential expenses before setting aside spending money.",
-        "health": "Rest is part of a useful routine; avoid treating it as something you must earn.",
-        "mood": "Grounded",
-        "luckyColor": "Brown",
-        "compatibility": "Virgo"
+        "summary": "A realistic plan gives you a stronger start than a crowded one. Leave enough space to handle the responsibility that actually matters.",
+        "love": "Share when you will be available instead of disappearing into your work.",
+        "career": "Agree on the most important deadline before adding smaller jobs to your list.",
+        "money": "Review an upcoming regular payment and keep enough aside for it.",
+        "health": "Set a reasonable stopping time for work and keep it in view.",
+        "mood": "Organized",
+        "luckyColor": "Green",
+        "compatibility": "Scorpio"
       },
       "kh": {
-        "summary": "ថ្ងៃឈប់សម្រាកកុំយកទៅធ្វើការទាំងអស់ពេក។ បញ្ចប់រឿងសំខាន់មួយ ហើយទុកពេលឱ្យខ្លួនឯងសម្រាកពិតៗផង។",
-        "love": "ផ្អាកការងារមួយភ្លែត ហើយស្តាប់មនុស្សដែលនៅជាមួយអ្នកដោយយកចិត្តទុកដាក់។",
-        "career": "រៀបការងារថ្ងៃស្អែកត្រឹមដែលអាចធ្វើបាន កុំដាក់ពេញគ្រប់ម៉ោងពេក។",
-        "money": "មើលចំណាយចាំបាច់សម្រាប់សប្តាហ៍ក្រោយសិន ទើបចែកលុយសម្រាប់ចាយលេង។",
-        "health": "អ្នកអាចសម្រាកបានដោយមិនចាំបាច់រង់ចាំឱ្យការងារចប់គ្រប់យ៉ាងទេ។",
-        "mood": "ស្ងប់និងនឹងនរ",
-        "luckyColor": "ត្នោត",
-        "compatibility": "កញ្ញា"
+        "summary": "ផែនការដែលអាចធ្វើបានពិត ជួយឱ្យអ្នកចាប់ផ្តើមសប្តាហ៍បានល្អជាងបញ្ជីពេញពេក។ ទុកពេលឱ្យគ្រប់សម្រាប់ការងារដែលសំខាន់ជាងគេ។",
+        "love": "ប្រាប់គេថាអ្នកទំនេរម៉ោងណា កុំរវល់ធ្វើការរហូតបាត់ដំណឹង។",
+        "career": "ព្រមព្រៀងថ្ងៃកំណត់ការងារសំខាន់សិន ទើបបន្ថែមការងារតូចៗចូលបញ្ជី។",
+        "money": "មើលការបង់ប្រាក់ប្រចាំដែលជិតដល់ថ្ងៃ ហើយទុកលុយសម្រាប់វាឱ្យគ្រប់។",
+        "health": "កំណត់ម៉ោងឈប់ធ្វើការដែលសមរម្យ ហើយព្យាយាមឈប់តាមម៉ោងនោះ។",
+        "mood": "មានរបៀបរៀបរយ",
+        "luckyColor": "បៃតង",
+        "compatibility": "វិច្ឆិកា"
       },
-      "luckyNumber": 18,
+      "luckyNumber": 31,
       "scores": {
-        "love": 78,
-        "career": 87,
+        "love": 79,
+        "career": 94,
         "money": 89,
-        "health": 83,
-        "luck": 76
+        "health": 81,
+        "luck": 82
       }
     },
     {
       "sign": "aquarius",
       "en": {
-        "summary": "A fresh idea may arrive while doing something unrelated to work. Keep a note of it, but let the day stay flexible.",
-        "love": "Make room for a different opinion without turning the conversation into a debate.",
-        "career": "Sketch an unusual approach before asking others to invest time in it.",
-        "money": "Wait a little before buying a gadget simply because it looks new.",
-        "health": "Step away from a long online conversation to move around and rest your eyes.",
-        "mood": "Inspired",
-        "luckyColor": "Blue",
-        "compatibility": "Gemini"
+        "summary": "A conversation with someone outside your usual circle may challenge an old assumption. Keep the useful part without changing every plan at once.",
+        "love": "Explain your need for personal space in a warm, straightforward way.",
+        "career": "Show how a new approach solves a specific problem before suggesting a bigger change.",
+        "money": "Check whether a tool you already own can do the job before paying for another.",
+        "health": "Give yourself a short break from notifications while you concentrate.",
+        "mood": "Open-minded",
+        "luckyColor": "Purple",
+        "compatibility": "Libra"
       },
       "kh": {
-        "summary": "ពេលធ្វើរឿងធម្មតាៗ អ្នកអាចនឹកឃើញគំនិតថ្មី។ កត់ទុកសិន ហើយបន្តថ្ងៃរបស់អ្នកតាមស្រួល មិនបាច់ប្រញាប់ធ្វើភ្លាមទេ។",
-        "love": "ទោះគេគិតខុសពីអ្នក ក៏សាកស្តាប់ឱ្យចប់ ដោយមិនចាំបាច់ជជែកយកឈ្នះ។",
-        "career": "គូស ឬសរសេរគំនិតប្លែករបស់អ្នកឱ្យគេមើលយល់សិន មុនសុំឱ្យគេចូលរួមធ្វើ។",
-        "money": "ឃើញឧបករណ៍ថ្មីគួរឱ្យចង់បាន កុំទាន់ទិញភ្លាម សាកគិតថាត្រូវការវាពិតឬអត់។",
-        "health": "បើជជែកតាមអនឡាញយូរ គួរឈប់មួយភ្លែត ដើរបន្តិច និងសម្រាកភ្នែកផង។",
-        "mood": "មានគំនិតថ្មី",
-        "luckyColor": "ខៀវ",
-        "compatibility": "មិថុន"
+        "summary": "ជជែកជាមួយមនុស្សដែលអ្នកមិនសូវជួប អាចឱ្យអ្នកមើលរឿងចាស់ឃើញខុសពីមុន។ យកចំណុចមានប្រយោជន៍មកគិតសិន មិនបាច់ប្តូរផែនការទាំងអស់ភ្លាមទេ។",
+        "love": "បើចង់បានពេលនៅម្នាក់ឯង គួរប្រាប់គេដោយស្រួលៗ ដើម្បីកុំឱ្យគេយល់ច្រឡំ។",
+        "career": "ចង់ស្នើវិធីធ្វើការថ្មី គួរបង្ហាញថាវាជួយដោះស្រាយបញ្ហាណាមួយបានយ៉ាងម៉េចសិន។",
+        "money": "មុនទិញឧបករណ៍បន្ថែម សាកមើលថារបស់ដែលមានស្រាប់អាចប្រើធ្វើការនោះបានឬអត់។",
+        "health": "ពេលត្រូវផ្តោតអារម្មណ៍ សាកបិទសំឡេងជូនដំណឹងមួយរយៈ ដើម្បីកុំឱ្យមានរឿងរំខានញឹកញាប់។",
+        "mood": "បើកចិត្តស្តាប់",
+        "luckyColor": "ស្វាយ",
+        "compatibility": "តុលា"
       },
-      "luckyNumber": 54,
+      "luckyNumber": 57,
       "scores": {
-        "love": 83,
-        "career": 90,
-        "money": 75,
-        "health": 80,
-        "luck": 87
+        "love": 85,
+        "career": 92,
+        "money": 80,
+        "health": 77,
+        "luck": 89
       }
     },
     {
       "sign": "pisces",
       "en": {
-        "summary": "A quiet creative moment can help you sort out mixed feelings. Keep your plans gentle and do not promise more than you want to do.",
-        "love": "Tell someone one small thing that would make you feel supported.",
-        "career": "Put reminders in writing so a good idea does not disappear when the week gets busy.",
-        "money": "Pause before spending on something mainly to change your mood.",
-        "health": "Leave yourself a calm evening instead of filling the last hours with errands.",
-        "mood": "Gentle",
-        "luckyColor": "White",
-        "compatibility": "Scorpio"
+        "summary": "Your day feels steadier when you put a gentle structure around it. Choose a small starting task instead of waiting for the right mood.",
+        "love": "Check what the other person actually needs before offering more than you can give.",
+        "career": "Keep a written note of instructions so you do not have to rely on memory.",
+        "money": "Separate a planned act of generosity from money needed for your own essentials.",
+        "health": "Pause for a few calm breaths when a busy room starts to feel overwhelming.",
+        "mood": "Steady",
+        "luckyColor": "Pink",
+        "compatibility": "Taurus"
       },
       "kh": {
-        "summary": "សាកស្តាប់ភ្លេង គូររូប ឬធ្វើអ្វីដែលអ្នកចូលចិត្តស្ងប់ៗ អាចឱ្យអ្នកស្រួលចិត្តជាងមុន។ កុំសន្យាធ្វើច្រើនជាងដែលខ្លួនចង់ធ្វើ។",
-        "love": "ប្រាប់គេរឿងតូចមួយដែលអ្នកចង់ឱ្យជួយ ដើម្បីឱ្យគេដឹងថាត្រូវយកចិត្តទុកដាក់យ៉ាងម៉េច។",
-        "career": "កត់រឿងដែលត្រូវចាំទុក មុនសប្តាហ៍ថ្មីចាប់ផ្តើមរវល់ ក្រែងភ្លេចគំនិតល្អរបស់អ្នក។",
-        "money": "បើចង់ទិញអ្វីគ្រាន់តែដើម្បីឱ្យសប្បាយចិត្ត សាករង់ចាំបន្តិចសិន ទើបសម្រេច។",
-        "health": "ល្ងាចនេះទុកពេលសម្រាកស្ងប់ៗ កុំដាក់ការងារតូចធំរហូតដល់ម៉ោងគេង។",
-        "mood": "ស្រទន់និងស្ងប់",
-        "luckyColor": "ស",
-        "compatibility": "វិច្ឆិកា"
+        "summary": "ថ្ងៃនេះអ្នកនឹងធ្វើអ្វីៗបានស្រួលជាង បើមានលំដាប់ធ្វើខ្លះៗ។ ចាប់ផ្តើមពីការងារតូចមួយ កុំចាំទាល់តែមានអារម្មណ៍ចង់ធ្វើសិន។",
+        "love": "សួរគេថាត្រូវការជំនួយអ្វីពិតប្រាកដ មុនសន្យាជួយលើសកម្លាំងខ្លួន។",
+        "career": "កត់ការណែនាំការងារទុក ដើម្បីមិនបាច់ខំចាំគ្រប់ចំណុចក្នុងចិត្ត។",
+        "money": "បើចង់ជួយលុយគេ គួរបែងលុយសម្រាប់ចំណាយចាំបាច់របស់ខ្លួនទុកឱ្យដាច់សិន។",
+        "health": "បើកន្លែងរវល់ធ្វើឱ្យអ្នកអស់កម្លាំងចិត្ត ផ្អាកមួយភ្លែត ហើយដកដង្ហើមស្រួលៗពីរបីដង។",
+        "mood": "ស្ងប់និងច្បាស់លាស់",
+        "luckyColor": "ផ្កាឈូក",
+        "compatibility": "ឧសភ"
       },
-      "luckyNumber": 29,
+      "luckyNumber": 64,
       "scores": {
-        "love": 90,
-        "career": 77,
-        "money": 74,
+        "love": 88,
+        "career": 82,
+        "money": 76,
         "health": 86,
-        "luck": 83
+        "luck": 84
       }
     }
   ]
