@@ -1,377 +1,377 @@
 {
-  "date": "2026-10-23",
+  "date": "2026-10-24",
   "timezone": "Asia/Phnom_Penh",
   "version": 1,
   "data": [
     {
       "sign": "aries",
       "en": {
-        "summary": "Friday favors a clean finish. Close the task that has followed you all week, then use the afternoon for a bold but practical next step.",
-        "love": "Be direct about weekend plans so neither of you is left guessing.",
-        "career": "Finish one visible result before volunteering for anything new.",
-        "money": "Set a weekend spending cap before the evening begins.",
-        "health": "Stretch your shoulders and take a short walk after work.",
-        "mood": "Ready",
-        "luckyColor": "Red",
-        "compatibility": "sagittarius"
+        "summary": "Saturday gives you room to act on a personal plan without the week's pressure. Start early, then leave space for an unexpected invitation later.",
+        "love": "Suggest something active and fun instead of waiting for the other person to plan.",
+        "career": "Keep work thoughts brief; note one Monday idea and return to your day off.",
+        "money": "Enjoy yourself, but decide your leisure budget before heading out.",
+        "health": "Morning movement will help burn off restless energy.",
+        "mood": "Adventurous",
+        "luckyColor": "Crimson",
+        "compatibility": "leo"
       },
       "kh": {
-        "summary": "ថ្ងៃសុក្រនេះ ល្អសម្រាប់បញ្ចប់រឿងដែលអូសបន្លាយពេញមួយសប្តាហ៍។ ធ្វើឱ្យរួចសិន រួចរសៀលចាំចាប់ផ្តើមជំហានថ្មីដែលអ្នកចង់ធ្វើ។",
-        "love": "និយាយគម្រោងចុងសប្តាហ៍ឱ្យច្បាស់ កុំឱ្យម្ខាងទៀតអង្គុយទាយចិត្ត។",
-        "career": "បញ្ចប់ការងារមួយឱ្យឃើញលទ្ធផលសិន មុនទទួលការងារថ្មី។",
-        "money": "កំណត់លុយសម្រាប់ចុងសប្តាហ៍សិន មុនចេញទៅល្ងាចនេះ។",
-        "health": "ក្រោយធ្វើការ លាតសន្ធឹងស្មា ហើយដើរបន្តិច។",
-        "mood": "ត្រៀមខ្លួន",
-        "luckyColor": "ក្រហម",
-        "compatibility": "ធ្នូ"
+        "summary": "ថ្ងៃសៅរ៍នេះ អ្នកមានពេលធ្វើរឿងផ្ទាល់ខ្លួនដោយមិនសូវមានសម្ពាធពីការងារ។ ចាប់ផ្តើមពីព្រឹក ហើយទុកពេលខ្លះសម្រាប់គម្រោងភ្លាមៗនៅពេលក្រោយ។",
+        "love": "សាកបបួលគ្នាទៅធ្វើអ្វីសប្បាយៗ កុំរង់ចាំឱ្យម្ខាងទៀតជាអ្នកគិតគ្រប់យ៉ាង។",
+        "career": "បើមានគំនិតការងារ កត់ទុកមួយសិន ហើយចាំដោះស្រាយថ្ងៃចន្ទ។",
+        "money": "សប្បាយបាន តែកំណត់លុយដែលអាចចាយមុនចេញក្រៅ។",
+        "health": "ហាត់ប្រាណ ឬដើរពេលព្រឹក នឹងជួយឱ្យរាងកាយស្រួល។",
+        "mood": "ចង់សាកអ្វីថ្មី",
+        "luckyColor": "ក្រហមចាស់",
+        "compatibility": "សីហ"
       },
-      "luckyNumber": 37,
+      "luckyNumber": 31,
       "scores": {
-        "love": 88,
-        "career": 91,
-        "money": 84,
-        "health": 86,
-        "luck": 90
+        "love": 91,
+        "career": 78,
+        "money": 82,
+        "health": 92,
+        "luck": 94
       }
     },
     {
       "sign": "taurus",
       "en": {
-        "summary": "A calm Friday lets you enjoy progress without rushing. Keep the schedule realistic and leave one comfortable pocket of time for yourself.",
-        "love": "A familiar place or simple meal together feels better than an overplanned date.",
-        "career": "Wrap up routine work carefully and leave Monday a clear starting point.",
-        "money": "Check what is already at home before shopping for the weekend.",
-        "health": "Choose steady meals and avoid skipping lunch just to finish work.",
-        "mood": "Content",
-        "luckyColor": "Forest Green",
-        "compatibility": "cancer"
+        "summary": "A slower Saturday suits you well. Make your surroundings comfortable, finish one practical errand, and enjoy the rest without feeling guilty.",
+        "love": "Quiet time together can feel more satisfying than a crowded outing.",
+        "career": "Do not let unfinished work steal the whole weekend; set a clear stopping point.",
+        "money": "A useful home purchase is favored if you compare quality first.",
+        "health": "Eat on time and give yourself a genuinely restful afternoon.",
+        "mood": "Cozy",
+        "luckyColor": "Sage Green",
+        "compatibility": "virgo"
       },
       "kh": {
-        "summary": "ថ្ងៃសុក្រនេះ អ្នកមិនចាំបាច់ប្រញាប់ទេ។ ធ្វើតាមផែនការដែលអាចធ្វើបានពិត ហើយទុកពេលស្រួលៗឱ្យខ្លួនឯងបន្តិច។",
-        "love": "ទៅកន្លែងដែលធ្លាប់ស្គាល់ ឬញ៉ាំអាហារសាមញ្ញជាមួយគ្នា អាចសប្បាយជាងរៀបគម្រោងច្រើនពេក។",
-        "career": "បិទការងារប្រចាំឱ្យបានស្អាត ហើយទុកចំណុចចាប់ផ្តើមច្បាស់សម្រាប់ថ្ងៃចន្ទ។",
-        "money": "មើលរបស់ដែលមាននៅផ្ទះសិន មុនទៅទិញសម្រាប់ចុងសប្តាហ៍។",
-        "health": "ញ៉ាំអាហារឱ្យទៀងទាត់ កុំរំលងបាយថ្ងៃត្រង់ព្រោះចង់បញ្ចប់ការងារ។",
-        "mood": "ពេញចិត្ត",
-        "luckyColor": "បៃតងព្រៃ",
-        "compatibility": "កក្កដា"
+        "summary": "ថ្ងៃសៅរ៍នេះ សមនឹងធ្វើអ្វីយឺតៗស្រួលៗ។ រៀបចំរបស់នៅជុំវិញខ្លួន បញ្ចប់កិច្ចការចាំបាច់មួយ ហើយសម្រាកដោយមិនបាច់មានអារម្មណ៍ខុស។",
+        "love": "នៅជាមួយគ្នាស្ងប់ៗ អាចមានអារម្មណ៍ល្អជាងទៅកន្លែងមនុស្សច្រើន។",
+        "career": "កុំឱ្យការងារដែលនៅសល់យកពេលចុងសប្តាហ៍ទាំងអស់។ កំណត់ពេលឈប់ឱ្យច្បាស់។",
+        "money": "បើចង់ទិញរបស់ប្រើក្នុងផ្ទះ សាកប្រៀបធៀបគុណភាពមុន។",
+        "health": "ញ៉ាំអាហារឱ្យទៀង ហើយទុកពេលរសៀលសម្រាកឱ្យបានពិតប្រាកដ។",
+        "mood": "ស្រួលខ្លួន",
+        "luckyColor": "បៃតងស្រាល",
+        "compatibility": "កញ្ញា"
       },
-      "luckyNumber": 18,
+      "luckyNumber": 46,
       "scores": {
-        "love": 90,
-        "career": 87,
-        "money": 92,
-        "health": 89,
-        "luck": 86
+        "love": 93,
+        "career": 76,
+        "money": 90,
+        "health": 91,
+        "luck": 85
       }
     },
     {
       "sign": "gemini",
       "en": {
-        "summary": "Friday brings a useful exchange that can change your weekend plan for the better. Stay flexible, but confirm details before saying yes.",
-        "love": "A spontaneous invitation can be fun if you are clear about timing.",
-        "career": "Tie up messages and handoffs so nothing important gets lost over the weekend.",
-        "money": "Compare the final price, not just the advertised discount.",
-        "health": "Give your mind a break from chats for at least one quiet stretch.",
-        "mood": "Playful",
-        "luckyColor": "Yellow",
-        "compatibility": "libra"
+        "summary": "Saturday brings lively conversations and a change of scenery. Follow your curiosity, but avoid packing too many plans into one day.",
+        "love": "A playful conversation can reveal something useful if you also listen carefully.",
+        "career": "A casual idea may be worth saving, but there is no need to solve it today.",
+        "money": "Small purchases can add up quickly while you are out; check the total midway through the day.",
+        "health": "Take a screen break when your attention starts jumping from one thing to another.",
+        "mood": "Curious",
+        "luckyColor": "Lemon Yellow",
+        "compatibility": "aquarius"
       },
       "kh": {
-        "summary": "ថ្ងៃសុក្រនេះ ការជជែកមួយអាចធ្វើឱ្យគម្រោងចុងសប្តាហ៍របស់អ្នកកាន់តែល្អ។ បត់បែនបាន តែសួរព័ត៌មានឱ្យច្បាស់មុនព្រម។",
-        "love": "ការអញ្ជើញភ្លាមៗអាចសប្បាយ តែគួរនិយាយម៉ោងឱ្យច្បាស់។",
-        "career": "ឆ្លើយសារ និងផ្ទេរការងារឱ្យរួច កុំឱ្យរឿងសំខាន់បាត់ពេលចុងសប្តាហ៍។",
-        "money": "មើលតម្លៃសរុបពេលបង់ កុំមើលតែភាគរយបញ្ចុះតម្លៃ។",
-        "health": "ទុកពេលស្ងប់មួយរយៈ ដោយមិនឆ្លើយសារ ឱ្យខួរក្បាលបានសម្រាក។",
-        "mood": "ចង់លេងសប្បាយ",
-        "luckyColor": "លឿង",
-        "compatibility": "តុលា"
+        "summary": "ថ្ងៃសៅរ៍នេះ មានទាំងការជជែកសប្បាយ និងឱកាសប្តូរបរិយាកាស។ ទៅតាមអ្វីដែលអ្នកចាប់អារម្មណ៍បាន តែកុំដាក់គម្រោងច្រើនពេកក្នុងមួយថ្ងៃ។",
+        "love": "និយាយលេងសប្បាយៗបាន តែកុំភ្លេចស្តាប់គ្នាឱ្យចប់ផង។",
+        "career": "បើមានគំនិតល្អ កត់ទុកសិន មិនចាំបាច់រកចម្លើយឱ្យបានថ្ងៃនេះទេ។",
+        "money": "ចំណាយតិចៗច្រើនដងអាចកើនលឿន។ ពាក់កណ្តាលថ្ងៃសាកមើលថាចាយអស់ប៉ុន្មានហើយ។",
+        "health": "បើចិត្តចាប់ផ្តើមរវល់ច្រើន សម្រាកពីអេក្រង់មួយភ្លែត។",
+        "mood": "ចង់ដឹងចង់ឃើញ",
+        "luckyColor": "លឿងក្រូចឆ្មា",
+        "compatibility": "កុម្ភៈ"
       },
-      "luckyNumber": 62,
+      "luckyNumber": 57,
       "scores": {
-        "love": 87,
-        "career": 89,
-        "money": 81,
+        "love": 89,
+        "career": 80,
+        "money": 77,
         "health": 84,
-        "luck": 93
+        "luck": 95
       }
     },
     {
       "sign": "cancer",
       "en": {
-        "summary": "Friday feels lighter once you settle one family or home matter. After that, give yourself permission to enjoy the evening without carrying unfinished worry.",
-        "love": "A caring message means more when it is simple and sincere.",
-        "career": "Finish essential work on time instead of bringing every loose end home.",
-        "money": "Plan one household expense now so the weekend does not become costly.",
-        "health": "A quieter evening and enough sleep will restore your energy.",
-        "mood": "Relieved",
-        "luckyColor": "White",
-        "compatibility": "taurus"
+        "summary": "Saturday turns your attention toward home and people who make you feel safe. A small act of care can settle an emotional issue that has lingered.",
+        "love": "Make time for a warm conversation without phones or distractions.",
+        "career": "Leave work where it belongs unless something is truly urgent.",
+        "money": "Cooking or staying in may save more than you expect today.",
+        "health": "A calm evening and familiar food will help you recharge.",
+        "mood": "Nurturing",
+        "luckyColor": "Pearl White",
+        "compatibility": "pisces"
       },
       "kh": {
-        "summary": "ថ្ងៃសុក្រនេះ នឹងស្រួលចិត្តឡើង បើអ្នកដោះស្រាយរឿងផ្ទះ ឬគ្រួសារមួយឱ្យរួច។ បន្ទាប់មកសម្រាកល្ងាចដោយកុំយកកង្វល់តាមខ្លួន។",
-        "love": "សារខ្លីៗដែលស្មោះ អាចធ្វើឱ្យគេមានអារម្មណ៍ល្អជាងពាក្យច្រើន។",
-        "career": "ធ្វើតែការងារចាំបាច់ឱ្យរួចតាមម៉ោង កុំយកគ្រប់រឿងទៅធ្វើនៅផ្ទះ។",
-        "money": "គ្រោងចំណាយក្នុងផ្ទះមួយឱ្យច្បាស់ ដើម្បីកុំឱ្យចុងសប្តាហ៍ចាយលើស។",
-        "health": "ល្ងាចនេះស្ងប់បន្តិច ហើយគេងឱ្យគ្រប់ នឹងជួយឱ្យមានកម្លាំងវិញ។",
-        "mood": "ធូរចិត្ត",
-        "luckyColor": "ស",
-        "compatibility": "ឧសភ"
+        "summary": "ថ្ងៃសៅរ៍នេះ អ្នកចង់នៅជិតផ្ទះ និងមនុស្សដែលធ្វើឱ្យមានអារម្មណ៍កក់ក្តៅ។ ការយកចិត្តទុកដាក់តិចតួច អាចជួយឱ្យរឿងដែលធ្លាប់មិនស្រួលចិត្តបានធូរឡើង។",
+        "love": "ទុកទូរស័ព្ទមួយភ្លែត ហើយអង្គុយនិយាយគ្នាឱ្យបានស្រួលចិត្ត។",
+        "career": "បើមិនមែនរឿងបន្ទាន់ទេ ទុកការងារចាំថ្ងៃធ្វើការ។",
+        "money": "ញ៉ាំនៅផ្ទះ ឬធ្វើម្ហូបខ្លួនឯង អាចសន្សំបានច្រើនជាងគិត។",
+        "health": "ល្ងាចស្ងប់ៗ និងអាហារដែលធ្លាប់ញ៉ាំ នឹងជួយឱ្យមានកម្លាំងវិញ។",
+        "mood": "ចង់ថែទាំ",
+        "luckyColor": "សគុជ",
+        "compatibility": "មីនា"
       },
-      "luckyNumber": 25,
+      "luckyNumber": 22,
       "scores": {
-        "love": 92,
-        "career": 82,
+        "love": 95,
+        "career": 74,
         "money": 88,
-        "health": 94,
-        "luck": 87
+        "health": 93,
+        "luck": 86
       }
     },
     {
       "sign": "leo",
       "en": {
-        "summary": "Your presence is strong on Friday, especially when you make room for others too. Celebrate a win, then share credit with the people who helped.",
-        "love": "Make the evening special with attention rather than an expensive gesture.",
-        "career": "Acknowledge the team before presenting your own contribution.",
-        "money": "Celebrate within a budget; fun does not need to become a large bill.",
-        "health": "Use your energy, but do not turn a workout into a competition.",
-        "mood": "Confident",
-        "luckyColor": "Orange",
+        "summary": "Saturday puts you in a social mood, but the best moments come when you include others rather than trying to lead everything. Let fun happen naturally.",
+        "love": "Give sincere attention to your partner or crush instead of trying to impress a crowd.",
+        "career": "Networking can happen casually today; keep it friendly rather than turning it into a pitch.",
+        "money": "Choose one memorable activity instead of paying for several flashy extras.",
+        "health": "Stay hydrated if you spend much of the day outdoors or socializing.",
+        "mood": "Radiant",
+        "luckyColor": "Sunset Orange",
         "compatibility": "aries"
       },
       "kh": {
-        "summary": "ថ្ងៃសុក្រនេះ អ្នកងាយទាក់ទាញការចាប់អារម្មណ៍។ អបអរលទ្ធផលរបស់ខ្លួនបាន តែកុំភ្លេចអរគុណអ្នកដែលបានជួយផង។",
-        "love": "ធ្វើឱ្យល្ងាចពិសេសដោយយកចិត្តទុកដាក់គ្នា មិនចាំបាច់ចំណាយថ្លៃទេ។",
-        "career": "មុននិយាយពីចំណែករបស់ខ្លួន សរសើរក្រុមដែលបានជួយឱ្យការងាររួចផង។",
-        "money": "សប្បាយបាន តែកំណត់ចំណាយសិន កុំឱ្យការអបអរក្លាយជាវិក្កយបត្រធំ។",
-        "health": "ប្រើកម្លាំងឱ្យបានល្អ តែកុំហាត់ប្រាណដូចកំពុងប្រកួតជាមួយគេ។",
-        "mood": "ជឿជាក់",
-        "luckyColor": "ទឹកក្រូច",
+        "summary": "ថ្ងៃសៅរ៍នេះ អ្នកចង់ជួបមនុស្ស និងសប្បាយជាមួយគេ។ ពេលវេលាល្អៗនឹងកើតឡើងងាយជាង បើអ្នកទុកឱ្យគ្រប់គ្នាមានចំណែក មិនចាំបាច់ដឹកនាំគ្រប់រឿងទេ។",
+        "love": "យកចិត្តទុកដាក់មនុស្សដែលអ្នកស្រឡាញ់ឱ្យបានពិត កុំរវល់តែចង់ឱ្យអ្នកដទៃចាប់អារម្មណ៍។",
+        "career": "បើបានស្គាល់មនុស្សថ្មី និយាយគ្នាស្រួលៗសិន មិនចាំបាច់ប្រញាប់និយាយរឿងការងារ។",
+        "money": "ជ្រើសសកម្មភាពល្អមួយ គ្រប់គ្រាន់ជាងចំណាយលើរឿងតូចៗច្រើន។",
+        "health": "បើនៅក្រៅផ្ទះយូរ ឬជួបជុំច្រើន កុំភ្លេចផឹកទឹក។",
+        "mood": "ភ្លឺថ្លា",
+        "luckyColor": "ទឹកក្រូចពេលថ្ងៃលិច",
         "compatibility": "មេស"
       },
-      "luckyNumber": 49,
+      "luckyNumber": 64,
       "scores": {
-        "love": 91,
-        "career": 93,
-        "money": 82,
-        "health": 88,
-        "luck": 92
+        "love": 94,
+        "career": 82,
+        "money": 80,
+        "health": 87,
+        "luck": 93
       }
     },
     {
       "sign": "virgo",
       "en": {
-        "summary": "Friday rewards a final review, not endless polishing. Fix what truly matters, save your work, and let the week be finished.",
-        "love": "Do not turn a small flaw into the main topic of an otherwise good evening.",
-        "career": "Check the important numbers once, then send the work instead of reopening it repeatedly.",
-        "money": "Reconcile one small expense before closing your weekly budget.",
-        "health": "Release tension in your neck and hands before settling down for the night.",
-        "mood": "Clear-minded",
-        "luckyColor": "Navy Blue",
-        "compatibility": "capricorn"
+        "summary": "A little organization makes Saturday much easier, but stop before tidying becomes another job. Finish one useful task and then enjoy your free time.",
+        "love": "Avoid correcting every detail; a relaxed response keeps the mood warm.",
+        "career": "Prepare one small thing for next week, then close the laptop.",
+        "money": "Review subscriptions or recurring costs while you have a quiet moment.",
+        "health": "Gentle stretching will feel better than pushing yourself through a hard routine.",
+        "mood": "Organized",
+        "luckyColor": "Dusty Blue",
+        "compatibility": "taurus"
       },
       "kh": {
-        "summary": "ថ្ងៃសុក្រនេះ ពិនិត្យការងារចុងក្រោយបាន តែកុំកែរហូតមិនចប់។ កែតែអ្វីសំខាន់ រក្សាទុកឱ្យរួច ហើយបិទសប្តាហ៍ការងារ។",
-        "love": "កុំយកចំណុចតូចមួយមកធ្វើជាបញ្ហាធំ រហូតបាត់បរិយាកាសល្អ។",
-        "career": "ពិនិត្យលេខសំខាន់ម្តងទៀត រួចផ្ញើការងារ កុំបើកមកកែញឹកញាប់។",
-        "money": "ពិនិត្យចំណាយតូចមួយឱ្យត្រូវ មុនបិទបញ្ជីចំណាយប្រចាំសប្តាហ៍។",
-        "health": "មុនសម្រាក បន្ធូរក និងដៃ ដើម្បីកុំឱ្យតឹងពីការងារ។",
-        "mood": "គិតច្បាស់",
-        "luckyColor": "ខៀវចាស់",
-        "compatibility": "មករា"
+        "summary": "ថ្ងៃសៅរ៍នេះ រៀបចំបន្តិចនឹងធ្វើឱ្យអ្វីៗស្រួលជាងមុន។ តែធ្វើត្រឹមរឿងមានប្រយោជន៍មួយបានហើយ កុំឱ្យថ្ងៃសម្រាកក្លាយជាថ្ងៃការងារ។",
+        "love": "កុំចាប់កំហុសតូចៗគ្រប់រឿង។ ធ្វើចិត្តស្រួលៗ នឹងនៅជាមួយគ្នាបានរីករាយជាង។",
+        "career": "ត្រៀមរឿងតូចមួយសម្រាប់សប្តាហ៍ក្រោយ រួចបិទកុំព្យូទ័រ។",
+        "money": "បើមានពេលស្ងប់ សាកមើលថ្លៃសេវាដែលបង់រាល់ខែថាមានអ្វីមិនចាំបាច់ទេ។",
+        "health": "លាតសន្ធឹងរាងកាយស្រាលៗ ល្អជាងបង្ខំខ្លួនហាត់ខ្លាំង។",
+        "mood": "មានរបៀប",
+        "luckyColor": "ខៀវស្រអាប់",
+        "compatibility": "ឧសភ"
       },
-      "luckyNumber": 12,
+      "luckyNumber": 15,
       "scores": {
-        "love": 84,
-        "career": 96,
-        "money": 91,
-        "health": 87,
-        "luck": 85
+        "love": 86,
+        "career": 88,
+        "money": 92,
+        "health": 90,
+        "luck": 83
       }
     },
     {
       "sign": "libra",
       "en": {
-        "summary": "A social Friday is enjoyable when you stop trying to attend everything. Choose the people and plans that leave you feeling good rather than stretched thin.",
-        "love": "Say yes to quality time, but decline an invitation if you are only going from guilt.",
-        "career": "Close one shared decision today so everyone knows what happens next.",
-        "money": "Split a group bill clearly instead of assuming it will work itself out.",
-        "health": "Balance social time with a quiet hour before bed.",
-        "mood": "Sociable",
-        "luckyColor": "Pink",
+        "summary": "Saturday favors beauty, friendship, and easy company. Make one choice based on what you truly enjoy instead of trying to please everyone.",
+        "love": "A simple date feels sweeter when both of you choose it together.",
+        "career": "Step away from work decisions today if they can wait until you have fresher perspective.",
+        "money": "Set a limit before browsing clothes, décor, or other tempting extras.",
+        "health": "Balance social time with a quiet hour for yourself.",
+        "mood": "Charming",
+        "luckyColor": "Rose Pink",
         "compatibility": "gemini"
       },
       "kh": {
-        "summary": "ថ្ងៃសុក្រនេះ អាចមានកម្មវិធីច្រើន តែមិនចាំបាច់ទៅគ្រប់កន្លែងទេ។ ជ្រើសជួបមនុស្សដែលធ្វើឱ្យអ្នកសប្បាយ និងមិនហត់ពេក។",
-        "love": "ទុកពេលឱ្យមនុស្សសំខាន់ ប៉ុន្តែបើមិនចង់ទៅកម្មវិធីណា កុំបង្ខំខ្លួនព្រោះខ្លាចគេអន់ចិត្ត។",
-        "career": "សម្រេចរឿងរួមមួយឱ្យចប់ថ្ងៃនេះ ដើម្បីឱ្យគ្រប់គ្នាដឹងជំហានបន្ទាប់។",
-        "money": "បើញ៉ាំ ឬចាយជាក្រុម ចែកវិក្កយបត្រឱ្យច្បាស់ កុំទុកឱ្យច្រឡំក្រោយមក។",
-        "health": "ក្រោយជួបមនុស្សច្រើន ទុកពេលស្ងប់មួយម៉ោងមុនគេង។",
-        "mood": "ចង់ជួបជុំ",
+        "summary": "ថ្ងៃសៅរ៍នេះ សមនឹងជួបមិត្តភក្តិ និងធ្វើអ្វីដែលធ្វើឱ្យចិត្តសប្បាយ។ ជ្រើសរឿងមួយតាមអ្វីដែលអ្នកចូលចិត្តពិតៗ កុំខំផ្គាប់ចិត្តគ្រប់គ្នា។",
+        "love": "ណាត់ជួបសាមញ្ញៗក៏ផ្អែមល្ហែមបាន បើអ្នកទាំងពីរជ្រើសរើសជាមួយគ្នា។",
+        "career": "បើការសម្រេចចិត្តការងារអាចចាំបាន ទុកថ្ងៃធ្វើការចាំគិតដោយចិត្តស្រស់ជាងនេះ។",
+        "money": "មុនមើលសម្លៀកបំពាក់ ឬរបស់តុបតែង កំណត់ថាអាចចាយប៉ុន្មានសិន។",
+        "health": "ជួបមនុស្សបាន តែទុកពេលស្ងប់ឱ្យខ្លួនឯងមួយម៉ោងផង។",
+        "mood": "គួរឱ្យស្រឡាញ់",
         "luckyColor": "ផ្កាឈូក",
         "compatibility": "មិថុន"
       },
-      "luckyNumber": 55,
+      "luckyNumber": 39,
       "scores": {
-        "love": 93,
-        "career": 86,
-        "money": 87,
-        "health": 85,
+        "love": 96,
+        "career": 75,
+        "money": 81,
+        "health": 88,
         "luck": 91
       }
     },
     {
       "sign": "scorpio",
       "en": {
-        "summary": "Friday gives you a chance to put a lingering concern to rest. Ask one necessary question, accept the answer you receive, and avoid digging for a hidden problem.",
-        "love": "Honesty works better than testing someone to see how much they care.",
-        "career": "Secure sensitive notes and finish a private task before leaving work.",
-        "money": "Keep financial promises specific, especially if money is shared.",
-        "health": "A slow evening routine can help your body let go of the week's tension.",
-        "mood": "Calm",
-        "luckyColor": "Maroon",
-        "compatibility": "pisces"
+        "summary": "Saturday gives you privacy to think through something you have kept to yourself. You do not need an immediate answer; clarity grows when you stop forcing it.",
+        "love": "Share one honest feeling instead of testing whether someone can guess it.",
+        "career": "A private idea has potential, but let it develop before showing it widely.",
+        "money": "Avoid spending just to change your mood; wait and see if the urge passes.",
+        "health": "Quiet time, deep breathing, or a slow walk can release built-up tension.",
+        "mood": "Reflective",
+        "luckyColor": "Burgundy",
+        "compatibility": "cancer"
       },
       "kh": {
-        "summary": "ថ្ងៃសុក្រនេះ អ្នកអាចបិទកង្វល់មួយដែលនៅជាប់ចិត្ត។ សួរតែអ្វីដែលចាំបាច់ ហើយទទួលចម្លើយតាមដែលមាន កុំស្វែងរកបញ្ហាដែលប្រហែលមិនមាន។",
-        "love": "និយាយត្រង់ៗល្អជាងសាកចិត្តគេ ដើម្បីមើលថាគេស្រឡាញ់ប៉ុន្មាន។",
-        "career": "រៀបចំព័ត៌មានសំខាន់ឱ្យមានសុវត្ថិភាព ហើយបញ្ចប់ការងារផ្ទាល់ខ្លួនមួយមុនចេញ។",
-        "money": "បើមានលុយពាក់ព័ន្ធគ្នា និយាយចំនួន និងពេលបង់ឱ្យច្បាស់។",
-        "health": "ល្ងាចនេះធ្វើយឺតៗ បន្ធូរខ្លួន ដើម្បីទម្លាក់ភាពតានតឹងពីពេញមួយសប្តាហ៍។",
-        "mood": "ស្ងប់ចិត្ត",
-        "luckyColor": "ក្រហមចាស់",
-        "compatibility": "មីនា"
+        "summary": "ថ្ងៃសៅរ៍នេះ អ្នកមានពេលគិតរឿងដែលធ្លាប់ទុកក្នុងចិត្ត។ មិនចាំបាច់រកចម្លើយភ្លាមៗទេ ពេលឈប់បង្ខំខ្លួន អ្នកអាចមើលឃើញច្បាស់ជាងមុន។",
+        "love": "ប្រាប់អារម្មណ៍ពិតមួយឱ្យគេដឹង កុំសាកចិត្តថាគេអាចទាយបានឬអត់។",
+        "career": "គំនិតដែលអ្នកកំពុងគិតមានផ្លូវទៅមុខ តែទុកឱ្យវាច្បាស់សិន មុនប្រាប់មនុស្សច្រើន។",
+        "money": "កុំទិញរបស់គ្រាន់តែចង់ប្តូរអារម្មណ៍។ ចាំបន្តិចមើលថានៅចង់បានទៀតឬអត់។",
+        "health": "នៅស្ងប់ៗ ដកដង្ហើមជ្រៅ ឬដើរយឺតៗ អាចជួយបន្ធូរភាពតានតឹង។",
+        "mood": "គិតស្ងប់ៗ",
+        "luckyColor": "ក្រហមស្រាទំពាំងបាយជូរ",
+        "compatibility": "កក្កដា"
       },
-      "luckyNumber": 33,
+      "luckyNumber": 73,
       "scores": {
-        "love": 89,
-        "career": 90,
-        "money": 94,
-        "health": 90,
+        "love": 90,
+        "career": 86,
+        "money": 84,
+        "health": 92,
         "luck": 88
       }
     },
     {
       "sign": "sagittarius",
       "en": {
-        "summary": "Friday opens the door to a change of scene, but the best plan has enough structure to stay enjoyable. Confirm the basics, then leave room for discovery.",
-        "love": "A last-minute outing can be memorable if both of you agree on the pace.",
-        "career": "Finish the week's obligation before diving into a new curiosity.",
-        "money": "Set aside transport and food costs before deciding what else you can spend.",
-        "health": "Outdoor movement will help you shift from work mode into weekend mode.",
-        "mood": "Adventurous",
-        "luckyColor": "Purple",
+        "summary": "Saturday is made for a change of pace. A short trip, new food, or unfamiliar place can refresh you more than repeating the usual weekend routine.",
+        "love": "Invite someone into your adventure, but respect it if they prefer a slower plan.",
+        "career": "A fresh environment may spark an idea worth noting for later.",
+        "money": "Budget for transport and food before turning a small outing into a costly one.",
+        "health": "Outdoor movement lifts your energy, especially earlier in the day.",
+        "mood": "Free-spirited",
+        "luckyColor": "Royal Purple",
         "compatibility": "aries"
       },
       "kh": {
-        "summary": "ថ្ងៃសុក្រនេះ អ្នកចង់ប្តូរបរិយាកាសខ្លាំង។ គ្រោងរឿងចាំបាច់ដូចជាម៉ោង និងទីកន្លែងឱ្យច្បាស់សិន រួចទុកកន្លែងឱ្យមានអ្វីថ្មីៗខ្លះ។",
-        "love": "ការដើរលេងភ្លាមៗអាចក្លាយជាអនុស្សាវរីយ៍ល្អ បើទាំងពីរព្រមលើម៉ោង និងរបៀបដើរ។",
-        "career": "បញ្ចប់កាតព្វកិច្ចប្រចាំសប្តាហ៍សិន មុនរត់ទៅសាករឿងថ្មី។",
-        "money": "ទុកថ្លៃធ្វើដំណើរ និងអាហារសិន រួចចាំមើលថាអាចចាយបន្ថែមប៉ុន្មាន។",
-        "health": "ចេញទៅដើរ ឬហាត់ខាងក្រៅ នឹងជួយប្តូរអារម្មណ៍ពីការងារទៅចុងសប្តាហ៍។",
-        "mood": "ចង់ផ្សងព្រេង",
-        "luckyColor": "ស្វាយ",
+        "summary": "ថ្ងៃសៅរ៍នេះ សាកប្តូរបរិយាកាសបន្តិច។ ដំណើរខ្លីៗ អាហារថ្មី ឬកន្លែងមិនធ្លាប់ទៅ អាចធ្វើឱ្យអ្នកស្រស់ស្រាយជាងធ្វើរឿងដដែលៗ។",
+        "love": "បបួលមនុស្សដែលអ្នកស្រឡាញ់ទៅជាមួយបាន តែបើគេចង់សម្រាកស្ងប់ៗ ក៏គួរគោរពគេ។",
+        "career": "បរិយាកាសថ្មីអាចឱ្យអ្នកនឹកឃើញគំនិតល្អមួយ កត់ទុកសម្រាប់ពេលក្រោយ។",
+        "money": "គិតថ្លៃធ្វើដំណើរ និងអាហារមុន ដើម្បីកុំឱ្យដំណើរខ្លីក្លាយជាចំណាយធំ។",
+        "health": "ចេញដើរ ឬធ្វើសកម្មភាពក្រៅផ្ទះពេលព្រឹក នឹងជួយឱ្យមានកម្លាំង។",
+        "mood": "មានអារម្មណ៍សេរី",
+        "luckyColor": "ស្វាយចាស់",
         "compatibility": "មេស"
       },
-      "luckyNumber": 77,
+      "luckyNumber": 52,
       "scores": {
         "love": 88,
-        "career": 84,
-        "money": 80,
-        "health": 93,
-        "luck": 96
+        "career": 83,
+        "money": 79,
+        "health": 95,
+        "luck": 97
       }
     },
     {
       "sign": "capricorn",
       "en": {
-        "summary": "The end of the workweek highlights how much you have completed. Record the next step for Monday, then stop carrying work into time meant for rest.",
-        "love": "Be present with someone you care about instead of checking one more task.",
-        "career": "Write Monday's first priority down so you can mentally clock out tonight.",
-        "money": "Move a planned amount into savings before weekend spending starts.",
-        "health": "Give yourself a clear stopping time and protect your sleep.",
-        "mood": "Satisfied",
-        "luckyColor": "Brown",
+        "summary": "Saturday reminds you that rest is productive too. Handle one responsibility early, then allow yourself to enjoy time that has no measurable goal.",
+        "love": "Show affection by being fully present rather than solving the other person's problems.",
+        "career": "Resist checking every update; your work can survive a day without supervision.",
+        "money": "A practical weekend budget leaves room for one treat without regret.",
+        "health": "Give tired muscles recovery time instead of adding another demanding session.",
+        "mood": "Grounded",
+        "luckyColor": "Charcoal Gray",
         "compatibility": "virgo"
       },
       "kh": {
-        "summary": "ចុងសប្តាហ៍ការងារនេះ អ្នកនឹងឃើញថាខ្លួនធ្វើបានច្រើនហើយ។ កត់ការងារដំបូងសម្រាប់ថ្ងៃចន្ទ រួចទុកការងារចោលសិន ហើយសម្រាក។",
-        "love": "ពេលនៅជាមួយមនុស្សដែលអ្នកខ្វល់ ទុកការងារចោលសិន កុំបើកមើលម្តងហើយម្តងទៀត។",
-        "career": "កត់អាទិភាពដំបូងសម្រាប់ថ្ងៃចន្ទ ដើម្បីល្ងាចនេះអាចបិទចិត្តពីការងារ។",
-        "money": "ផ្ទេរលុយដែលបានគ្រោងទៅសន្សំសិន មុនចាប់ផ្តើមចាយចុងសប្តាហ៍។",
-        "health": "កំណត់ម៉ោងឈប់ការងារឱ្យច្បាស់ ហើយកុំកាត់ម៉ោងគេង។",
-        "mood": "ពេញចិត្តនឹងលទ្ធផល",
-        "luckyColor": "ត្នោត",
+        "summary": "ថ្ងៃសៅរ៍នេះ រំលឹកថាការសម្រាកក៏សំខាន់ដែរ។ បញ្ចប់កាតព្វកិច្ចមួយពីព្រឹក រួចទុកពេលធ្វើអ្វីដែលអ្នកសប្បាយ ដោយមិនបាច់គិតពីលទ្ធផល។",
+        "love": "បង្ហាញការយកចិត្តទុកដាក់ដោយនៅស្តាប់គេ មិនចាំបាច់ដោះស្រាយបញ្ហាគ្រប់យ៉ាងជំនួសគេទេ។",
+        "career": "កុំចូលមើលការងារគ្រប់ពេល។ ទុកឱ្យខ្លួនឯងសម្រាកមួយថ្ងៃបាន។",
+        "money": "រៀបថវិកាចុងសប្តាហ៍ឱ្យសម ហើយទុកលុយបន្តិចសម្រាប់របស់ដែលអ្នកចង់បាន។",
+        "health": "បើសាច់ដុំនៅនឿយ ទុកពេលឱ្យវាសម្រាក កុំបន្ថែមការហាត់ខ្លាំងទៀត។",
+        "mood": "នឹងនរ",
+        "luckyColor": "ប្រផេះចាស់",
         "compatibility": "កញ្ញា"
       },
       "luckyNumber": 28,
       "scores": {
-        "love": 85,
-        "career": 95,
-        "money": 95,
+        "love": 87,
+        "career": 85,
+        "money": 94,
         "health": 89,
-        "luck": 87
+        "luck": 84
       }
     },
     {
       "sign": "aquarius",
       "en": {
-        "summary": "An unexpected Friday idea is worth noting, but it does not need to become a full project tonight. Capture it, share it with the right person, and enjoy your break.",
-        "love": "A quirky plan can bring you closer if you explain why it excites you.",
-        "career": "Save the idea and define one experiment for next week rather than working late.",
-        "money": "Avoid buying a new tool just because inspiration arrived.",
-        "health": "Disconnect from work notifications for part of the evening.",
-        "mood": "Inspired",
-        "luckyColor": "Turquoise",
-        "compatibility": "libra"
+        "summary": "An unusual idea or unexpected invitation can brighten Saturday. Give yourself permission to try something different without needing everyone to understand it.",
+        "love": "Share an odd interest or new idea; the right person may enjoy your enthusiasm.",
+        "career": "Creative thinking is strong, but keep today's brainstorming separate from actual work.",
+        "money": "A new gadget or hobby item can wait until you know you will really use it.",
+        "health": "Change your routine with a new walking route or different kind of movement.",
+        "mood": "Inventive",
+        "luckyColor": "Electric Blue",
+        "compatibility": "gemini"
       },
       "kh": {
-        "summary": "ថ្ងៃសុក្រនេះ អាចមានគំនិតថ្មីមួយមកភ្លាមៗ។ កត់វាទុក ប្រាប់មនុស្សដែលសមស្របបាន តែកុំបម្លែងវាជាគម្រោងធំរហូតធ្វើដល់យប់។",
-        "love": "គម្រោងប្លែកៗអាចធ្វើឱ្យស្និទ្ធគ្នាជាងមុន បើអ្នកប្រាប់ថាហេតុអ្វីអ្នកចូលចិត្តវា។",
-        "career": "រក្សាគំនិតទុក ហើយកំណត់ការសាកល្បងតូចមួយសម្រាប់សប្តាហ៍ក្រោយ កុំធ្វើដល់យប់។",
-        "money": "កុំទិញឧបករណ៍ថ្មីភ្លាមៗ គ្រាន់តែព្រោះមានគំនិតថ្មី។",
-        "health": "ល្ងាចនេះបិទការជូនដំណឹងការងារមួយរយៈ ហើយសម្រាកពិតៗ។",
+        "summary": "ថ្ងៃសៅរ៍នេះ គំនិតប្លែក ឬការអញ្ជើញមិនបានគ្រោង អាចធ្វើឱ្យថ្ងៃរបស់អ្នកសប្បាយជាងមុន។ សាកអ្វីថ្មីបាន មិនចាំបាច់ឱ្យគ្រប់គ្នាយល់ដូចអ្នកទេ។",
+        "love": "ប្រាប់គេពីអ្វីប្លែកដែលអ្នកចូលចិត្ត ឬគំនិតថ្មីមួយ។ មនុស្សដែលសមនឹងអ្នក អាចចូលចិត្តភាពរីករាយនេះដែរ។",
+        "career": "គំនិតច្នៃប្រឌិតល្អ តែថ្ងៃនេះគ្រាន់តែកត់គំនិតទុកបានហើយ កុំយកថ្ងៃសម្រាកទៅធ្វើការពេញថ្ងៃ។",
+        "money": "របស់បច្ចេកវិទ្យា ឬរបស់សម្រាប់ចំណង់ចំណូលចិត្តថ្មី គួរចាំសិន រហូតប្រាកដថានឹងប្រើពិត។",
+        "health": "សាកប្តូរផ្លូវដើរ ឬធ្វើចលនាបែបថ្មី ដើម្បីកុំឱ្យធុញ។",
         "mood": "មានគំនិតថ្មី",
-        "luckyColor": "ខៀវបៃតងខ្ចី",
-        "compatibility": "តុលា"
+        "luckyColor": "ខៀវភ្លឺ",
+        "compatibility": "មិថុន"
       },
-      "luckyNumber": 68,
+      "luckyNumber": 81,
       "scores": {
-        "love": 90,
-        "career": 94,
-        "money": 84,
-        "health": 86,
-        "luck": 97
+        "love": 89,
+        "career": 90,
+        "money": 76,
+        "health": 88,
+        "luck": 96
       }
     },
     {
       "sign": "pisces",
       "en": {
-        "summary": "Friday asks you to separate rest from avoidance. Finish one small responsibility first, then choose a gentle evening that actually restores you.",
-        "love": "A quiet conversation can deepen closeness more than a crowded night out.",
-        "career": "Complete the simple task you have been postponing before switching off.",
-        "money": "Choose one small treat intentionally instead of browsing when emotional.",
-        "health": "Music, a warm shower, or early sleep can settle an overloaded mind.",
-        "mood": "Peaceful",
-        "luckyColor": "Lavender",
-        "compatibility": "scorpio"
+        "summary": "Saturday softens the pace and strengthens your imagination. Music, art, water, or quiet time can help you understand what you need next.",
+        "love": "A gentle conversation works better than pushing for a definite answer today.",
+        "career": "Let a creative idea breathe before deciding whether it belongs in next week's plan.",
+        "money": "Keep generosity within a limit so helping someone does not strain your own budget.",
+        "health": "Choose a calm activity and get enough sleep after a socially busy week.",
+        "mood": "Dreamy",
+        "luckyColor": "Sea Green",
+        "compatibility": "cancer"
       },
       "kh": {
-        "summary": "ថ្ងៃសុក្រនេះ សម្រាកបាន តែកុំយកការសម្រាកមកជំនួសការគេចការងារ។ បញ្ចប់រឿងតូចមួយសិន រួចជ្រើសល្ងាចស្ងប់ៗដែលធ្វើឱ្យអ្នកមានកម្លាំងវិញ។",
-        "love": "ការនិយាយគ្នាស្ងប់ៗអាចធ្វើឱ្យស្និទ្ធជាងការចេញទៅកន្លែងមនុស្សច្រើន។",
-        "career": "បញ្ចប់ការងារងាយមួយដែលអ្នកពន្យារយូរហើយ រួចចាំបិទការងារ។",
-        "money": "បើចង់ទិញអ្វីលួងចិត្ត ជ្រើសតែមួយដែលពិតជាចង់បាន កុំអូសមើលទំនិញពេលអារម្មណ៍មិនល្អ។",
-        "health": "ស្តាប់ភ្លេង ងូតទឹកក្តៅ ឬគេងឱ្យលឿនបន្តិច អាចធ្វើឱ្យចិត្តស្ងប់។",
-        "mood": "សុខសាន្ត",
-        "luckyColor": "ស្វាយខ្ចី",
-        "compatibility": "វិច្ឆិកា"
+        "summary": "ថ្ងៃសៅរ៍នេះ អ្វីៗដើរយឺតជាងមុន ហើយគំនិតច្នៃប្រឌិតរបស់អ្នកក៏ល្អ។ ស្តាប់តន្ត្រី មើលសិល្បៈ នៅក្បែរទឹក ឬនៅស្ងប់ៗបន្តិច អាចជួយឱ្យដឹងថាខ្លួនចង់ធ្វើអ្វីបន្ទាប់។",
+        "love": "និយាយគ្នាទន់ភ្លន់ល្អជាងបង្ខំឱ្យគេផ្តល់ចម្លើយច្បាស់ភ្លាមៗ។",
+        "career": "ទុកគំនិតថ្មីឱ្យស្ងប់មួយរយៈសិន ចាំសប្តាហ៍ក្រោយទើបសម្រេចថាគួរធ្វើឬអត់។",
+        "money": "ជួយអ្នកដទៃបាន តែកំណត់ចំនួនឱ្យសម កុំឱ្យប៉ះពាល់ថវិការបស់ខ្លួន។",
+        "health": "ធ្វើអ្វីស្ងប់ៗ ហើយគេងឱ្យគ្រប់ បន្ទាប់ពីមួយសប្តាហ៍ដែលរវល់ជួបមនុស្សច្រើន។",
+        "mood": "ស្រមៃច្រើន",
+        "luckyColor": "បៃតងសមុទ្រ",
+        "compatibility": "កក្កដា"
       },
-      "luckyNumber": 15,
+      "luckyNumber": 67,
       "scores": {
-        "love": 94,
-        "career": 83,
+        "love": 92,
+        "career": 81,
         "money": 86,
-        "health": 96,
+        "health": 94,
         "luck": 90
       }
     }
