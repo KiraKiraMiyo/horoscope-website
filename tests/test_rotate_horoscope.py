@@ -29,19 +29,51 @@ class RotationTests(unittest.TestCase):
         self.temporary = tempfile.TemporaryDirectory()
         self.addCleanup(self.temporary.cleanup)
         self.root = Path(self.temporary.name)
+        self.data = self.root / "data"
+        self.data.mkdir()
         self.put("yesterday.json", forecast("2026-10-16"))
         self.put("today.json", forecast("2026-10-17"))
         self.put("tomorrow.json", forecast("2026-10-18"))
         self.put("day_after_tomorrow.json", forecast("2026-10-19"))
 
     def put(self, name, data):
-        (self.root / name).write_text(json.dumps(data), encoding="utf-8")
+        (self.data / name).write_text(json.dumps(data), encoding="utf-8")
 
     def get(self, name):
-        return json.loads((self.root / name).read_text(encoding="utf-8"))
+        return json.loads((self.data / name).read_text(encoding="utf-8"))
 
     def snapshot(self):
-        return {file.name: file.read_bytes() for file in self.root.glob("*.json")}
+        return {file.name: file.read_bytes() for file in self.data.glob("*.json")}
+
+    def test_ignores_legacy_root_and_preserves_static_content(self):
+        legacy = self.root / "today.json"
+        legacy.write_text('{"legacy": true}', encoding="utf-8")
+        untouched = {}
+        for name in ("compatibility.enc.json", "compatibility.json", "zodiac.json", "zodiac-km.json", "weekly.json", "monthly.json"):
+            self.put(name, {"sentinel": name})
+            untouched[name] = (self.data / name).read_bytes()
+        rotation.rotate_files(self.root, "2026-10-18")
+        self.assertEqual(legacy.read_text(encoding="utf-8"), '{"legacy": true}')
+        for name, content in untouched.items():
+            self.assertEqual((self.data / name).read_bytes(), content)
+        self.assertFalse((self.root / "tomorrow.json").exists())
+        self.assertFalse((self.root / "yesterday.json").exists())
+
+    def test_missing_data_directory_does_not_fall_back_to_root(self):
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            for name, day in (("today.json", "2026-10-17"), ("tomorrow.json", "2026-10-18"), ("day_after_tomorrow.json", "2026-10-19")):
+                (root / name).write_text(json.dumps(forecast(day)), encoding="utf-8")
+            before = {p.name: p.read_bytes() for p in root.iterdir()}
+            with self.assertRaises(FileNotFoundError):
+                rotation.rotate_files(root, "2026-10-18")
+            self.assertEqual({p.name: p.read_bytes() for p in root.iterdir()}, before)
+
+    def test_default_path_is_independent_of_working_directory(self):
+        from unittest.mock import patch
+        with patch.object(rotation, "__file__", str(self.root / "scripts" / "rotate_horoscope.py")):
+            self.assertTrue(rotation.rotate_files(today="2026-10-18"))
+        self.assertEqual(self.get("today.json")["date"], "2026-10-18")
 
     def test_midnight_publishes_two_distinct_dates(self):
         self.assertTrue(rotation.rotate_files(self.root, "2026-10-18"))
@@ -62,7 +94,7 @@ class RotationTests(unittest.TestCase):
         self.assertEqual(self.snapshot(), before)
 
     def test_missing_buffer_changes_no_published_files(self):
-        (self.root / "day_after_tomorrow.json").unlink()
+        (self.data / "day_after_tomorrow.json").unlink()
         before = self.snapshot()
         with self.assertRaises(FileNotFoundError):
             rotation.rotate_files(self.root, "2026-10-18")
@@ -104,12 +136,12 @@ class RotationTests(unittest.TestCase):
     def test_old_copy_only_rotation_can_be_repaired_without_losing_yesterday(self):
         self.put("tomorrow.json", forecast("2026-10-17"))
         self.put("day_after_tomorrow.json", forecast("2026-10-18"))
-        yesterday = (self.root / "yesterday.json").read_bytes()
-        today = (self.root / "today.json").read_bytes()
+        yesterday = (self.data / "yesterday.json").read_bytes()
+        today = (self.data / "today.json").read_bytes()
         self.assertTrue(rotation.rotate_files(self.root, "2026-10-17"))
         self.assertEqual(self.get("tomorrow.json")["date"], "2026-10-18")
-        self.assertEqual((self.root / "yesterday.json").read_bytes(), yesterday)
-        self.assertEqual((self.root / "today.json").read_bytes(), today)
+        self.assertEqual((self.data / "yesterday.json").read_bytes(), yesterday)
+        self.assertEqual((self.data / "today.json").read_bytes(), today)
 
     def test_year_and_leap_day_boundaries(self):
         for previous, today, tomorrow in [
@@ -126,3 +158,4 @@ class RotationTests(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+

@@ -7,8 +7,8 @@ All daily dates use `Asia/Phnom_Penh` (UTC+7).
 
 The **Tomorrow Zodiac JSON** scheduled task prepares the next two calendar days:
 
-- `tomorrow.json`: current Cambodia date + 1 day.
-- `day_after_tomorrow.json`: current Cambodia date + 2 days, prepared in advance for midnight rotation.
+- `data/tomorrow.json`: current Cambodia date + 1 day.
+- `data/day_after_tomorrow.json`: current Cambodia date + 2 days, prepared in advance for midnight rotation.
 
 Each file uses the existing version-1 bilingual `en` / `kh` schema with all twelve signs. Readings must be original for each sign/date, with natural everyday Khmer. Never fix a duplicated forecast by changing only its date. Reuse an already valid prepared forecast for the same date rather than rewriting it on every run. Publish the two prepared files together in one commit, using the current branch head to avoid overwriting concurrent changes.
 
@@ -27,3 +27,20 @@ Run the regression checks with:
 ```sh
 python -m unittest discover -s tests -v
 ```
+
+
+## Content directory
+
+All mobile content lives in `data/`: daily forecasts and the rotation buffer,
+weekly/monthly readings, zodiac profiles and encrypted compatibility. Rotation
+reads and writes only `data/today.json`, `data/tomorrow.json`,
+`data/yesterday.json`, and reads `data/day_after_tomorrow.json`.
+It resolves this directory relative to the script's repository, independently
+of the shell working directory. It never falls back to legacy root files.
+The workflow validates and stages only the three rotated files under `data/`.
+Update any external forecast-generation task to publish its prepared files to
+`data/` as well; this script does not modify that task.
+
+The mobile content base URL is `https://kirakiramiyo.github.io/horoscope-website/data/`.
+Keep website/privacy-page URLs at the site root. Compatibility decryption happens
+in the mobile app; rotation never reads, decrypts, or rewrites that file.

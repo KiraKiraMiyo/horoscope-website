@@ -89,7 +89,9 @@ def write_json(path: Path, data: dict) -> None:
     temporary.replace(path)
 
 
-def rotate_files(root: Path = Path("."), today: str | None = None) -> bool:
+def rotate_files(root: Path | None = None, today: str | None = None) -> bool:
+    # root means repository root; never read or recreate legacy root-level JSON.
+    root = (root if root is not None else Path(__file__).resolve().parents[1]) / "data"
     current_day = date.fromisoformat(today or cambodia_today())
     next_day = (current_day + timedelta(days=1)).isoformat()
     previous_day = (current_day - timedelta(days=1)).isoformat()
@@ -141,3 +143,4 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+
