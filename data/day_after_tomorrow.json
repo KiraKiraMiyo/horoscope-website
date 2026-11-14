@@ -1,378 +1,378 @@
 {
-  "date": "2026-11-15",
+  "date": "2026-11-16",
   "timezone": "Asia/Phnom_Penh",
   "version": 1,
   "data": [
     {
       "sign": "aries",
       "en": {
-        "summary": "Sunday brings a chance to reset your priorities before a busy week. Choose one goal you can finish.",
-        "love": "Ask your partner what they need this week.",
-        "career": "Prepare the first task for Monday.",
-        "money": "Set a limit for weekday lunches.",
-        "health": "Get to bed a little earlier tonight.",
-        "mood": "Ready",
-        "luckyColor": "Orange",
+        "summary": "Monday brings a chance to take charge of a delayed task. Begin before messages pile up.",
+        "love": "Tell someone your plans for the evening.",
+        "career": "Finish the first task before opening new ones.",
+        "money": "Keep lunch spending modest.",
+        "health": "Stretch your back after working.",
+        "mood": "Determined",
+        "luckyColor": "Red",
         "compatibility": "leo"
       },
       "kh": {
-        "summary": "ថ្ងៃអាទិត្យនេះ គួររៀបចំរឿងដែលចង់ធ្វើសម្រាប់សប្តាហ៍ថ្មី។ ជ្រើសរឿងសំខាន់មួយសិន។",
-        "love": "សួរមនុស្សជាទីស្រឡាញ់ថាសប្តាហ៍ក្រោយគាត់ត្រូវការអ្វី។",
-        "career": "រៀបការងារដំបូងសម្រាប់ថ្ងៃចន្ទទុក។",
-        "money": "កំណត់លុយសម្រាប់បាយថ្ងៃធ្វើការ។",
-        "health": "យប់នេះ ចូលគេងឱ្យមុនបន្តិច។",
-        "mood": "ត្រៀមខ្លួនរួច",
-        "luckyColor": "ទឹកក្រូច",
+        "summary": "ថ្ងៃចន្ទនេះ មានការងារមួយដែលអ្នកពន្យារយូរហើយ។ ចាប់ផ្តើមធ្វើពីព្រឹក កុំចាំដល់រវល់។",
+        "love": "ប្រាប់គ្នាពីគម្រោងល្ងាចនេះឱ្យច្បាស់។",
+        "career": "ធ្វើការងារទីមួយឱ្យរួចសិន មុនចាប់ការងារថ្មី។",
+        "money": "ថ្ងៃនេះ កុំចាយលើអាហារថ្ងៃត្រង់ច្រើនពេក។",
+        "health": "អង្គុយធ្វើយូរហើយ លាតខ្នងបន្តិច។",
+        "mood": "តាំងចិត្ត",
+        "luckyColor": "ក្រហម",
         "compatibility": "សីហ"
       },
-      "luckyNumber": 50,
+      "luckyNumber": 24,
       "scores": {
-        "love": 65,
-        "career": 66,
-        "money": 71,
-        "health": 87,
-        "luck": 90
+        "love": 45,
+        "career": 52,
+        "money": 59,
+        "health": 66,
+        "luck": 73
       }
     },
     {
       "sign": "taurus",
       "en": {
-        "summary": "A Sunday visit with relatives may bring useful news. Enjoy the company without making quick promises.",
-        "love": "Share a warm meal with family.",
-        "career": "Keep a note of a useful suggestion.",
-        "money": "Check what groceries are already at home.",
-        "health": "Take a gentle walk after lunch.",
-        "mood": "Content",
+        "summary": "A Monday request may interrupt your routine. Set a clear time to help without neglecting your own work.",
+        "love": "Check in with a loved one at lunch.",
+        "career": "Agree on a realistic deadline.",
+        "money": "Check transport costs for the week.",
+        "health": "Eat on time even when busy.",
+        "mood": "Steady",
         "luckyColor": "Green",
         "compatibility": "virgo"
       },
       "kh": {
-        "summary": "ថ្ងៃអាទិត្យនេះ អាចបានជួបសាច់ញាតិ និងឮដំណឹងល្អខ្លះ។ កុំប្រញាប់សន្យាអ្វីភ្លាមៗ។",
-        "love": "ញ៉ាំបាយជុំគ្នាជាមួយអ្នកផ្ទះ។",
-        "career": "បើឮយោបល់ល្អ កត់ទុកផង។",
-        "money": "មើលម្ហូបដែលមាននៅផ្ទះសិន មុនទិញបន្ថែម។",
-        "health": "ញ៉ាំបាយថ្ងៃត្រង់ហើយ ដើរលេងបន្តិច។",
-        "mood": "ពេញចិត្ត",
+        "summary": "ថ្ងៃចន្ទនេះ អាចមានគេសុំឱ្យជួយការងារ។ ជួយបាន តែកុំភ្លេចការងារខ្លួនឯង។",
+        "love": "ម៉ោងបាយ សួរសុខទុក្ខមនុស្សជិតស្និទ្ធផង។",
+        "career": "ប្រាប់គេពីពេលដែលអ្នកអាចធ្វើរួច។",
+        "money": "គិតថ្លៃធ្វើដំណើរសម្រាប់សប្តាហ៍នេះទុក។",
+        "health": "រវល់យ៉ាងណា កុំរំលងម៉ោងបាយ។",
+        "mood": "នឹងនរ",
         "luckyColor": "បៃតង",
         "compatibility": "កញ្ញា"
       },
-      "luckyNumber": 70,
+      "luckyNumber": 41,
       "scores": {
-        "love": 75,
-        "career": 80,
-        "money": 83,
-        "health": 44,
-        "luck": 98
+        "love": 56,
+        "career": 63,
+        "money": 70,
+        "health": 77,
+        "luck": 84
       }
     },
     {
       "sign": "gemini",
       "en": {
-        "summary": "Sunday is better for one meaningful conversation than many scattered chats. Give someone your full attention.",
+        "summary": "A Monday meeting may reveal a detail you missed. Ask one clear question before responding.",
         "love": "Listen without checking your phone.",
-        "career": "Sort the messages you must answer Monday.",
-        "money": "Avoid ordering food twice today.",
-        "health": "Rest your eyes away from screens.",
-        "mood": "Attentive",
+        "career": "Write down the agreed next step.",
+        "money": "Avoid a quick purchase between errands.",
+        "health": "Drink water between calls.",
+        "mood": "Alert",
         "luckyColor": "Yellow",
         "compatibility": "libra"
       },
       "kh": {
-        "summary": "ថ្ងៃអាទិត្យនេះ ជជែកជាមួយមនុស្សជិតស្និទ្ធម្នាក់ឱ្យបានស្រួលៗ។ មិនបាច់រវល់ឆ្លើយសារគ្រប់គ្នាទេ។",
-        "love": "ពេលគេនិយាយ ទុកទូរស័ព្ទសិន។",
-        "career": "រៀបសារការងារដែលត្រូវឆ្លើយថ្ងៃចន្ទ។",
-        "money": "ថ្ងៃនេះ កុំកម្មង់អាហារញឹកញាប់ពេក។",
-        "health": "សម្រាកភ្នែកពីអេក្រង់ខ្លះ។",
-        "mood": "យកចិត្តទុកដាក់",
+        "summary": "ថ្ងៃចន្ទនេះ ពេលប្រជុំ អ្នកអាចដឹងរឿងមួយដែលមិនទាន់ច្បាស់។ សួរឱ្យយល់សិន មុនឆ្លើយ។",
+        "love": "ពេលគេនិយាយ ដាក់ទូរស័ព្ទចុះសិន។",
+        "career": "កត់អ្វីដែលត្រូវធ្វើបន្ទាប់ឱ្យច្បាស់។",
+        "money": "កុំទិញរបស់តាមចិត្តពេលរវល់។",
+        "health": "ឆ្លៀតផឹកទឹកពេលសម្រាកពីការងារ។",
+        "mood": "ប្រុងប្រយ័ត្ន",
         "luckyColor": "លឿង",
         "compatibility": "តុលា"
       },
-      "luckyNumber": 90,
+      "luckyNumber": 58,
       "scores": {
-        "love": 85,
-        "career": 94,
-        "money": 95,
-        "health": 60,
-        "luck": 47
+        "love": 67,
+        "career": 74,
+        "money": 81,
+        "health": 88,
+        "luck": 46
       }
     },
     {
       "sign": "cancer",
       "en": {
-        "summary": "A small Sunday change at home can make the coming week more comfortable. Ask everyone before rearranging things.",
-        "love": "Help someone with a household chore.",
-        "career": "Put essential items where you can find them.",
-        "money": "Write down household expenses.",
-        "health": "Make time for an afternoon rest.",
-        "mood": "Settled",
+        "summary": "A busy Monday at home and work may pull you in two directions. Decide what truly needs attention first.",
+        "love": "Explain why you may be late.",
+        "career": "Handle urgent messages early.",
+        "money": "Set aside money for household needs.",
+        "health": "Take a quiet break after work.",
+        "mood": "Patient",
         "luckyColor": "White",
-        "compatibility": "scorpio"
+        "compatibility": "pisces"
       },
       "kh": {
-        "summary": "ថ្ងៃអាទិត្យនេះ រៀបចំផ្ទះបន្តិច អាចធ្វើឱ្យសប្តាហ៍ក្រោយស្រួលជាងមុន។ សួរអ្នកផ្ទះសិន មុនរើរបស់។",
-        "love": "ជួយអ្នកផ្ទះធ្វើការងារតូចមួយ។",
-        "career": "ដាក់របស់សំខាន់ៗឱ្យងាយរក។",
-        "money": "កត់លុយដែលចាយសម្រាប់ផ្ទះ។",
-        "health": "រសៀលនេះ សម្រាកឱ្យបានបន្តិច។",
-        "mood": "ស្រួលចិត្ត",
+        "summary": "ថ្ងៃចន្ទនេះ ការងារ និងរឿងនៅផ្ទះអាចមកព្រមគ្នា។ មើលរឿងណាបន្ទាន់ជាងគេសិន។",
+        "love": "បើត្រឡប់យឺត ប្រាប់អ្នកផ្ទះឱ្យដឹង។",
+        "career": "ឆ្លើយសារការងារបន្ទាន់ពីព្រឹក។",
+        "money": "ទុកលុយខ្លះសម្រាប់របស់ប្រើក្នុងផ្ទះ។",
+        "health": "ចប់ការងារហើយ សម្រាកស្ងាត់ៗបន្តិច។",
+        "mood": "អត់ធ្មត់",
         "luckyColor": "ស",
-        "compatibility": "វិច្ឆិក"
+        "compatibility": "មីន"
       },
-      "luckyNumber": 11,
+      "luckyNumber": 75,
       "scores": {
-        "love": 95,
-        "career": 49,
-        "money": 48,
-        "health": 41,
-        "luck": 55
+        "love": 78,
+        "career": 85,
+        "money": 92,
+        "health": 50,
+        "luck": 57
       }
     },
     {
       "sign": "leo",
       "en": {
-        "summary": "A Sunday hobby may remind you how much you enjoy learning. Practice for fun, not for approval.",
-        "love": "Invite a loved one to join briefly.",
-        "career": "Save your best idea for next week.",
-        "money": "Use what you own instead of buying new gear.",
-        "health": "Drink water between activities.",
-        "mood": "Playful",
+        "summary": "Someone may ask for your opinion on Monday. Offer a practical suggestion rather than trying to impress.",
+        "love": "Praise a partner's effort.",
+        "career": "Show a useful example to your team.",
+        "money": "Delay a luxury purchase.",
+        "health": "Rest your eyes after screen time.",
+        "mood": "Confident",
         "luckyColor": "Gold",
-        "compatibility": "sagittarius"
+        "compatibility": "aries"
       },
       "kh": {
-        "summary": "ថ្ងៃអាទិត្យនេះ សាកធ្វើអ្វីដែលអ្នកចូលចិត្តយូរហើយ។ ធ្វើដើម្បីសប្បាយ មិនបាច់ចាំគេសរសើរទេ។",
-        "love": "បបួលមនុស្សជិតស្និទ្ធមកធ្វើជាមួយបន្តិច។",
-        "career": "កត់គំនិតល្អទុកសម្រាប់សប្តាហ៍ក្រោយ។",
-        "money": "ប្រើរបស់ដែលមានសិន កុំទាន់ទិញថ្មី។",
-        "health": "កុំភ្លេចផឹកទឹកពេលធ្វើអ្វីយូរ។",
-        "mood": "សប្បាយរីករាយ",
+        "summary": "ថ្ងៃចន្ទនេះ អាចមានគេសួរយោបល់អ្នក។ ប្រាប់តាមអ្វីដែលអ្នកដឹង មិនបាច់និយាយឱ្យល្អពេកទេ។",
+        "love": "សរសើរគេពេលគេខំធ្វើអ្វីមួយ។",
+        "career": "បង្ហាញគំរូឱ្យក្រុមមើល ងាយយល់ជាងនិយាយច្រើន។",
+        "money": "របស់ថ្លៃដែលមិនចាំបាច់ ចាំទិញថ្ងៃក្រោយ។",
+        "health": "មើលអេក្រង់យូរហើយ សម្រាកភ្នែកផង។",
+        "mood": "ជឿជាក់",
         "luckyColor": "មាស",
-        "compatibility": "ធ្នូ"
+        "compatibility": "មេស"
       },
-      "luckyNumber": 31,
+      "luckyNumber": 92,
       "scores": {
-        "love": 46,
-        "career": 82,
-        "money": 60,
-        "health": 57,
-        "luck": 63
+        "love": 89,
+        "career": 47,
+        "money": 54,
+        "health": 61,
+        "luck": 68
       }
     },
     {
       "sign": "virgo",
       "en": {
-        "summary": "Sunday is a chance to simplify your schedule. Leave room for delays instead of filling every hour.",
-        "love": "Make a simple plan together.",
-        "career": "Choose three priorities for Monday.",
-        "money": "Check upcoming bills calmly.",
-        "health": "Stretch your legs after cleaning.",
-        "mood": "Clear-headed",
+        "summary": "Monday starts better when you check small details. One careful review may prevent extra work later.",
+        "love": "Don't correct every little thing someone says.",
+        "career": "Review figures before sending them.",
+        "money": "Keep receipts from today's purchases.",
+        "health": "Take a short walk at midday.",
+        "mood": "Careful",
         "luckyColor": "Blue",
-        "compatibility": "capricorn"
+        "compatibility": "taurus"
       },
       "kh": {
-        "summary": "ថ្ងៃអាទិត្យនេះ រៀបពេលវេលាឱ្យស្រួលៗបានហើយ។ កុំដាក់ការងារច្រើនពេញមួយថ្ងៃ។",
-        "love": "រៀបគម្រោងងាយៗជាមួយមនុស្សជាទីស្រឡាញ់។",
-        "career": "ជ្រើសការងារសំខាន់បីសម្រាប់ថ្ងៃចន្ទ។",
-        "money": "មើលវិក្កយបត្រដែលជិតដល់ថ្ងៃបង់។",
-        "health": "បោសសម្អាតរួច លាតជើងបន្តិច។",
-        "mood": "គិតបានស្រួល",
+        "summary": "ថ្ងៃចន្ទនេះ មើលព័ត៌មានតូចៗឱ្យច្បាស់ពីព្រឹក។ ពិនិត្យម្តងទៀត អាចកុំឱ្យកែការងារច្រើន។",
+        "love": "កុំចាប់កំហុសគេគ្រប់ពាក្យ។",
+        "career": "ពិនិត្យលេខឱ្យច្បាស់ មុនផ្ញើការងារ។",
+        "money": "ទុកវិក្កយបត្ររបស់ដែលទិញថ្ងៃនេះ។",
+        "health": "ថ្ងៃត្រង់ ដើរលំហែបន្តិច។",
+        "mood": "ម៉ត់ចត់",
         "luckyColor": "ខៀវ",
-        "compatibility": "មករ"
+        "compatibility": "ឧសភ"
       },
-      "luckyNumber": 51,
+      "luckyNumber": 10,
       "scores": {
-        "love": 80,
-        "career": 96,
-        "money": 91,
-        "health": 73,
-        "luck": 71
+        "love": 51,
+        "career": 58,
+        "money": 65,
+        "health": 72,
+        "luck": 79
       }
     },
     {
       "sign": "libra",
       "en": {
-        "summary": "A Sunday outing can be enjoyable without a packed schedule. Leave time for an unplanned stop.",
-        "love": "Let the other person choose one activity.",
-        "career": "Review a shared plan for the week.",
-        "money": "Bring a little cash but stay within budget.",
-        "health": "Wear comfortable shoes outdoors.",
-        "mood": "Easygoing",
+        "summary": "A Monday disagreement can settle quickly if you focus on what both sides need.",
+        "love": "Choose a calm time to talk.",
+        "career": "Suggest a fair way to divide tasks.",
+        "money": "Compare options before paying.",
+        "health": "Relax your shoulders during breaks.",
+        "mood": "Fair-minded",
         "luckyColor": "Pink",
-        "compatibility": "aquarius"
+        "compatibility": "gemini"
       },
       "kh": {
-        "summary": "ថ្ងៃអាទិត្យនេះ ចេញដើរលេងសាមញ្ញៗក៏សប្បាយបាន។ កុំរៀបម៉ោងតឹងពេក។",
-        "love": "ឱ្យអ្នកទៅជាមួយជ្រើសកន្លែងមួយផង។",
-        "career": "មើលគម្រោងធ្វើការជាមួយគេសប្តាហ៍ក្រោយ។",
-        "money": "យកលុយរាយខ្លះ តែកុំចាយលើសគម្រោង។",
-        "health": "ចេញក្រៅ ពាក់ស្បែកជើងដែលដើរស្រួល។",
-        "mood": "ធូរស្រាល",
+        "summary": "ថ្ងៃចន្ទនេះ បើមានមតិខុសគ្នា កុំនិយាយឈ្លោះយូរ។ ស្តាប់ថាម្នាក់ៗចង់បានអ្វី។",
+        "love": "រកពេលស្រួលៗនិយាយគ្នា។",
+        "career": "ចែកការងារឱ្យសមគ្នា កុំឱ្យអ្នកណាធ្វើច្រើនពេក។",
+        "money": "មើលជម្រើសពីរបីសិន មុនចាយលុយ។",
+        "health": "ពេលសម្រាក លាតស្មាឱ្យស្រួល។",
+        "mood": "ចេះយោគយល់",
         "luckyColor": "ផ្កាឈូក",
-        "compatibility": "កុម្ភៈ"
+        "compatibility": "មិថុន"
       },
-      "luckyNumber": 71,
+      "luckyNumber": 27,
       "scores": {
-        "love": 90,
-        "career": 51,
-        "money": 44,
-        "health": 54,
-        "luck": 79
+        "love": 62,
+        "career": 69,
+        "money": 76,
+        "health": 83,
+        "luck": 90
       }
     },
     {
       "sign": "scorpio",
       "en": {
-        "summary": "Sunday may help you see an old problem from a new angle. A quiet moment is more useful than another argument.",
-        "love": "Say what you mean without blaming.",
-        "career": "Write one practical solution down.",
-        "money": "Review small purchases from the weekend.",
-        "health": "Take a slow evening walk.",
-        "mood": "Reflective",
+        "summary": "A Monday update may change your work plan. Stay flexible and check the facts before reacting.",
+        "love": "Share your concerns without blaming.",
+        "career": "Confirm changes in writing.",
+        "money": "Avoid lending money in a rush.",
+        "health": "Get enough sleep tonight.",
+        "mood": "Watchful",
         "luckyColor": "Purple",
-        "compatibility": "pisces"
+        "compatibility": "cancer"
       },
       "kh": {
-        "summary": "ថ្ងៃអាទិត្យនេះ បើមានរឿងធ្លាប់មិនយល់គ្នា សម្រាកគិតស្ងាត់ៗសិន។ កុំទាន់ឈ្លោះបន្ថែម។",
-        "love": "និយាយអ្វីដែលអ្នកគិត តែកុំបន្ទោសគេ។",
-        "career": "កត់វិធីដោះស្រាយមួយដែលអាចធ្វើបាន។",
-        "money": "មើលលុយដែលចាយតិចតួចចុងសប្តាហ៍។",
-        "health": "ល្ងាចនេះ ដើរលេងយឺតៗបន្តិច។",
-        "mood": "ចង់គិតស្ងាត់ៗ",
+        "summary": "ថ្ងៃចន្ទនេះ អាចមានដំណឹងថ្មីធ្វើឱ្យត្រូវប្តូរការងារ។ សួរឱ្យច្បាស់សិន កុំទាន់បារម្ភ។",
+        "love": "មានអ្វីបារម្ភ ប្រាប់គេដោយមិនបន្ទោស។",
+        "career": "បើមានការប្តូរការងារ កត់ទុកឱ្យច្បាស់។",
+        "money": "បើគេខ្ចីលុយ កុំប្រញាប់ឆ្លើយភ្លាម។",
+        "health": "យប់នេះ គេងឱ្យបានគ្រប់។",
+        "mood": "ចេះប្រយ័ត្ន",
         "luckyColor": "ស្វាយ",
-        "compatibility": "មីន"
+        "compatibility": "កក្កដា"
       },
-      "luckyNumber": 91,
+      "luckyNumber": 44,
       "scores": {
-        "love": 41,
-        "career": 65,
-        "money": 56,
-        "health": 70,
-        "luck": 87
+        "love": 73,
+        "career": 80,
+        "money": 87,
+        "health": 45,
+        "luck": 52
       }
     },
     {
       "sign": "sagittarius",
       "en": {
-        "summary": "Sunday is a good time to explore a nearby place you have overlooked. Keep the trip short and relaxed.",
-        "love": "Share the route with someone close.",
-        "career": "Check Monday's meeting time.",
-        "money": "Avoid spending on things you won't use.",
-        "health": "Bring water and stay out of strong heat.",
+        "summary": "Monday offers a chance to learn a useful shortcut from a coworker. Try it before judging.",
+        "love": "Ask someone how their day went.",
+        "career": "Practice the new method on a small task.",
+        "money": "Bring what you need instead of buying twice.",
+        "health": "Take stairs if comfortable.",
         "mood": "Curious",
-        "luckyColor": "Turquoise",
-        "compatibility": "aries"
+        "luckyColor": "Orange",
+        "compatibility": "aquarius"
       },
       "kh": {
-        "summary": "ថ្ងៃអាទិត្យនេះ សាកទៅកន្លែងជិតផ្ទះដែលមិនធ្លាប់ទៅ។ ដើរលេងតិចៗ កុំឱ្យហត់ពេក។",
-        "love": "ប្រាប់មនុស្សជិតស្និទ្ធថាអ្នកទៅណា។",
-        "career": "មើលម៉ោងប្រជុំថ្ងៃចន្ទទុកសិន។",
-        "money": "កុំទិញរបស់ដែលមិនសូវបានប្រើ។",
-        "health": "យកទឹកទៅផង ហើយកុំឈរហាលថ្ងៃយូរ។",
-        "mood": "ចង់ដើរមើល",
-        "luckyColor": "ខៀវបៃតង",
-        "compatibility": "មេស"
+        "summary": "ថ្ងៃចន្ទនេះ អាចមានមិត្តរួមការងារប្រាប់វិធីងាយមួយ។ សាកធ្វើមើលសិន កុំទាន់បដិសេធ។",
+        "love": "សួរគេថាថ្ងៃនេះយ៉ាងម៉េចខ្លះ។",
+        "career": "សាកវិធីថ្មីលើការងារតូចមួយសិន។",
+        "money": "រៀបរបស់ត្រូវប្រើពីផ្ទះ កុំឱ្យទិញម្តងទៀត។",
+        "health": "បើអាច ដើរឡើងជណ្តើរបន្តិច។",
+        "mood": "ចង់រៀន",
+        "luckyColor": "ទឹកក្រូច",
+        "compatibility": "កុម្ភៈ"
       },
-      "luckyNumber": 12,
+      "luckyNumber": 61,
       "scores": {
-        "love": 51,
-        "career": 98,
-        "money": 68,
-        "health": 86,
-        "luck": 55
+        "love": 84,
+        "career": 91,
+        "money": 49,
+        "health": 56,
+        "luck": 63
       }
     },
     {
       "sign": "capricorn",
       "en": {
-        "summary": "A quiet Sunday review can show how far you have come. Appreciate your progress before planning more work.",
-        "love": "Spend an hour without work talk.",
-        "career": "Prepare a realistic Monday checklist.",
-        "money": "Keep money aside for transport.",
-        "health": "Give your shoulders and back a rest.",
-        "mood": "Satisfied",
+        "summary": "A Monday deadline may feel close, but a simple plan helps you make steady progress.",
+        "love": "Make time for a short evening chat.",
+        "career": "Start with the most urgent item.",
+        "money": "Review bills due this week.",
+        "health": "Don't skip a proper break.",
+        "mood": "Focused",
         "luckyColor": "Brown",
-        "compatibility": "taurus"
+        "compatibility": "virgo"
       },
       "kh": {
-        "summary": "ថ្ងៃអាទិត្យនេះ មើលការងារដែលអ្នកធ្វើបានកន្លងមក។ សរសើរខ្លួនឯងខ្លះ មុនគិតរឿងថ្មី។",
-        "love": "ទុកពេលមួយម៉ោង កុំនិយាយពីការងារ។",
-        "career": "សរសេរបញ្ជីការងារថ្ងៃចន្ទតាមដែលអាចធ្វើបាន។",
-        "money": "ទុកលុយសម្រាប់ធ្វើដំណើរសប្តាហ៍ក្រោយ។",
-        "health": "សម្រាកស្មា និងខ្នងឱ្យបានស្រួល។",
-        "mood": "ពេញចិត្ត",
+        "summary": "ថ្ងៃចន្ទនេះ ការងារអាចជិតដល់ថ្ងៃកំណត់។ រៀបធ្វើម្តងមួយចំណុច កុំភ័យពេក។",
+        "love": "ល្ងាចនេះ ឆ្លៀតជជែកជាមួយគេបន្តិច។",
+        "career": "ចាប់ធ្វើរឿងបន្ទាន់ជាងគេសិន។",
+        "money": "មើលថាសប្តាហ៍នេះមានលុយអ្វីត្រូវបង់។",
+        "health": "ធ្វើការយូរហើយ សម្រាកឱ្យបានត្រឹមត្រូវ។",
+        "mood": "ផ្តោតលើការងារ",
         "luckyColor": "ត្នោត",
-        "compatibility": "ឧសភ"
+        "compatibility": "កញ្ញា"
       },
-      "luckyNumber": 32,
+      "luckyNumber": 78,
       "scores": {
-        "love": 61,
+        "love": 46,
         "career": 53,
-        "money": 40,
+        "money": 60,
         "health": 67,
-        "luck": 63
+        "luck": 74
       }
     },
     {
       "sign": "aquarius",
       "en": {
-        "summary": "A Sunday idea from a book or video may inspire a small change. Try one useful tip rather than everything.",
-        "love": "Tell a friend what made you smile.",
-        "career": "Organize your notes for the new week.",
-        "money": "Skip an unnecessary online purchase.",
-        "health": "Take breaks between videos.",
-        "mood": "Inspired",
+        "summary": "A fresh Monday conversation may lead to a useful collaboration. Keep the first step small.",
+        "love": "Reply warmly to a kind message.",
+        "career": "Agree on who handles each part.",
+        "money": "Avoid paying for tools you haven't tried.",
+        "health": "Move around after long sitting.",
+        "mood": "Open-minded",
         "luckyColor": "Silver",
-        "compatibility": "gemini"
+        "compatibility": "libra"
       },
       "kh": {
-        "summary": "ថ្ងៃអាទិត្យនេះ អាចបានគំនិតល្អពីអ្វីដែលអាន ឬមើល។ សាកតែមួយចំណុចសិនបានហើយ។",
-        "love": "ប្រាប់មិត្តពីរឿងដែលធ្វើឱ្យអ្នកសប្បាយចិត្ត។",
-        "career": "រៀបកំណត់ត្រាសម្រាប់សប្តាហ៍ថ្មី។",
-        "money": "បើមិនចាំបាច់ កុំទាន់ទិញរបស់តាមអនឡាញ។",
-        "health": "មើលវីដេអូយូរៗ ឆ្លៀតសម្រាកភ្នែក។",
-        "mood": "មានគំនិតល្អ",
+        "summary": "ថ្ងៃចន្ទនេះ អ្នកអាចជជែកជាមួយមនុស្សថ្មីអំពីការងារ។ ចាប់ពីរឿងតូចៗសិនបានហើយ។",
+        "love": "បើគេផ្ញើសារល្អៗមក ឆ្លើយគេវិញផង។",
+        "career": "និយាយគ្នាឱ្យច្បាស់ថាអ្នកណាធ្វើអ្វី។",
+        "money": "កុំទាន់បង់លុយទិញឧបករណ៍ដែលមិនធ្លាប់សាក។",
+        "health": "អង្គុយយូរហើយ ក្រោកដើរខ្លះ។",
+        "mood": "ចេះទទួលយោបល់",
         "luckyColor": "ប្រាក់",
-        "compatibility": "មិថុន"
+        "compatibility": "តុលា"
       },
-      "luckyNumber": 52,
+      "luckyNumber": 95,
       "scores": {
-        "love": 95,
-        "career": 67,
-        "money": 52,
-        "health": 83,
-        "luck": 71
+        "love": 57,
+        "career": 64,
+        "money": 71,
+        "health": 78,
+        "luck": 85
       }
     },
     {
       "sign": "pisces",
       "en": {
-        "summary": "Sunday offers a chance to recharge with someone you trust. A gentle conversation can ease a lingering worry.",
-        "love": "Thank someone for listening.",
-        "career": "Set out what you need for Monday.",
-        "money": "Plan simple meals to save money.",
-        "health": "Sleep enough before the week begins.",
-        "mood": "Comforted",
+        "summary": "A gentle start on Monday helps you manage a crowded schedule. Leave a little room for yourself.",
+        "love": "Tell someone when you need quiet time.",
+        "career": "Make a short list of priorities.",
+        "money": "Pack a drink from home.",
+        "health": "Have a light dinner and rest.",
+        "mood": "Calm",
         "luckyColor": "Light blue",
-        "compatibility": "cancer"
+        "compatibility": "scorpio"
       },
       "kh": {
-        "summary": "ថ្ងៃអាទិត្យនេះ ជួបមនុស្សដែលអ្នកទុកចិត្ត អាចធ្វើឱ្យស្រួលចិត្ត។ មានរឿងបារម្ភ ក៏និយាយប្រាប់គាត់បាន។",
-        "love": "អរគុណអ្នកដែលចំណាយពេលស្តាប់អ្នក។",
-        "career": "រៀបរបស់ដែលត្រូវប្រើថ្ងៃចន្ទទុក។",
-        "money": "គិតម្ហូបងាយៗទុក ដើម្បីកុំចាយច្រើន។",
-        "health": "គេងឱ្យបានគ្រប់ មុនចាប់ផ្តើមសប្តាហ៍ថ្មី។",
-        "mood": "កក់ក្តៅ",
+        "summary": "ថ្ងៃចន្ទនេះ អាចមានរឿងត្រូវធ្វើច្រើន។ ចាប់ផ្តើមយឺតៗ ហើយទុកពេលសម្រាប់ខ្លួនឯងផង។",
+        "love": "បើចង់សម្រាកស្ងាត់ៗ ប្រាប់គេឱ្យដឹង។",
+        "career": "កត់ការងារសំខាន់ៗតែប៉ុន្មានមុខបានហើយ។",
+        "money": "យកទឹកពីផ្ទះទៅ កុំចាំបាច់ទិញ។",
+        "health": "ល្ងាចនេះ ញ៉ាំស្រាលៗ ហើយសម្រាកឱ្យបានល្អ។",
+        "mood": "ស្ងប់ចិត្ត",
         "luckyColor": "ខៀវស្រាល",
-        "compatibility": "កក្កដ"
+        "compatibility": "វិច្ឆិក"
       },
-      "luckyNumber": 72,
+      "luckyNumber": 13,
       "scores": {
-        "love": 46,
-        "career": 41,
-        "money": 64,
-        "health": 64,
-        "luck": 79
+        "love": 68,
+        "career": 75,
+        "money": 82,
+        "health": 89,
+        "luck": 47
       }
     }
   ]
