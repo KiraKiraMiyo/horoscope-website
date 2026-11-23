@@ -1,318 +1,318 @@
 {
-  "weekStart": "2026-11-09",
-  "weekEnd": "2026-11-15",
+  "weekStart": "2026-11-23",
+  "weekEnd": "2026-11-29",
   "timezone": "Asia/Phnom_Penh",
   "data": [
     {
       "sign": "aries",
       "en": {
-        "summary": "Begin the week by choosing one challenge worth your energy. Midweek favors a practical first attempt; leave the weekend open to adjust rather than prove a point.",
-        "love": "Your warmth comes through when you pause before answering. A relaxed conversation later in the week can make room for needs neither person has named.",
-        "career": "A small prototype may explain your idea better than a long pitch. Invite feedback before adding more features, and recognize the people helping behind the scenes.",
-        "money": "Notice which purchases feel like rewards for a tiring day. This week offers a chance to separate genuine enjoyment from the urge to keep up with others.",
-        "health": "Your pace need not stay high all week. Quiet gaps between activities can be part of a satisfying routine, rather than something you have to earn."
+        "summary": "Choose one demanding task that deserves your attention, then give it a clear beginning and end. A thoughtful pause midweek may reveal a simpler route than pushing harder.",
+        "love": "A direct, warm check-in can soften a small misunderstanding. Make room for the other person's pace as well as your own enthusiasm.",
+        "career": "Your initiative is useful when others can follow it. Share a short outline, ask one focused question, and let the team shape the next step.",
+        "money": "A busy week can make convenience purchases feel automatic. Notice which small choices add real value to your days and which can wait.",
+        "health": "Build brief pauses into the spaces between plans. A quieter evening can help you return to the week with steadier attention."
       },
       "kh": {
-        "summary": "ចាប់ផ្តើមសប្តាហ៍ដោយជ្រើសរើសកិច្ចការប្រឈមមួយដែលសមនឹងកម្លាំងរបស់អ្នក។ ពាក់កណ្តាលសប្តាហ៍ សាកល្បងចាប់ផ្តើមពីជំហានតូចមួយ ហើយទុកចុងសប្តាហ៍សម្រាប់កែសម្រួល ដោយមិនបាច់បង្ខំឱ្យគ្រប់យ៉ាងត្រូវតាំងពីដំបូង។",
-        "love": "ភាពកក់ក្តៅរបស់អ្នកលេចចេញកាន់តែច្បាស់ ពេលអ្នកទុកពេលគិតមុនឆ្លើយ។ ការជជែកស្រួលៗនៅចុងសប្តាហ៍ អាចជួយឱ្យអ្នកទាំងពីរហ៊ាននិយាយពីអ្វីដែលត្រូវការតែមិនទាន់បានប្រាប់គ្នា។",
-        "career": "គំរូសាកល្បងតូចមួយអាចពន្យល់គំនិតរបស់អ្នកបានច្បាស់ជាងការរៀបរាប់វែង។ សុំយោបល់មុនបន្ថែមការងារ ហើយកុំភ្លេចអរគុណអ្នកដែលជួយនៅពីក្រោយ។",
-        "money": "សង្កេតមើលថា ការទិញអ្វីខ្លះកើតចេញពីអារម្មណ៍ចង់លួងខ្លួនឯងក្រោយថ្ងៃនឿយហត់។ សប្តាហ៍នេះ អ្នកអាចស្វែងយល់ពីភាពខុសគ្នារវាងក្តីរីករាយពិតប្រាកដ និងការចង់មានដូចអ្នកដទៃ។",
-        "health": "អ្នកមិនចាំបាច់ប្រញាប់ពេញមួយសប្តាហ៍ទេ។ ពេលស្ងប់ស្ងាត់ចន្លោះសកម្មភាពនីមួយៗ ក៏អាចធ្វើឱ្យជីវិតប្រចាំថ្ងៃមានផាសុកភាព ដោយមិនចាំបាច់រង់ចាំធ្វើការចប់ទាំងអស់សិន។"
+        "summary": "ជ្រើសរើសកិច្ចការសំខាន់មួយដែលសមនឹងការយកចិត្តទុកដាក់របស់អ្នក ហើយកំណត់ពេលចាប់ផ្តើមនិងបញ្ចប់ឱ្យច្បាស់។ ពេលគិតស្ងប់ៗនៅពាក់កណ្តាលសប្តាហ៍ អាចជួយឱ្យឃើញវិធីងាយជាងការប្រឹងខ្លាំង។",
+        "love": "ការសួរសុខទុក្ខដោយស្មោះត្រង់និងកក់ក្តៅ អាចជួយបន្ធូរការយល់ច្រឡំតូចមួយ។ ទុកពេលឱ្យអ្នកដទៃដើរតាមល្បឿនរបស់ពួកគេផង។",
+        "career": "ភាពផ្ដួចផ្ដើមរបស់អ្នកមានប្រយោជន៍កាន់តែច្រើន ពេលអ្នកដទៃអាចយល់តាមបាន។ ចែករំលែកគ្រោងខ្លី សួរសំណួរមួយឱ្យចំ ហើយទុកឱ្យក្រុមជួយរៀបចំជំហានបន្ទាប់។",
+        "money": "សប្តាហ៍រវល់អាចធ្វើឱ្យការទិញរបស់ងាយៗក្លាយជាទម្លាប់ដោយមិនដឹងខ្លួន។ ពិនិត្យមើលថាជម្រើសតូចៗណាផ្តល់ប្រយោជន៍ពិត និងណាអាចរង់ចាំបាន។",
+        "health": "ដាក់ពេលសម្រាកខ្លីៗចន្លោះពីគម្រោងមួយទៅគម្រោងមួយ។ ល្ងាចដែលស្ងប់ជាងមុនអាចជួយឱ្យអ្នកបន្តសប្តាហ៍ដោយមានការផ្តោតអារម្មណ៍ល្អ។"
       },
-      "luckyNumber": 17,
-      "bestDay": "tuesday",
+      "luckyNumber": 24,
+      "bestDay": "wednesday",
       "scores": {
-        "love": 78,
-        "career": 84,
-        "money": 71,
-        "health": 76,
-        "luck": 81
+        "love": 79,
+        "career": 85,
+        "money": 72,
+        "health": 77,
+        "luck": 83
       }
     },
     {
       "sign": "taurus",
       "en": {
-        "summary": "This week invites you to refresh something familiar without abandoning what works. A modest change early on can leave the weekend feeling more spacious.",
-        "love": "Reliability matters, but affection can also be playful. Share a favorite song or memory and let the exchange unfold without turning it into a serious discussion.",
-        "career": "A recurring task deserves a closer look. One clearer instruction or a better handover could make the rest of the week easier for the whole team.",
-        "money": "Comfort has different meanings for different people. Reflect on which everyday expenses support yours and which simply remain out of habit.",
-        "health": "Familiar surroundings may offer a welcome pause. A calm meal or an unhurried evening can help you notice what makes your routine feel comfortable."
+        "summary": "A familiar routine may benefit from one small improvement. Choose the change that saves effort without taking away the parts that make the day feel comfortable.",
+        "love": "Steady affection can be shown through attention to an ordinary detail. Ask about something your loved one mentioned earlier and listen without rushing to solve it.",
+        "career": "A clear handover or a tidy shared document could prevent repeated questions. Your patience helps when it leaves room for another person's method too.",
+        "money": "Review a recurring expense with curiosity rather than blame. A small adjustment may better reflect what you value now than what you valued months ago.",
+        "health": "Simple comforts can help the week feel grounded. Make time for a meal or activity you enjoy, without turning rest into another task to complete."
       },
       "kh": {
-        "summary": "សប្តាហ៍នេះ សាកកែប្រែអ្វីដែលធ្លាប់ស្គាល់បន្តិច ដោយរក្សាអ្វីដែលនៅតែមានប្រយោជន៍។ ការផ្លាស់ប្តូរតូចមួយនៅដើមសប្តាហ៍ អាចធ្វើឱ្យចុងសប្តាហ៍មានពេលទំនេរច្រើនជាងមុន។",
-        "love": "ភាពទុកចិត្តបានសំខាន់ ប៉ុន្តែការបង្ហាញក្តីស្រឡាញ់ក៏អាចសាមញ្ញ និងរីករាយបានដែរ។ ចែករំលែកបទចម្រៀង ឬអនុស្សាវរីយ៍ដែលអ្នកចូលចិត្ត ដោយមិនបាច់ធ្វើឱ្យការសន្ទនានោះធ្ងន់ធ្ងរ។",
-        "career": "ការងារដែលធ្វើដដែលៗគួរត្រូវបានពិនិត្យម្តងទៀត។ ការណែនាំឱ្យច្បាស់ ឬការប្រគល់ការងារឱ្យរលូនជាងមុន អាចជួយក្រុមទាំងមូលក្នុងថ្ងៃដែលនៅសល់។",
-        "money": "ភាពសុខស្រួលមានន័យខុសគ្នាសម្រាប់មនុស្សម្នាក់ៗ។ គិតមើលថាចំណាយប្រចាំថ្ងៃណាខ្លះផ្តល់ភាពសុខស្រួលពិតៗ និងណាខ្លះនៅតែមានព្រោះតែទម្លាប់។",
-        "health": "កន្លែងដែលអ្នកធ្លាប់ស្គាល់អាចជាទីសម្រាកចិត្តដ៏ល្អ។ អាហារមួយពេលដោយស្ងប់ស្ងាត់ ឬល្ងាចដែលមិនប្រញាប់ អាចជួយឱ្យអ្នកដឹងថាអ្វីធ្វើឱ្យជីវិតប្រចាំថ្ងៃមានផាសុកភាព។"
+        "summary": "ទម្លាប់ដែលធ្លាប់ស្គាល់អាចកាន់តែល្អ ដោយកែតម្រូវតិចតួចមួយ។ ជ្រើសការផ្លាស់ប្តូរដែលសន្សំកម្លាំង ប៉ុន្តែរក្សាផ្នែកដែលធ្វើឱ្យថ្ងៃរបស់អ្នកមានផាសុកភាព។",
+        "love": "ការយកចិត្តទុកដាក់ចំពោះរឿងតូចៗអាចបង្ហាញភាពស្រឡាញ់យ៉ាងស្ថិតស្ថេរ។ សួរអំពីរឿងដែលមនុស្សជាទីស្រឡាញ់ធ្លាប់និយាយ ហើយស្តាប់ដោយមិនប្រញាប់រកដំណោះស្រាយ។",
+        "career": "ការប្រគល់ការងារឱ្យច្បាស់ ឬឯកសាររួមដែលរៀបរយ អាចកាត់បន្ថយសំណួរដដែលៗ។ ភាពអត់ធ្មត់របស់អ្នកមានតម្លៃ ពេលទុកកន្លែងឱ្យវិធីធ្វើរបស់អ្នកដទៃផង។",
+        "money": "ពិនិត្យចំណាយដែលកើតឡើងជាប្រចាំដោយចិត្តចង់ស្វែងយល់ មិនបន្ទោសខ្លួនឯង។ ការកែប្រែតិចតួចអាចសមនឹងអ្វីដែលអ្នកឱ្យតម្លៃនៅពេលនេះជាងមុន។",
+        "health": "ភាពសុខស្រួលសាមញ្ញអាចជួយឱ្យសប្តាហ៍មានភាពនឹងនរ។ ទុកពេលសម្រាប់អាហារ ឬសកម្មភាពដែលអ្នកចូលចិត្ត ដោយមិនធ្វើឱ្យការសម្រាកក្លាយជាកិច្ចការមួយទៀត។"
       },
-      "luckyNumber": 24,
-      "bestDay": "saturday",
+      "luckyNumber": 38,
+      "bestDay": "friday",
       "scores": {
-        "love": 83,
-        "career": 79,
-        "money": 80,
-        "health": 82,
-        "luck": 74
+        "love": 84,
+        "career": 78,
+        "money": 81,
+        "health": 86,
+        "luck": 76
       }
     },
     {
       "sign": "gemini",
       "en": {
-        "summary": "Curiosity is your theme for the week, but not every interesting idea needs a commitment. Gather possibilities early, choose one by midweek, and enjoy following it a little further.",
-        "love": "A thoughtful follow-up means more than a clever reply. Return to something a loved one mentioned and show that you remember the details.",
-        "career": "Scattered notes may contain a useful connection. Bring them into one place and distinguish what is decided from what still needs a conversation.",
-        "money": "Different opinions about value can become noisy. Give yourself room to understand a price or recurring charge before treating another person's choice as your own.",
-        "health": "Notice how much stimulation fills the spaces between tasks. A short stretch of silence may feel refreshing after a week of constant messages."
+        "summary": "Conversations may open several paths at once. Capture the most useful idea, then give it enough quiet time to become more than an exciting possibility.",
+        "love": "A playful exchange can bring you closer, especially when you stay present instead of planning the next witty reply. Share something you have genuinely been wondering about.",
+        "career": "Your quick connections between ideas can help a group see options. Summarize the common thread before introducing a new direction, so everyone can keep up.",
+        "money": "Several small subscriptions or convenience costs can be easy to overlook. Take a quick inventory and decide which ones still earn their place in your routine.",
+        "health": "A change of scenery can refresh your focus. Balance new stimulation with a familiar activity that helps you settle afterward."
       },
       "kh": {
-        "summary": "ការចង់ស្វែងយល់ជាប្រធានបទសម្រាប់អ្នកក្នុងសប្តាហ៍នេះ ប៉ុន្តែមិនមែនគ្រប់គំនិតគួរឱ្យចាប់អារម្មណ៍សុទ្ធតែត្រូវធ្វើទាំងអស់ទេ។ ប្រមូលគំនិតនៅដើមសប្តាហ៍ រួចជ្រើសមួយនៅពាក់កណ្តាលសប្តាហ៍ ដើម្បីស្វែងយល់ឱ្យជ្រៅបន្តិច។",
-        "love": "ការសួរបន្តដោយយកចិត្តទុកដាក់មានន័យជាងចម្លើយឆ្លាតៗ។ សួរពីរឿងដែលមនុស្សជាទីស្រឡាញ់ធ្លាប់ប្រាប់ ដើម្បីបង្ហាញថាអ្នកនៅចងចាំ។",
-        "career": "កំណត់ត្រាដែលនៅរាយប៉ាយអាចមានគំនិតទាក់ទងគ្នាគួរឱ្យចាប់អារម្មណ៍។ ប្រមូលវាមកកន្លែងតែមួយ ហើយបែងចែកអ្វីដែលសម្រេចរួចពីអ្វីដែលត្រូវពិភាក្សាបន្ថែម។",
-        "money": "យោបល់ផ្សេងៗអំពីតម្លៃអាចធ្វើឱ្យអ្នកច្របូកច្របល់។ ទុកពេលស្វែងយល់ពីតម្លៃ ឬការគិតថ្លៃជាប្រចាំ មុនយកជម្រើសរបស់អ្នកដទៃមកធ្វើជាជម្រើសរបស់ខ្លួន។",
-        "health": "សង្កេតមើលថាពេលចន្លោះការងាររបស់អ្នកពោរពេញដោយព័ត៌មានប៉ុនណា។ ភាពស្ងាត់មួយភ្លែតអាចផ្តល់អារម្មណ៍ស្រស់ស្រាយ ក្រោយទទួលសារច្រើនពេញសប្តាហ៍។"
+        "summary": "ការសន្ទនាអាចបើកផ្លូវគំនិតជាច្រើនក្នុងពេលតែមួយ។ កត់ទុកគំនិតដែលមានប្រយោជន៍ជាងគេ ហើយទុកពេលស្ងប់ឱ្យវារីកចម្រើន លើសពីភាពរំភើបមួយភ្លែត។",
+        "love": "ការលេងសើចនិងជជែកសប្បាយអាចធ្វើឱ្យអ្នកកាន់តែស្និទ្ធស្នាល ជាពិសេសពេលអ្នកស្តាប់នៅពេលបច្ចុប្បន្ន ជាជាងរៀបចំចម្លើយកំប្លែងបន្ទាប់។ ចែករំលែកចម្ងល់ដែលអ្នកពិតជាចង់ដឹង។",
+        "career": "សមត្ថភាពភ្ជាប់គំនិតបានរហ័សរបស់អ្នកអាចជួយក្រុមឱ្យមើលឃើញជម្រើសផ្សេងៗ។ សង្ខេបចំណុចរួមសិន មុនណែនាំទិសដៅថ្មី ដើម្បីឱ្យមនុស្សគ្រប់គ្នាអាចតាមទាន់។",
+        "money": "ការជាវសេវាតូចៗ និងថ្លៃសេវាងាយស្រួលប្រើ អាចត្រូវបានមើលរំលង។ ពិនិត្យបញ្ជីខ្លីមួយ ហើយសម្រេចថាមួយណានៅតែមានប្រយោជន៍ក្នុងទម្លាប់របស់អ្នក។",
+        "health": "ការប្តូរបរិយាកាសអាចធ្វើឱ្យការផ្តោតអារម្មណ៍ថ្មីឡើងវិញ។ ផ្គូផ្គងបទពិសោធន៍ថ្មីជាមួយសកម្មភាពដែលអ្នកធ្លាប់ស្គាល់ ដើម្បីឱ្យចិត្តស្ងប់វិញនៅពេលក្រោយ។"
       },
-      "luckyNumber": 5,
-      "bestDay": "wednesday",
+      "luckyNumber": 11,
+      "bestDay": "tuesday",
       "scores": {
-        "love": 80,
-        "career": 86,
-        "money": 72,
-        "health": 75,
-        "luck": 83
+        "love": 82,
+        "career": 88,
+        "money": 74,
+        "health": 73,
+        "luck": 86
       }
     },
     {
       "sign": "cancer",
       "en": {
-        "summary": "Make room for belonging without taking responsibility for everyone's mood. Early-week obligations become easier to navigate when you leave some weekend time for yourself.",
-        "love": "Care does not always require solving a problem. Ask whether someone wants company, a listening ear, or practical help before stepping in.",
-        "career": "An overlooked contribution deserves acknowledgment. Your attention to how people work together can improve a discussion that has become too focused on deadlines.",
-        "money": "Shared expenses can carry unspoken expectations. A calm conversation about what each person considers fair may be more useful than guessing.",
-        "health": "Your surroundings can influence how restful a pause feels. Consider a small corner where you can sit comfortably without feeling called to another task."
+        "summary": "A familiar place or shared ritual may bring perspective this week. Decide which responsibilities are truly yours before taking on an extra one for someone else.",
+        "love": "Small gestures carry meaning when they are offered openly. Tell someone what kind of support would feel helpful to you, rather than hoping they will guess.",
+        "career": "Your awareness of how a group is feeling can improve a meeting. Offer a gentle check-in, then let people answer in their own way.",
+        "money": "Care for others can blur the line between your needs and theirs. Before a generous commitment, make sure it fits the time and resources you can comfortably give.",
+        "health": "A calm transition between work and personal time may help you reset. Choose a simple cue, such as putting away your notes or stepping outside briefly."
       },
       "kh": {
-        "summary": "ទុកកន្លែងសម្រាប់ភាពស្និទ្ធស្នាល ដោយមិនយកអារម្មណ៍របស់មនុស្សគ្រប់គ្នាមកធ្វើជាបន្ទុក។ កាតព្វកិច្ចដើមសប្តាហ៍អាចរៀបចំបានស្រួលជាងមុន បើអ្នកទុកពេលខ្លះនៅចុងសប្តាហ៍សម្រាប់ខ្លួនឯង។",
-        "love": "ការយកចិត្តទុកដាក់មិនតែងតែមានន័យថាត្រូវដោះស្រាយបញ្ហាទេ។ សួរមុនថាគេចង់បានអ្នកនៅក្បែរ អ្នកស្តាប់ ឬជំនួយជាក់ស្តែង។",
-        "career": "ការរួមចំណែកដែលមិនសូវមានអ្នកកត់សម្គាល់គួរទទួលបានការទទួលស្គាល់។ ការយកចិត្តទុកដាក់របស់អ្នកចំពោះការសហការគ្នា អាចធ្វើឱ្យការពិភាក្សាដែលតានតឹងនឹងថ្ងៃកំណត់កាន់តែប្រសើរ។",
-        "money": "ចំណាយរួមអាចភ្ជាប់នឹងការរំពឹងទុកដែលមិនទាន់និយាយចេញ។ ការជជែកស្ងប់ៗពីអ្វីដែលម្នាក់ៗគិតថាសមរម្យ អាចមានប្រយោជន៍ជាងការស្មាន។",
-        "health": "បរិយាកាសជុំវិញអាចប៉ះពាល់ដល់អារម្មណ៍ពេលសម្រាក។ រកជ្រុងតូចមួយដែលអ្នកអាចអង្គុយស្រួល ដោយមិនមានអារម្មណ៍ថាត្រូវទៅធ្វើកិច្ចការផ្សេងភ្លាមៗ។"
+        "summary": "កន្លែងដែលធ្លាប់ស្គាល់ ឬទម្លាប់ដែលធ្វើជាមួយគ្នាអាចជួយឱ្យអ្នកឃើញទិសដៅច្បាស់។ គិតមើលថាកាតព្វកិច្ចណាជារបស់អ្នកពិតប្រាកដ មុនទទួលបន្ថែមជួយអ្នកដទៃ។",
+        "love": "កាយវិការតូចៗមានន័យ ពេលធ្វើដោយចិត្តបើកចំហ។ ប្រាប់មនុស្សម្នាក់ថាការគាំទ្របែបណាដែលអ្នកចង់បាន ជាជាងសង្ឃឹមថាគេនឹងទាយត្រូវ។",
+        "career": "ការយល់ដឹងពីអារម្មណ៍ក្នុងក្រុមអាចជួយឱ្យកិច្ចប្រជុំមានភាពល្អប្រសើរ។ សួរសុខទុក្ខដោយស្រទន់ ហើយទុកឱ្យម្នាក់ៗឆ្លើយតាមរបៀបរបស់ខ្លួន។",
+        "money": "ការយកចិត្តទុកដាក់អ្នកដទៃអាចធ្វើឱ្យព្រំដែនរវាងតម្រូវការរបស់អ្នកនិងពួកគេមិនច្បាស់។ មុនទទួលការប្តេជ្ញាចិត្ត សូមពិនិត្យថាវាសមនឹងពេលវេលានិងធនធានដែលអ្នកអាចផ្តល់បាន។",
+        "health": "ការផ្លាស់ពីពេលធ្វើការទៅពេលផ្ទាល់ខ្លួនដោយស្ងប់ អាចជួយឱ្យអ្នកសម្រាកចិត្ត។ ជ្រើសសញ្ញាសាមញ្ញមួយ ដូចជាទុកកំណត់ត្រាចូលកន្លែង ឬដើរចេញក្រៅបន្តិច។"
       },
-      "luckyNumber": 12,
-      "bestDay": "sunday",
+      "luckyNumber": 26,
+      "bestDay": "monday",
       "scores": {
         "love": 86,
         "career": 77,
-        "money": 74,
-        "health": 81,
+        "money": 75,
+        "health": 82,
         "luck": 78
       }
     },
     {
       "sign": "leo",
       "en": {
-        "summary": "Let your creativity lead this week without asking every effort to impress. Try an idea privately first, share it midweek, and use the weekend to enjoy the process.",
-        "love": "Warmth grows through specific appreciation. Tell someone what you enjoy about their presence, without waiting for a special occasion or a matching compliment.",
-        "career": "Visibility is most useful when the work is clear. Give collaborators credit and explain the purpose behind a proposal before presenting its polished details.",
-        "money": "An attractive presentation can make an ordinary purchase feel exceptional. Notice whether the appeal comes from usefulness, enjoyment, or simply being seen with it.",
-        "health": "Enjoyment belongs in your week alongside responsibility. A familiar creative pastime can offer a pleasant change from measuring every activity by its result."
+        "summary": "A shared effort may matter more than a visible personal win. Notice who has contributed quietly and make their part easier to recognize.",
+        "love": "Warmth attracts attention, but sincere curiosity keeps a conversation balanced. Ask a question whose answer you do not already expect.",
+        "career": "A presentation or proposal can feel stronger when it makes space for others' ideas. Invite one practical suggestion before polishing the final version.",
+        "money": "A social plan may bring extra costs. Decide in advance which part matters most to you so the gathering stays enjoyable within your comfort.",
+        "health": "Creative energy benefits from room to play. Set aside time for an activity with no audience or score, simply because you like doing it."
       },
       "kh": {
-        "summary": "សប្តាហ៍នេះ ទុកឱ្យគំនិតច្នៃប្រឌិតនាំមុខ ដោយមិនទាមទារឱ្យគ្រប់ការខិតខំត្រូវធ្វើឱ្យអ្នកដទៃចាប់អារម្មណ៍។ សាកគំនិតដោយខ្លួនឯងសិន ចែករំលែកនៅពាក់កណ្តាលសប្តាហ៍ ហើយរីករាយនឹងដំណើរការនៅចុងសប្តាហ៍។",
-        "love": "ភាពកក់ក្តៅកើនឡើងតាមការសរសើរដែលច្បាស់លាស់។ ប្រាប់មនុស្សម្នាក់ថាអ្នកចូលចិត្តអ្វីពេលមានគេនៅក្បែរ ដោយមិនរង់ចាំឱកាសពិសេស ឬការសរសើរតបវិញ។",
-        "career": "ការឱ្យអ្នកដទៃមើលឃើញស្នាដៃមានប្រយោជន៍បំផុត ពេលការងារនោះច្បាស់លាស់។ ផ្តល់កិត្តិយសដល់អ្នករួមការងារ ហើយពន្យល់គោលបំណងនៃសំណើ មុនបង្ហាញព័ត៌មានលម្អិត។",
-        "money": "ការតុបតែងទាក់ទាញអាចធ្វើឱ្យទំនិញធម្មតាមើលទៅពិសេស។ សង្កេតថាអ្នកចង់បានវាព្រោះប្រយោជន៍ ក្តីរីករាយ ឬគ្រាន់តែចង់ឱ្យអ្នកដទៃឃើញ។",
-        "health": "ក្តីរីករាយក៏គួរមានកន្លែងក្នុងសប្តាហ៍របស់អ្នកដូចការទទួលខុសត្រូវដែរ។ ចំណូលចិត្តច្នៃប្រឌិតដែលអ្នកធ្លាប់ធ្វើ អាចជួយឱ្យអ្នកឈប់វាស់តម្លៃគ្រប់សកម្មភាពតាមលទ្ធផល។"
+        "summary": "កិច្ចខិតខំប្រឹងប្រែងរួមអាចមានតម្លៃជាងជ័យជម្នះផ្ទាល់ខ្លួនដែលគេមើលឃើញ។ សង្កេតអ្នកដែលបានជួយដោយស្ងៀមស្ងាត់ ហើយជួយឱ្យគេអាចបង្ហាញចំណែករបស់ខ្លួនបានច្បាស់។",
+        "love": "ភាពកក់ក្តៅទាក់ទាញចំណាប់អារម្មណ៍ ប៉ុន្តែការចង់ដឹងដោយស្មោះជួយឱ្យការសន្ទនាមានតុល្យភាព។ សួរសំណួរដែលអ្នកមិនទាន់រំពឹងចម្លើយទុកជាមុន។",
+        "career": "បទបង្ហាញ ឬសំណើអាចកាន់តែរឹងមាំ ពេលទុកកន្លែងឱ្យគំនិតរបស់អ្នកដទៃ។ សុំយោបល់ជាក់ស្តែងមួយ មុនរៀបចំកំណែចុងក្រោយ។",
+        "money": "គម្រោងជួបជុំអាចបន្ថែមចំណាយខ្លះ។ សម្រេចជាមុនថាផ្នែកណាសំខាន់បំផុតសម្រាប់អ្នក ដើម្បីឱ្យការជួបជុំរីករាយសមនឹងភាពងាយស្រួលរបស់អ្នក។",
+        "health": "កម្លាំងច្នៃប្រឌិតត្រូវការកន្លែងលេងដោយសេរី។ ទុកពេលសម្រាប់សកម្មភាពដែលគ្មានអ្នកមើល និងគ្មានពិន្ទុ គ្រាន់តែព្រោះអ្នកចូលចិត្តវា។"
       },
-      "luckyNumber": 19,
-      "bestDay": "thursday",
+      "luckyNumber": 42,
+      "bestDay": "sunday",
       "scores": {
-        "love": 85,
+        "love": 88,
         "career": 83,
-        "money": 70,
-        "health": 79,
+        "money": 76,
+        "health": 74,
         "luck": 87
       }
     },
     {
       "sign": "virgo",
       "en": {
-        "summary": "This week is about making life workable rather than flawless. Simplify one routine early, leave room for questions midweek, and notice what no longer needs fixing by Sunday.",
-        "love": "Small acts of care are valuable, but they need not become a checklist. Make space for an imperfect conversation that feels honest and unhurried.",
-        "career": "Define what finished means before polishing another detail. A shared standard can prevent repeated revisions and give everyone a clearer stopping point.",
-        "money": "Small recurring costs may be easier to understand when viewed together. Let the review be an exercise in clarity rather than a reason to criticize past choices.",
-        "health": "A useful routine should fit the person living it. Leave some flexibility around busy days so that rest does not become another standard to meet."
+        "summary": "A small system can make a crowded week easier to navigate. Keep it simple enough that you will still use it when plans shift.",
+        "love": "Thoughtful help is welcome, though listening may be more useful than editing someone's plan. Ask whether advice is wanted before offering a fix.",
+        "career": "Clear notes and a realistic order of tasks can reduce avoidable backtracking. Share your method as an option, not a rule everyone must follow.",
+        "money": "A careful comparison can clarify what you need from a purchase. Avoid spending extra time optimizing details that will not change your day-to-day experience.",
+        "health": "You do not need to make every quiet moment productive. Let a short break remain a break, without adding another improvement goal."
       },
       "kh": {
-        "summary": "សប្តាហ៍នេះ ផ្តោតលើការធ្វើឱ្យជីវិតងាយស្រួល ជាជាងឱ្យគ្រប់យ៉ាងល្អឥតខ្ចោះ។ សម្រួលទម្លាប់មួយនៅដើមសប្តាហ៍ ទុកពេលសម្រាប់សំណួរនៅពាក់កណ្តាលសប្តាហ៍ ហើយដល់ថ្ងៃអាទិត្យ សង្កេតថាអ្វីលែងត្រូវការកែទៀត។",
-        "love": "ការយកចិត្តទុកដាក់តូចៗមានតម្លៃ ប៉ុន្តែមិនចាំបាច់ក្លាយជាបញ្ជីកិច្ចការទេ។ ទុកពេលឱ្យការសន្ទនាដែលមិនល្អឥតខ្ចោះ ប៉ុន្តែស្មោះត្រង់ និងមិនប្រញាប់។",
-        "career": "កំណត់ឱ្យច្បាស់ថាបែបណាទើបហៅថារួចរាល់ មុនកែលម្អព័ត៌មានលម្អិតមួយទៀត។ ស្តង់ដារដែលយល់ព្រមរួមគ្នាអាចកាត់បន្ថយការកែទៅកែមក។",
-        "money": "ចំណាយតូចៗដែលកើតជាប្រចាំអាចយល់បានងាយ ពេលមើលវារួមគ្នា។ ទុកឱ្យការពិនិត្យនេះជួយបង្កើតភាពច្បាស់លាស់ ដោយមិនបន្ទោសខ្លួនឯងចំពោះជម្រើសពីមុន។",
-        "health": "ទម្លាប់ដែលមានប្រយោជន៍គួរសមនឹងអ្នកដែលអនុវត្តវា។ ទុកភាពបត់បែនខ្លះសម្រាប់ថ្ងៃរវល់ ដើម្បីកុំឱ្យការសម្រាកក្លាយជាកាតព្វកិច្ចមួយទៀត។"
+        "summary": "ប្រព័ន្ធរៀបចំតូចមួយអាចជួយឱ្យសប្តាហ៍ដែលមមាញឹកកាន់តែងាយស្រួល។ ធ្វើឱ្យវាសាមញ្ញគ្រប់គ្រាន់ ដើម្បីឱ្យអ្នកនៅតែប្រើបានពេលគម្រោងផ្លាស់ប្តូរ។",
+        "love": "ជំនួយដែលគិតគូរល្អតែងមានប្រយោជន៍ ប៉ុន្តែការស្តាប់អាចល្អជាងការកែផែនការរបស់អ្នកដទៃ។ សួរថាគេចង់បានយោបល់ដែរឬទេ មុនផ្តល់ដំណោះស្រាយ។",
+        "career": "កំណត់ត្រាច្បាស់ និងលំដាប់ការងារដែលសមហេតុផល អាចកាត់បន្ថយការត្រឡប់ទៅមកដែលមិនចាំបាច់។ ចែករំលែកវិធីរបស់អ្នកជាជម្រើស មិនមែនជាច្បាប់សម្រាប់គ្រប់គ្នាទេ។",
+        "money": "ការប្រៀបធៀបដោយប្រុងប្រយ័ត្នអាចជួយឱ្យច្បាស់ថាអ្នកត្រូវការអ្វីពីការទិញមួយ។ កុំចំណាយពេលច្រើនលើព័ត៌មានលម្អិតដែលមិនប៉ះពាល់ដល់ការប្រើប្រាស់ប្រចាំថ្ងៃ។",
+        "health": "អ្នកមិនចាំបាច់ធ្វើឱ្យពេលស្ងប់គ្រប់ពេលមានផលិតភាពទេ។ ទុកពេលសម្រាកខ្លីឱ្យជាពេលសម្រាក ដោយមិនបន្ថែមគោលដៅកែលម្អខ្លួនមួយទៀត។"
       },
-      "luckyNumber": 8,
-      "bestDay": "monday",
+      "luckyNumber": 9,
+      "bestDay": "thursday",
       "scores": {
         "love": 77,
-        "career": 88,
+        "career": 89,
         "money": 82,
-        "health": 78,
-        "luck": 76
+        "health": 85,
+        "luck": 79
       }
     },
     {
       "sign": "libra",
       "en": {
-        "summary": "A balanced week may begin with one clear preference. Say what matters to you early, make room for another perspective midweek, and reserve the weekend for choices you genuinely enjoy.",
-        "love": "Agreement is not the only sign of closeness. A kind difference of opinion can reveal more about each other than another automatic yes.",
-        "career": "Give a discussion a clear decision point. Summarizing the options fairly can help a group move forward without reopening every detail.",
-        "money": "Social plans sometimes hide different assumptions about spending. Naming those expectations can make an invitation feel more comfortable for everyone.",
-        "health": "Pay attention to the difference between pleasant company and an overcrowded schedule. An evening with fewer arrangements may offer its own kind of balance."
+        "summary": "A decision may feel lighter when you name the real priority behind it. You can consider other views without giving every preference equal weight.",
+        "love": "A shared choice can become easier when both people state what matters most. Keep the conversation about this decision rather than reopening every old difference.",
+        "career": "Partnerships work best with clear roles. Confirm who owns the next step, and let a polite boundary prevent small tasks from drifting onto one person.",
+        "money": "Aesthetic appeal can be part of a good choice, alongside usefulness. Compare options with both in mind and give yourself a stopping point.",
+        "health": "A pleasant setting can support reflection. Spend a little time somewhere that helps you feel settled, even if the week has been socially full."
       },
       "kh": {
-        "summary": "សប្តាហ៍ដែលមានតុល្យភាពអាចចាប់ផ្តើមពីការបញ្ជាក់ជម្រើសរបស់ខ្លួនមួយឱ្យច្បាស់។ ប្រាប់អ្វីដែលសំខាន់សម្រាប់អ្នកនៅដើមសប្តាហ៍ ស្តាប់ទស្សនៈផ្សេងនៅពាក់កណ្តាលសប្តាហ៍ ហើយទុកចុងសប្តាហ៍សម្រាប់អ្វីដែលអ្នកចូលចិត្តពិតៗ។",
-        "love": "ការយល់ស្របមិនមែនជាសញ្ញាតែមួយនៃភាពស្និទ្ធស្នាលទេ។ ការមិនយល់ស្របដោយសុភាពអាចជួយឱ្យស្គាល់គ្នាច្បាស់ជាងការឆ្លើយយល់ព្រមគ្រប់រឿង។",
-        "career": "កំណត់ចំណុចដែលត្រូវសម្រេចឱ្យច្បាស់ក្នុងការពិភាក្សា។ ការសង្ខេបជម្រើសដោយយុត្តិធម៌អាចជួយក្រុមឱ្យបន្តទៅមុខ ដោយមិនត្រឡប់មកជជែកគ្រប់ចំណុចឡើងវិញ។",
-        "money": "គម្រោងជួបជុំអាចមានការគិតខុសគ្នាអំពីចំណាយ។ ការនិយាយពីរឿងនេះឱ្យច្បាស់ អាចធ្វើឱ្យមនុស្សគ្រប់គ្នាទទួលការអញ្ជើញដោយស្រួលចិត្ត។",
-        "health": "សង្កេតភាពខុសគ្នារវាងការនៅជាមួយមនុស្សដែលធ្វើឱ្យសប្បាយចិត្ត និងកាលវិភាគដែលពេញពេក។ ល្ងាចដែលមានគម្រោងតិចក៏អាចផ្តល់តុល្យភាពបានដែរ។"
+        "summary": "ការសម្រេចចិត្តអាចមានភាពស្រាលចិត្ត ពេលអ្នកប្រាប់ខ្លួនឯងថាអ្វីជាអាទិភាពពិត។ អ្នកអាចពិចារណាទស្សនៈផ្សេងៗ ដោយមិនចាំបាច់ឱ្យចំណង់ចំណូលចិត្តទាំងអស់មានទម្ងន់ស្មើគ្នា។",
+        "love": "ការជ្រើសរើសរួមកាន់តែងាយ ពេលមនុស្សទាំងពីរប្រាប់ថាអ្វីសំខាន់បំផុតសម្រាប់ខ្លួន។ ផ្តោតលើការសម្រេចចិត្តនេះ មិនបាច់លើកភាពខុសគ្នាចាស់ៗទាំងអស់មកវិញទេ។",
+        "career": "ភាពជាដៃគូដំណើរការល្អ ពេលតួនាទីច្បាស់។ បញ្ជាក់ថានរណាទទួលខុសត្រូវជំហានបន្ទាប់ ហើយដាក់ព្រំដែនសមរម្យ ដើម្បីកុំឱ្យការងារតូចៗធ្លាក់លើមនុស្សតែម្នាក់។",
+        "money": "សម្រស់អាចជាផ្នែកមួយនៃជម្រើសល្អ រួមជាមួយនឹងប្រយោជន៍។ ប្រៀបធៀបជម្រើសដោយគិតពីទាំងពីរ ហើយកំណត់ពេលឈប់ស្វែងរក។",
+        "health": "បរិយាកាសរីករាយអាចជួយឱ្យអ្នកពិចារណាបានល្អ។ ចំណាយពេលបន្តិចនៅកន្លែងដែលធ្វើឱ្យចិត្តស្ងប់ ទោះសប្តាហ៍នេះអ្នកបានជួបមនុស្សច្រើនក៏ដោយ។"
       },
-      "luckyNumber": 26,
-      "bestDay": "friday",
+      "luckyNumber": 31,
+      "bestDay": "saturday",
       "scores": {
-        "love": 84,
+        "love": 85,
         "career": 80,
-        "money": 76,
-        "health": 83,
-        "luck": 79
+        "money": 78,
+        "health": 76,
+        "luck": 82
       }
     },
     {
       "sign": "scorpio",
       "en": {
-        "summary": "Depth is useful this week when it leads to understanding rather than endless analysis. Name one unresolved question early, explore it patiently, and let the weekend hold something lighter.",
-        "love": "Trust benefits from clear words more than hidden tests. Share one concern directly and allow the other person time to respond in their own way.",
-        "career": "A focused review can uncover a missing assumption. Bring evidence to the conversation and leave space for someone else to improve your interpretation.",
-        "money": "Privacy and clarity can coexist in money conversations. Consider which shared details need agreement and which personal preferences simply need respect.",
-        "health": "Not every quiet moment needs to become a time for thinking things through. A simple enjoyable activity can give your attention a different place to rest."
+        "summary": "A private concern may become easier once you put it into plain words for yourself. Choose a trusted moment to discuss only the part that needs attention now.",
+        "love": "Trust grows through small consistent actions. Say what you can offer clearly, and allow the other person to respond without testing their intentions.",
+        "career": "Focused research can uncover a useful detail, but know what question you are trying to answer. A concise summary will make your work easier to share.",
+        "money": "A strong feeling about a purchase may pass after a little time. Give important choices a pause so your decision reflects more than the mood of one afternoon.",
+        "health": "Protect some time for a restorative activity that does not demand explanation. A walk, a book, or quiet music can offer space to reset."
       },
       "kh": {
-        "summary": "ការគិតឱ្យជ្រៅមានប្រយោជន៍ក្នុងសប្តាហ៍នេះ បើវានាំទៅរកការយល់ច្បាស់ មិនមែនការវិភាគគ្មានទីបញ្ចប់។ កំណត់សំណួរមួយដែលមិនទាន់ដោះស្រាយ ស្វែងយល់ដោយអត់ធ្មត់ ហើយទុកចុងសប្តាហ៍សម្រាប់អ្វីស្រាលៗ។",
-        "love": "ការទុកចិត្តត្រូវការពាក្យច្បាស់លាស់ ជាងការសាកចិត្តដោយមិនប្រាប់។ និយាយពីក្តីបារម្ភមួយដោយត្រង់ៗ ហើយទុកពេលឱ្យគេឆ្លើយតាមរបៀបរបស់គេ។",
-        "career": "ការពិនិត្យដោយផ្តោតអារម្មណ៍អាចបង្ហាញចំណុចដែលធ្លាប់សន្មតខុស។ យកភស្តុតាងមកពិភាក្សា ហើយបើកចិត្តឱ្យអ្នកដទៃជួយកែលម្អការយល់ឃើញរបស់អ្នក។",
-        "money": "ភាពឯកជន និងភាពច្បាស់លាស់អាចនៅជាមួយគ្នាបានក្នុងការជជែកពីលុយ។ គិតមើលថាព័ត៌មានរួមណាត្រូវយល់ព្រមគ្នា និងចំណូលចិត្តផ្ទាល់ខ្លួនណាគ្រាន់តែត្រូវការការគោរព។",
-        "health": "មិនមែនគ្រប់ពេលស្ងាត់សុទ្ធតែត្រូវយកមកគិតដោះស្រាយរឿងទេ។ សកម្មភាពសាមញ្ញដែលអ្នកចូលចិត្ត អាចផ្តល់កន្លែងថ្មីឱ្យអារម្មណ៍បានសម្រាក។"
+        "summary": "កង្វល់ដែលអ្នករក្សាទុកក្នុងចិត្តអាចងាយយល់ជាងមុន ពេលអ្នកសរសេរវាជាពាក្យសាមញ្ញសម្រាប់ខ្លួនឯង។ ជ្រើសពេលដែលទុកចិត្តបាន ដើម្បីនិយាយតែផ្នែកដែលត្រូវយកចិត្តទុកដាក់ឥឡូវនេះ។",
+        "love": "ភាពទុកចិត្តកើនឡើងតាមរយៈសកម្មភាពតូចៗដែលធ្វើជាប្រចាំ។ ប្រាប់ឱ្យច្បាស់ថាអ្នកអាចជួយអ្វីបាន ហើយទុកឱ្យអ្នកដទៃឆ្លើយដោយមិនសាកល្បងចិត្តពួកគេ។",
+        "career": "ការស្រាវជ្រាវផ្តោតអារម្មណ៍អាចរកឃើញព័ត៌មានមានប្រយោជន៍ ប៉ុន្តែត្រូវដឹងថាអ្នកកំពុងស្វែងរកចម្លើយសំណួរអ្វី។ សេចក្តីសង្ខេបខ្លីនឹងធ្វើឱ្យងាយចែករំលែក។",
+        "money": "អារម្មណ៍ខ្លាំងចំពោះការទិញមួយអាចស្រកទៅក្រោយពេលខ្លះ។ ទុកចន្លោះមុនសម្រេចចិត្តសំខាន់ ដើម្បីឱ្យជម្រើសឆ្លុះបញ្ចាំងលើសពីអារម្មណ៍តែមួយរសៀល។",
+        "health": "ការពារពេលខ្លះសម្រាប់សកម្មភាពសម្រាកចិត្តដែលមិនចាំបាច់ពន្យល់ដល់នរណា។ ការដើរ សៀវភៅ ឬតន្ត្រីស្ងប់ៗអាចជួយឱ្យអ្នកចាប់ផ្តើមឡើងវិញ។"
       },
-      "luckyNumber": 14,
-      "bestDay": "wednesday",
+      "luckyNumber": 54,
+      "bestDay": "tuesday",
       "scores": {
         "love": 81,
-        "career": 85,
-        "money": 78,
-        "health": 77,
-        "luck": 82
+        "career": 87,
+        "money": 73,
+        "health": 80,
+        "luck": 84
       }
     },
     {
       "sign": "sagittarius",
       "en": {
-        "summary": "Give your enthusiasm a destination this week. Choose an experience you can actually make time for, handle its practical details midweek, and keep room for discovery at the weekend.",
-        "love": "A shared adventure can be small and close to home. Ask what would feel enjoyable to both of you rather than assuming a bigger plan is better.",
-        "career": "An ambitious idea becomes more inviting when others can see the first step. Translate the broad vision into a manageable experiment and a useful question.",
-        "money": "Anticipation can make optional extras seem essential. Notice which part of a planned experience matters most to you before comparing all the additions.",
-        "health": "A change of scenery may be welcome, but a full itinerary is not required. Leave enough open time to enjoy where you are without rushing onward."
+        "summary": "Curiosity may lead you toward an appealing new plan. Before committing the whole week, test one small part and see whether the experience matches the idea.",
+        "love": "Shared laughter can ease a serious week. Stay attentive to when the other person wants lightness and when they would rather be heard carefully.",
+        "career": "A broad vision can motivate people, but a reachable milestone helps them begin. Describe the first step and leave room to revise the route.",
+        "money": "Travel or outings can bring incidental costs. Keep the plan flexible and decide which experiences are worth prioritizing to you.",
+        "health": "A change in routine may feel refreshing. Let one unstructured stretch of time remain open instead of filling every gap with another destination."
       },
       "kh": {
-        "summary": "សប្តាហ៍នេះ ឱ្យភាពរំភើបរបស់អ្នកមានគោលដៅច្បាស់។ ជ្រើសបទពិសោធន៍ដែលអ្នកពិតជាមានពេលធ្វើ រៀបចំព័ត៌មានចាំបាច់នៅពាក់កណ្តាលសប្តាហ៍ ហើយទុកចុងសប្តាហ៍សម្រាប់ការស្វែងយល់ថ្មីៗ។",
-        "love": "បទពិសោធន៍រួមគ្នាអាចតូច និងនៅជិតផ្ទះក៏បាន។ សួរថាអ្វីធ្វើឱ្យអ្នកទាំងពីរសប្បាយចិត្ត ជាជាងសន្មតថាគម្រោងធំតែងតែល្អជាង។",
-        "career": "គំនិតធំមួយកាន់តែងាយឱ្យអ្នកដទៃចូលរួម ពេលគេមើលឃើញជំហានដំបូង។ ប្រែក្លាយគោលដៅទូលំទូលាយទៅជាការសាកល្បងដែលអាចធ្វើបាន និងសំណួរមានប្រយោជន៍មួយ។",
-        "money": "ការទន្ទឹងរង់ចាំអាចធ្វើឱ្យរបស់បន្ថែមមើលទៅចាំបាច់។ សង្កេតថាផ្នែកណានៃបទពិសោធន៍ដែលគ្រោងទុកមានន័យបំផុតសម្រាប់អ្នក មុនប្រៀបធៀបរបស់បន្ថែមទាំងអស់។",
-        "health": "ការប្តូរបរិយាកាសអាចផ្តល់ភាពរីករាយ ប៉ុន្តែមិនចាំបាច់មានកាលវិភាគពេញទេ។ ទុកពេលទំនេរដើម្បីរីករាយនឹងកន្លែងដែលអ្នកនៅ ដោយមិនប្រញាប់ទៅកន្លែងបន្ទាប់។"
+        "summary": "ចម្ងល់អាចនាំអ្នកទៅរកគម្រោងថ្មីដែលគួរឱ្យចាប់អារម្មណ៍។ មុនប្តេជ្ញាពេញមួយសប្តាហ៍ សាកល្បងផ្នែកតូចមួយសិន ហើយមើលថាបទពិសោធន៍ពិតសមនឹងគំនិតដែរឬទេ។",
+        "love": "ការសើចសប្បាយជាមួយគ្នាអាចបន្ធូរសប្តាហ៍ដែលតានតឹង។ យកចិត្តទុកដាក់ថាពេលណាមនុស្សម្នាក់ទៀតចង់សើចលេង និងពេលណាគេចង់ឱ្យអ្នកស្តាប់យ៉ាងម៉ត់ចត់។",
+        "career": "ទស្សនៈទូលំទូលាយអាចជំរុញទឹកចិត្តមនុស្ស ប៉ុន្តែជំហានតូចដែលអាចធ្វើបានជួយឱ្យចាប់ផ្តើម។ ពន្យល់ជំហានដំបូង ហើយទុកកន្លែងសម្រាប់កែទិសដៅតាមក្រោយ។",
+        "money": "ការធ្វើដំណើរ ឬចេញក្រៅអាចមានចំណាយបន្ថែម។ រក្សាផែនការឱ្យបត់បែនបាន ហើយជ្រើសរើសបទពិសោធន៍ដែលមានតម្លៃសម្រាប់អ្នក។",
+        "health": "ការប្តូរទម្លាប់អាចធ្វើឱ្យមានអារម្មណ៍ស្រស់ស្រាយ។ ទុកពេលមួយកំណាត់ដោយគ្មានគម្រោងឱ្យនៅទំនេរ ជាជាងបំពេញចន្លោះទាំងអស់ដោយគោលដៅថ្មី។"
       },
-      "luckyNumber": 3,
-      "bestDay": "saturday",
+      "luckyNumber": 63,
+      "bestDay": "thursday",
       "scores": {
-        "love": 82,
-        "career": 81,
-        "money": 69,
-        "health": 80,
-        "luck": 86
+        "love": 83,
+        "career": 86,
+        "money": 77,
+        "health": 75,
+        "luck": 88
       }
     },
     {
       "sign": "capricorn",
       "en": {
-        "summary": "This week asks you to distinguish progress from carrying more. Revisit one commitment early, share responsibility where possible, and let the weekend include satisfaction with what is already complete.",
-        "love": "Practical support feels warmer when accompanied by a few personal words. Let someone know that time together matters beyond the tasks you manage.",
-        "career": "A realistic sequence can do more than a demanding deadline. Clarify dependencies and give a colleague the information needed to work independently.",
-        "money": "Long-term priorities deserve attention without making every small pleasure feel wasteful. Reflect on what enough means for this stage of your life.",
-        "health": "Being dependable does not require being available every moment. A clear end to the working day can make personal time feel more like your own."
+        "summary": "A long-term goal becomes easier to carry when its next step is modest and visible. Mark what is already complete before adding more to the list.",
+        "love": "Support does not always mean taking charge. Ask whether a loved one wants company, a practical hand, or simply time to talk.",
+        "career": "Your reliability helps a project move forward. Share progress early, especially where another person's contribution is needed to avoid a last-minute scramble.",
+        "money": "A plan for future expenses may be more useful than a perfect forecast. Make a simple note of upcoming commitments and revisit it when circumstances change.",
+        "health": "A routine with a clear stopping point can protect your personal time. Decide when today's work is enough, then let the remaining tasks wait."
       },
       "kh": {
-        "summary": "សប្តាហ៍នេះ បែងចែកការរីកចម្រើនពីការទទួលបន្ទុកកាន់តែច្រើន។ ពិនិត្យការសន្យាមួយនៅដើមសប្តាហ៍ ចែករំលែកការទទួលខុសត្រូវតាមដែលអាចធ្វើបាន ហើយរីករាយនឹងអ្វីដែលបានបញ្ចប់នៅចុងសប្តាហ៍។",
-        "love": "ជំនួយជាក់ស្តែងមានភាពកក់ក្តៅជាងមុន ពេលមានពាក្យពីចិត្តភ្ជាប់មកជាមួយ។ ប្រាប់គេថាពេលនៅជាមួយគ្នាមានន័យ លើសពីកិច្ចការដែលអ្នកជួយរៀបចំ។",
-        "career": "លំដាប់ការងារដែលសមហេតុផលអាចមានប្រយោជន៍ជាងថ្ងៃកំណត់តឹងរ៉ឹង។ បញ្ជាក់ថាការងារណាត្រូវរង់ចាំការងារណា ហើយផ្តល់ព័ត៌មានគ្រប់គ្រាន់ឱ្យមិត្តរួមការងារធ្វើដោយខ្លួនឯង។",
-        "money": "អាទិភាពរយៈពេលវែងគួរទទួលការយកចិត្តទុកដាក់ ដោយមិនធ្វើឱ្យក្តីរីករាយតូចៗគ្រប់យ៉ាងមើលទៅខ្ជះខ្ជាយ។ គិតមើលថា ពាក្យថាគ្រប់គ្រាន់មានន័យអ្វីសម្រាប់ដំណាក់កាលជីវិតនេះ។",
-        "health": "ការជាមនុស្សដែលគេទុកចិត្ត មិនមានន័យថាត្រូវនៅទំនេរឱ្យគេគ្រប់ពេលទេ។ ការបញ្ចប់ថ្ងៃធ្វើការឱ្យច្បាស់ អាចជួយឱ្យពេលផ្ទាល់ខ្លួនក្លាយជារបស់អ្នកពិតៗ។"
+        "summary": "គោលដៅរយៈពេលវែងងាយស្រួលបន្តទៅមុខ ពេលជំហានបន្ទាប់តូចនិងមើលឃើញច្បាស់។ កត់សម្គាល់អ្វីដែលបានបញ្ចប់រួច មុនបន្ថែមការងារថ្មីទៅក្នុងបញ្ជី។",
+        "love": "ការគាំទ្រមិនមែនតែងតែមានន័យថាត្រូវចាត់ចែងគ្រប់យ៉ាងទេ។ សួរមនុស្សជាទីស្រឡាញ់ថាគេចង់បានការនៅក្បែរ ជំនួយជាក់ស្តែង ឬពេលនិយាយគ្នាសិន។",
+        "career": "ភាពអាចទុកចិត្តបានរបស់អ្នកជួយឱ្យគម្រោងទៅមុខ។ ចែករំលែកវឌ្ឍនភាពឱ្យបានមុន ជាពិសេសកន្លែងដែលត្រូវការចំណែកអ្នកដទៃ ដើម្បីជៀសវាងភាពប្រញាប់ចុងក្រោយ។",
+        "money": "ផែនការចំណាយនាពេលខាងមុខអាចមានប្រយោជន៍ជាងការព្យាករណ៍ឱ្យល្អឥតខ្ចោះ។ កត់ចំណាំការប្តេជ្ញាចិត្តដែលជិតមកដល់ ហើយពិនិត្យឡើងវិញពេលស្ថានភាពផ្លាស់ប្តូរ។",
+        "health": "ទម្លាប់ដែលមានពេលបញ្ចប់ច្បាស់អាចការពារពេលផ្ទាល់ខ្លួនរបស់អ្នក។ សម្រេចថាការងារថ្ងៃនេះគ្រប់គ្រាន់នៅពេលណា ហើយទុកការងារដែលនៅសល់ចាំសិន។"
       },
-      "luckyNumber": 22,
-      "bestDay": "thursday",
+      "luckyNumber": 8,
+      "bestDay": "friday",
       "scores": {
-        "love": 76,
-        "career": 87,
-        "money": 84,
-        "health": 79,
-        "luck": 75
+        "love": 78,
+        "career": 91,
+        "money": 80,
+        "health": 83,
+        "luck": 74
       }
     },
     {
       "sign": "aquarius",
       "en": {
-        "summary": "Your week centers on useful originality. Start with a familiar problem, invite an unexpected perspective midweek, and see which idea still feels meaningful when the initial excitement settles.",
-        "love": "Connection grows when curiosity includes feelings as well as ideas. Ask how an experience affected someone, not only what happened.",
-        "career": "A new approach needs a bridge to the current routine. Explain who it helps and try it on a small scale before asking everyone to change.",
-        "money": "Novelty can be appealing even when its practical value is unclear. Give a new service or gadget some thought beyond the excitement of discovering it.",
-        "health": "Time away from group conversations may help you hear your own preferences. A quiet personal activity can complement, rather than compete with, your social life."
+        "summary": "An unconventional idea may gain support when connected to a familiar need. Ask someone affected by the problem what would make a small trial genuinely useful.",
+        "love": "Friendship can deepen through a conversation that moves beyond updates. Share one thing you have changed your mind about and invite the same honesty in return.",
+        "career": "A team may welcome a fresh process if the transition is understandable. Explain what stays the same as well as what changes, and gather feedback after a first attempt.",
+        "money": "Digital tools can make spending feel invisible. Review recent app or online purchases and notice whether they fit the priorities you set for yourself.",
+        "health": "Time alone can help sort your own preferences from the noise of a busy group. Choose a low-pressure activity that does not require a screen or a schedule."
       },
       "kh": {
-        "summary": "សប្តាហ៍នេះ ផ្តោតលើគំនិតថ្មីដែលមានប្រយោជន៍។ ចាប់ផ្តើមពីបញ្ហាដែលធ្លាប់ជួប ស្តាប់ទស្សនៈប្លែកនៅពាក់កណ្តាលសប្តាហ៍ ហើយពិនិត្យថាគំនិតណានៅតែមានន័យ ពេលភាពរំភើបដំបូងស្ងប់ទៅ។",
-        "love": "ភាពស្និទ្ធស្នាលកើនឡើង ពេលការចង់ដឹងរបស់អ្នករួមបញ្ចូលអារម្មណ៍ផង។ សួរថាបទពិសោធន៍នោះធ្វើឱ្យគេមានអារម្មណ៍យ៉ាងណា មិនមែនសួរតែថាមានអ្វីកើតឡើងទេ។",
-        "career": "វិធីថ្មីត្រូវការការភ្ជាប់ទៅនឹងទម្លាប់បច្ចុប្បន្ន។ ពន្យល់ថាវាជួយនរណា ហើយសាកក្នុងទំហំតូចសិន មុនសុំឱ្យមនុស្សគ្រប់គ្នាប្តូរ។",
-        "money": "របស់ថ្មីអាចទាក់ទាញ ទោះប្រយោជន៍របស់វាមិនទាន់ច្បាស់ក៏ដោយ។ ទុកពេលគិតពីសេវា ឬឧបករណ៍ថ្មី លើសពីអារម្មណ៍រំភើបពេលទើបស្គាល់វា។",
-        "health": "ពេលឃ្លាតពីការជជែកជាក្រុមអាចជួយឱ្យអ្នកស្តាប់ចំណង់ចំណូលចិត្តរបស់ខ្លួន។ សកម្មភាពស្ងប់ៗផ្ទាល់ខ្លួនអាចបំពេញជីវិតសង្គមរបស់អ្នក មិនចាំបាច់ប្រកួតជាមួយវាទេ។"
+        "summary": "គំនិតមិនធម្មតាអាចទទួលបានការគាំទ្រ ពេលភ្ជាប់វាទៅនឹងតម្រូវការដែលមនុស្សស្គាល់។ សួរអ្នកដែលជួបបញ្ហានោះថាការសាកល្បងតូចបែបណាទើបមានប្រយោជន៍ពិត។",
+        "love": "មិត្តភាពកាន់តែស្និទ្ធតាមការសន្ទនាដែលលើសពីការប្រាប់ព័ត៌មានប្រចាំថ្ងៃ។ ចែករំលែករឿងមួយដែលអ្នកបានប្តូរចិត្ត ហើយអញ្ជើញឱ្យគេបើកចំហដូចគ្នា។",
+        "career": "ក្រុមអាចទទួលយកដំណើរការថ្មី បើការផ្លាស់ប្តូរងាយយល់។ ពន្យល់ទាំងអ្វីដែលនៅដដែល និងអ្វីដែលប្តូរ ហើយប្រមូលយោបល់ក្រោយសាកល្បងលើកដំបូង។",
+        "money": "ឧបករណ៍ឌីជីថលអាចធ្វើឱ្យចំណាយមើលមិនសូវឃើញ។ ពិនិត្យការទិញតាមកម្មវិធី ឬអនឡាញថ្មីៗ ហើយមើលថាវាសមនឹងអាទិភាពដែលអ្នកបានកំណត់ឬទេ។",
+        "health": "ពេលនៅម្នាក់ឯងអាចជួយបំបែកចំណង់ចំណូលចិត្តផ្ទាល់ខ្លួនពីសំឡេងរំខានក្នុងក្រុមដែលរវល់។ ជ្រើសសកម្មភាពស្រាលមួយដែលមិនត្រូវការអេក្រង់ឬកាលវិភាគ។"
       },
-      "luckyNumber": 11,
-      "bestDay": "tuesday",
+      "luckyNumber": 19,
+      "bestDay": "wednesday",
       "scores": {
-        "love": 79,
-        "career": 89,
-        "money": 73,
-        "health": 78,
-        "luck": 84
+        "love": 80,
+        "career": 88,
+        "money": 76,
+        "health": 72,
+        "luck": 85
       }
     },
     {
       "sign": "pisces",
       "en": {
-        "summary": "Let imagination meet a gentle structure this week. Capture a promising thought early, give it a small practical form midweek, and leave the weekend open for reflection rather than judgment.",
-        "love": "Kindness is strongest when your own wishes are included. Share a preference plainly instead of hoping someone will sense it without being told.",
-        "career": "An intuitive impression becomes easier to discuss with a concrete example. Show a draft, image, or short outline so others can respond to what you mean.",
-        "money": "Generosity can feel good without needing to prove affection. Reflect on whether a gesture expresses your wishes freely or answers an expectation you have not discussed.",
-        "health": "Emotional space matters alongside a busy schedule. Music, a quiet hobby, or a few unplanned moments may offer a welcome pause from other people's demands."
+        "summary": "A creative thought may arrive indirectly, through a conversation or a familiar scene. Write it down, then choose one practical way to explore it before the week ends.",
+        "love": "Gentleness is easier to sustain when you state your limits clearly. A kind, simple answer can protect both your energy and the relationship.",
+        "career": "An imaginative contribution can help a project, especially when paired with a concrete example. Show a rough version and invite a response before polishing it.",
+        "money": "When several options seem equally appealing, return to the reason you began looking. A clear purpose can keep browsing from becoming an endless search.",
+        "health": "A quiet sensory pause may help you feel present again. Notice a favorite sound, texture, or view without needing to turn it into a larger plan."
       },
       "kh": {
-        "summary": "សប្តាហ៍នេះ ឱ្យការស្រមៃមានការរៀបចំស្រាលៗជួយគាំទ្រ។ កត់គំនិតល្អមួយនៅដើមសប្តាហ៍ ប្រែក្លាយវាទៅជាអ្វីតូចមួយនៅពាក់កណ្តាលសប្តាហ៍ ហើយទុកចុងសប្តាហ៍សម្រាប់ពិចារណា ដោយមិនវាយតម្លៃខ្លួនឯងតឹងរ៉ឹង។",
-        "love": "ភាពសប្បុរសកាន់តែមានន័យ ពេលបញ្ចូលបំណងរបស់អ្នកផង។ ប្រាប់អ្វីដែលអ្នកចូលចិត្តឱ្យច្បាស់ ជាជាងសង្ឃឹមថាគេនឹងដឹងដោយមិនចាំបាច់ប្រាប់។",
-        "career": "អារម្មណ៍ដែលអ្នកយល់ឃើញដោយខ្លួនឯង អាចពិភាក្សាបានងាយជាងមុន បើមានឧទាហរណ៍ជាក់ស្តែង។ បង្ហាញសេចក្តីព្រាង រូបភាព ឬគ្រោងខ្លី ដើម្បីឱ្យអ្នកដទៃយល់ពីអ្វីដែលអ្នកចង់និយាយ។",
-        "money": "ការផ្តល់អាចនាំក្តីរីករាយ ដោយមិនចាំបាច់ប្រើវាបញ្ជាក់ក្តីស្រឡាញ់ទេ។ គិតមើលថាកាយវិការនោះចេញពីបំណងរបស់អ្នក ឬពីការរំពឹងទុកដែលមិនទាន់បាននិយាយគ្នា។",
-        "health": "ពេលទំនេរសម្រាប់អារម្មណ៍មានសារៈសំខាន់ ទោះកាលវិភាគរវល់ក៏ដោយ។ តន្ត្រី ចំណូលចិត្តស្ងប់ៗ ឬពេលមួយភ្លែតដែលគ្មានគម្រោង អាចផ្តល់ការសម្រាកពីតម្រូវការរបស់អ្នកដទៃ។"
+        "summary": "គំនិតច្នៃប្រឌិតអាចមកដោយប្រយោល តាមរយៈការសន្ទនា ឬទិដ្ឋភាពដែលធ្លាប់ស្គាល់។ កត់វាទុក រួចជ្រើសវិធីជាក់ស្តែងមួយដើម្បីសាកស្វែងយល់ មុនចប់សប្តាហ៍។",
+        "love": "ភាពទន់ភ្លន់ងាយរក្សាបាន ពេលអ្នកប្រាប់ព្រំដែនរបស់ខ្លួនឱ្យច្បាស់។ ចម្លើយសប្បុរសនិងសាមញ្ញអាចការពារទាំងកម្លាំងរបស់អ្នក និងទំនាក់ទំនងផង។",
+        "career": "ការចូលរួមប្រកបដោយការស្រមៃអាចជួយគម្រោង ជាពិសេសពេលមានឧទាហរណ៍ជាក់ស្តែងភ្ជាប់មកជាមួយ។ បង្ហាញកំណែសាកល្បង ហើយសុំយោបល់មុនកែលម្អឱ្យល្អឥតខ្ចោះ។",
+        "money": "ពេលជម្រើសជាច្រើនមើលទៅទាក់ទាញស្មើគ្នា សូមត្រឡប់ទៅគិតពីមូលហេតុដែលអ្នកចាប់ផ្តើមស្វែងរក។ គោលបំណងច្បាស់អាចជួយកុំឱ្យការរកមើលគ្មានទីបញ្ចប់។",
+        "health": "ការស្ងប់ស្ងាត់និងសង្កេតអារម្មណ៍តាមវិញ្ញាណអាចជួយឱ្យអ្នកត្រឡប់មកនៅជាមួយពេលបច្ចុប្បន្ន។ ស្តាប់សំឡេងដែលចូលចិត្ត សម្គាល់វាយនភាព ឬមើលទេសភាព ដោយមិនចាំបាច់ធ្វើផែនការធំ។"
       },
       "luckyNumber": 7,
-      "bestDay": "sunday",
+      "bestDay": "saturday",
       "scores": {
         "love": 87,
-        "career": 78,
-        "money": 75,
-        "health": 84,
-        "luck": 80
+        "career": 79,
+        "money": 77,
+        "health": 85,
+        "luck": 81
       }
     }
   ]
